@@ -53,6 +53,7 @@ A curated list of awesome R packages that offer extended UI or server components
     - [URL Routing](#url-routing)
     - [Authentication](#authentication)
     - [Job Scheduling](#job-scheduling)
+    - [Web APIs Integration](#web-apis-integration)
     - [Notification Integration](#notification-integration)
     - [Cloud Integration](#cloud-integration)
     - [G Suite Integration](#g-suite-integration)
@@ -311,6 +312,11 @@ A curated list of awesome R packages that offer extended UI or server components
 ### Job Scheduling
 
 - [cronR](https://github.com/bnosac/cronR) - R package for managing cron jobs.
+
+### Web APIs Integration
+
+- [geoloc](https://github.com/ColinFay/geoloc) - Use the Geolocation API to get the location of the user (with user's permission).
+- [shinyStore](https://github.com/trestletech/shinyStore) - Use the Web Storage API to store persistent, synchronized data in the user's browser.
 
 ### Notification Integration
 
