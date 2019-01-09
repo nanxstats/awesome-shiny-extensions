@@ -323,6 +323,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [slackr](https://github.com/hrbrmstr/slackr) - Send messages, images, R objects, and files to Slack channels/users.
 - [sendgridr](https://github.com/mrchypark/sendgridr) - Send emails with SendGrid mail API (v3).
 - [twilio](https://github.com/seankross/twilio) - R interface to the Twilio API.
+- [blastula](https://github.com/rich-iannone/blastula) - Easily send HTML email messages from R.
 
 ### Cloud Integration
 
