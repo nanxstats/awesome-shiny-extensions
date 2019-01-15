@@ -346,7 +346,8 @@ A curated list of awesome R packages that offer extended UI or server components
 
 ### Desktop Deploy
 
-- [RInno](https://github.com/ficonsulting/RInno) - Deploy Shiny apps to desktop environments by interfacing Inno Setup or Electron.
+- [RInno](https://github.com/ficonsulting/RInno) - Deploy Shiny apps to Windows by interfacing Inno Setup and Electron.
+- [Shiny Meets Electron](https://github.com/ksasso/useR_electron_meet_shiny) - Talk at useR! 2018 on turning Shiny app into standalone desktop apps. [Talk video](https://www.youtube.com/watch?v=ARrbbviGvjc).
 - [nativefier](https://github.com/jiahaog/nativefier) - Create Electron wrappers for any websites (including remotely deployed Shiny apps).
 
 ## Developer Tools
