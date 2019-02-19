@@ -126,6 +126,7 @@ A curated list of awesome R packages that offer extended UI or server components
 
 - [shinycssloaders](https://github.com/andrewsali/shinycssloaders) - CSS loader animations for Shiny outputs.
 - [shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Custom css/html or gif/image loaders for Shiny outputs.
+- [shinybusy](https://github.com/dreamRs/shinybusy) - Minimal busy indicator for Shiny apps.
 
 ### Feedback / Alert / Notification
 
