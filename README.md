@@ -34,6 +34,7 @@ A curated list of awesome R packages that offer extended UI or server components
     - [Icon Font](#icon-font)
     - [Code Diff](#code-diff)
     - [i18n](#i18n)
+    - [React](#react)
     - [Advanced Interactivity](#advanced-interactivity)
   - [Visualization](#visualization)
     - [General-Purpose](#general-purpose)
@@ -92,6 +93,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [semantic.dashboard](https://github.com/Appsilon/semantic.dashboard) - Semantic UI for Shiny dashboards.
 - [bs4Dash](https://github.com/DivadNojnarg/bs4Dash) - Bootstrap 4 Shiny dashboards using AdminLTE 3.
 - [argonDash](https://github.com/RinteRface/argonDash) - Bootstrap 4 Argon template for Shiny dashboards.
+- [tablerDash](https://github.com/RinteRface/tablerDash) - Tabler dashboard template for Shiny with Bootstrap 4.
 
 ### Mobile Theming
 
@@ -127,6 +129,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [shinycssloaders](https://github.com/andrewsali/shinycssloaders) - CSS loader animations for Shiny outputs.
 - [shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Custom css/html or gif/image loaders for Shiny outputs.
 - [shinybusy](https://github.com/dreamRs/shinybusy) - Minimal busy indicator for Shiny apps.
+- [waiter](https://github.com/JohnCoene/waiter) - Splash loading screens for Shiny.
 
 ### Feedback / Alert / Notification
 
@@ -187,6 +190,11 @@ A curated list of awesome R packages that offer extended UI or server components
 ### i18n
 
 - [shiny.i18n](https://github.com/Appsilon/shiny.i18n) - Easy internationalization of Shiny apps.
+
+### React
+
+- [reactR](https://github.com/react-R/reactR) - Use React in R with htmlwidget constructor templates and local JavaScript dependencies.
+- [shinyReactWidgets](https://github.com/pvictor/shinyReactWidgets) - React widgets for Shiny apps.
 
 ### Advanced Interactivity
 
