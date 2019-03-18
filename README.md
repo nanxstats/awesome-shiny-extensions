@@ -7,7 +7,7 @@ A curated list of awesome R packages that offer extended UI or server components
 <hr>
 
 - Inspired by: [awesome-react-components](https://github.com/brillout/awesome-react-components) and [awesome-rshiny](https://github.com/grabear/awesome-rshiny).
-- Please send pull requests: [contributing guide](https://github.com/road2stat/awesome-shiny-extensions/blob/master/CONTRIBUTING.md) and [code of conduct](https://github.com/road2stat/awesome-shiny-extensions/blob/master/CODE-OF-CONDUCT.md).
+- Please send pull requests: [contributing guide](https://github.com/nanxstats/awesome-shiny-extensions/blob/master/CONTRIBUTING.md) and [code of conduct](https://github.com/nanxstats/awesome-shiny-extensions/blob/master/CODE-OF-CONDUCT.md).
 - A special thanks to all the package authors for making the world a better place!
 
 <hr>
