@@ -37,6 +37,7 @@ A curated list of awesome R packages that offer extended UI or server components
     - [Animation Effects](#animation-effects)
     - [i18n](#i18n)
     - [React](#react)
+    - [Vue.js](#vuejs)
     - [Advanced Interactivity](#advanced-interactivity)
   - [Visualization](#visualization)
     - [General-Purpose](#general-purpose)
@@ -207,6 +208,10 @@ A curated list of awesome R packages that offer extended UI or server components
 
 - [reactR](https://github.com/react-R/reactR) - Use React in R with htmlwidget constructor templates and local JavaScript dependencies.
 - [shinyReactWidgets](https://github.com/pvictor/shinyReactWidgets) - React widgets for Shiny apps.
+
+### Vue.js
+
+- [vueR](https://github.com/timelyportfolio/vueR) - Use Vue.js in R with htmlwidget constructor templates and local JavaScript dependencies.
 
 ### Advanced Interactivity
 
