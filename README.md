@@ -28,11 +28,13 @@ A curated list of awesome R packages that offer extended UI or server components
     - [Color Picker](#color-picker)
     - [Editor](#editor)
     - [Table](#table)
+    - [Drawers](#drawers)
     - [Drag and Drop](#drag-and-drop)
     - [Image / Audio / Video](#image--audio--video)
     - [PDF](#pdf)
     - [Icon Font](#icon-font)
     - [Code Diff](#code-diff)
+    - [Animation Effects](#animation-effects)
     - [i18n](#i18n)
     - [React](#react)
     - [Advanced Interactivity](#advanced-interactivity)
@@ -164,6 +166,10 @@ A curated list of awesome R packages that offer extended UI or server components
 - [formattable](https://github.com/renkun-ken/formattable) - Table elements formatting and styling for R Markdown documents and Shiny apps.
 - [gt](https://github.com/rstudio/gt) - Generate information-rich, publication-quality tables.
 
+### Drawers
+
+- [pushbar](https://github.com/JohnCoene/pushbar) - pushbar.js for Shiny. Create off-canvas sliding drawers for inputs, outputs, or any other content.
+
 ### Drag and Drop
 
 - [shinyDND](https://github.com/ayayron/shinydnd) - Create drag and drop elements in Shiny.
@@ -186,6 +192,12 @@ A curated list of awesome R packages that offer extended UI or server components
 
 - [diffr](https://github.com/muschellij2/diffr) - Create code diff widgets based on codediff.js.
 - [diffRgit](https://github.com/abossi/diffRgit) - Create an HTML git diff widget using the diff2html library.
+
+### Animation Effects
+
+- [typed](https://github.com/JohnCoene/typed) - R htmlwidget for animated typing effect with typed.js.
+- [countup](https://github.com/JohnCoene/countup) - R htmlwidget that animates a numerical value by counting to it with CountUp.js.
+- [textillate](https://github.com/JohnCoene/textillate) - CSS3 text animations with textillate.js.
 
 ### i18n
 
@@ -274,6 +286,7 @@ A curated list of awesome R packages that offer extended UI or server components
 ### Sparkline
 
 - [sparkline](https://github.com/htmlwidgets/sparkline) - jQuery Sparkline (tiny inline charts) HTML Widget for R. [Use sparklines in DT](https://leonawicz.github.io/HtmlWidgetExamples/ex_dt_sparkline.html).
+- [reactrend](https://github.com/JohnCoene/reactrend) - Simple, elegant spark lines and trend graphs based on react-trend.
 
 ### Word Cloud
 
@@ -337,6 +350,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [sendgridr](https://github.com/mrchypark/sendgridr) - Send emails with SendGrid mail API (v3).
 - [twilio](https://github.com/seankross/twilio) - R interface to the Twilio API.
 - [blastula](https://github.com/rich-iannone/blastula) - Easily send HTML email messages from R.
+- [mjml](https://github.com/JohnCoene/mjml) - Create responsive emails with R and MJML.
 
 ### Cloud Integration
 
