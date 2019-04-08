@@ -1,3 +1,10 @@
+<p align="center">
+  <br>
+  <img width="240" src="logo.png" alt="awesome-shiny-extensions logo">
+  <br>
+  <br>
+</p>
+
 # Awesome Shiny Extensions
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
