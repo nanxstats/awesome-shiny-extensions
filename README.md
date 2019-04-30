@@ -170,9 +170,11 @@ A curated list of awesome R packages that offer extended UI or server components
 ### Table
 
 - [DT](https://github.com/rstudio/DT) - R interface to the DataTables library.
-- [rhandsontable](https://github.com/jrowen/rhandsontable) - Create Excel-like editable tables in Shiny apps.
+- [kableExtra](https://github.com/haozhu233/kableExtra) - Construct complex table with `knitr::kable()` and pipes.
 - [formattable](https://github.com/renkun-ken/formattable) - Table elements formatting and styling for R Markdown documents and Shiny apps.
 - [gt](https://github.com/rstudio/gt) - Generate information-rich, publication-quality tables.
+- [rhandsontable](https://github.com/jrowen/rhandsontable) - Create Excel-like editable tables in Shiny apps.
+- [DTedit](https://github.com/jbryer/DTedit) - Editable DataTables for Shiny apps.
 
 ### Drawers
 
