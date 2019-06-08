@@ -208,6 +208,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [typed](https://github.com/JohnCoene/typed) - R htmlwidget for animated typing effect with typed.js.
 - [countup](https://github.com/JohnCoene/countup) - R htmlwidget that animates a numerical value by counting to it with CountUp.js.
 - [textillate](https://github.com/JohnCoene/textillate) - CSS3 text animations with textillate.js.
+- [shinyglide](https://github.com/juba/shinyglide) - Create carousel-like or assistant-like (wizard) UI components with Glide.js.
 
 ### i18n
 
