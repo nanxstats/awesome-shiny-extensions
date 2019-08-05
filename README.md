@@ -261,7 +261,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [D3partitionR](https://github.com/AntoineGuillot2/D3partitionR) - D3-based interactive visualization of nested and hierarchical data (sunburst, treemap, circle treemap, icicle, and partition chart) for Shiny.
 - [d3Tree](https://github.com/metrumresearchgroup/d3Tree) - D3-based collapsible trees for Shiny.
 - [collapsibleTree](https://github.com/AdeelK93/collapsibleTree) - D3-based interactive collapsible tree diagrams.
-- [shinyTree](https://github.com/tdanker/shinyTree) - jsTree bindings for creating interactive trees in Shiny.
+- [shinyTree](https://github.com/shinyTree/shinyTree) - jsTree bindings for creating interactive trees in Shiny.
 - [listviewer](https://github.com/timelyportfolio/listviewer) - View and modify lists interactively, based on jsoneditor and react-json-view.
 - [trelliscopejs](https://github.com/hafen/trelliscopejs/) - Create interactive Trelliscope displays based on trelliscopejs-lib.
 
