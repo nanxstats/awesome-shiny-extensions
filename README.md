@@ -414,6 +414,10 @@ A curated list of awesome R packages that offer extended UI or server components
 
 - [promises](https://github.com/rstudio/promises) - Promise-based asynchronous programming for R. [Using promises with Shiny](https://rstudio.github.io/promises/articles/shiny.html).
 
+### Analyzing
+
+- [supreme](https://github.com/strboul/supreme) - Structure Shiny applications developed with modules.
+
 ## Miscellaneous
 
 *Not necessarily an R package, but it helps.*
