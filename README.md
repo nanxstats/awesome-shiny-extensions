@@ -76,6 +76,7 @@ A curated list of awesome R packages that offer extended UI or server components
     - [Testing](#testing)
     - [Profiling](#profiling)
     - [Scaling](#scaling)
+    - [Analysis](#analysis)
   - [Miscellaneous](#miscellaneous)
     - [UI Customization](#ui-customization)
     - [Dependency Resolution](#dependency-resolution)
@@ -414,7 +415,7 @@ A curated list of awesome R packages that offer extended UI or server components
 
 - [promises](https://github.com/rstudio/promises) - Promise-based asynchronous programming for R. [Using promises with Shiny](https://rstudio.github.io/promises/articles/shiny.html).
 
-### Analyzing
+### Analysis
 
 - [supreme](https://github.com/strboul/supreme) - Structure Shiny applications developed with modules.
 
