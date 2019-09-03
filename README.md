@@ -176,6 +176,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [gt](https://github.com/rstudio/gt) - Generate information-rich, publication-quality tables.
 - [rhandsontable](https://github.com/jrowen/rhandsontable) - Create Excel-like editable tables in Shiny apps.
 - [DTedit](https://github.com/jbryer/DTedit) - Editable DataTables for Shiny apps.
+- [texPreview](https://github.com/metrumresearchgroup/texPreview) - Preview and save images of rendered snippets of LaTeX in RStudio viewer, rmarkdown and shiny
 
 ### Drawers
 
@@ -231,6 +232,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [shinyjs](https://github.com/daattali/shinyjs) - Perform common JavaScript operations in Shiny apps.
 - [shinyjqui](https://github.com/Yang-Tang/shinyjqui) - Add jQuery UI interactions and effects (e.g. draggable, resizable, sortable elements) to Shiny apps.
 - [shiny.collections](https://github.com/Appsilon/shiny.collections) - Google Docs-like live collaboration in Shiny with RethinkDB.
+- [shinyCanvas](https://github.com/metrumresearchgroup/shinyCanvas) - Create and customize an interactive canvas using the 'D3' JavaScript library and the 'htmlwidgets' package.
 
 ## Visualization
 
@@ -262,6 +264,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [D3partitionR](https://github.com/AntoineGuillot2/D3partitionR) - D3-based interactive visualization of nested and hierarchical data (sunburst, treemap, circle treemap, icicle, and partition chart) for Shiny.
 - [d3Tree](https://github.com/metrumresearchgroup/d3Tree) - D3-based collapsible trees for Shiny.
 - [collapsibleTree](https://github.com/AdeelK93/collapsibleTree) - D3-based interactive collapsible tree diagrams.
+- [jsTree](https://github.com/metrumresearchgroup/jsTree) - R htmlwidget for inspecting heirachal structures with the ‘jQuery’ ‘jsTree’ Plugin.
 - [shinyTree](https://github.com/shinyTree/shinyTree) - jsTree bindings for creating interactive trees in Shiny.
 - [listviewer](https://github.com/timelyportfolio/listviewer) - View and modify lists interactively, based on jsoneditor and react-json-view.
 - [trelliscopejs](https://github.com/hafen/trelliscopejs/) - Create interactive Trelliscope displays based on trelliscopejs-lib.
