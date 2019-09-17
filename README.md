@@ -252,6 +252,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [scatterD3](https://github.com/juba/scatterD3) - R scatterplot htmlwidget based on D3.js.
 - [pairsD3](https://github.com/garthtarr/pairsD3) - D3 scatterplot matrices.
 - [rthreejs](https://github.com/bwlewis/rthreejs) - Interactive 3D scatterplots, networks, and globes based on three.js.
+- [hpackedbubble](https://github.com/czxa/hpackedbubble) - Split packed bubble charts with highcharts.
 
 ### Time Series
 
@@ -268,6 +269,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [shinyTree](https://github.com/shinyTree/shinyTree) - jsTree bindings for creating interactive trees in Shiny.
 - [listviewer](https://github.com/timelyportfolio/listviewer) - View and modify lists interactively, based on jsoneditor and react-json-view.
 - [trelliscopejs](https://github.com/hafen/trelliscopejs/) - Create interactive Trelliscope displays based on trelliscopejs-lib.
+- [gwordtree](https://github.com/czxa/gwordtree) - Render a word tree with Google Charts.
 
 ### Network and Graph Data
 
@@ -286,6 +288,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [heatmaply](https://github.com/talgalili/heatmaply/) - Interactive heatmaps using plotly.
 - [rChartsCalmap](https://github.com/ramnathv/rChartsCalmap) - An htmlwidgets binding for calendar heatmaps using D3.
 - [calheatmapR](https://github.com/durtal/calheatmapR) -  R interface for the cal-heatmap JavaScript charting library to create calendar heatmaps.
+- [nivowaffle](https://github.com/czxa/nivowaffle) - HTML widget for drawing waffle diagrams based on nivo.
 
 ### Maps and Spatial Data
 
@@ -301,6 +304,8 @@ A curated list of awesome R packages that offer extended UI or server components
 - [mapview](https://github.com/r-spatial/mapview) - Interactive viewing of spatial data.
 - [mapedit](https://github.com/r-spatial/mapedit) - Interactive editing of spatial data.
 - [tmap](https://github.com/mtennekes/tmap) - Create thematic maps, such as choropleths and bubble maps.
+- [hchinamap](https://github.com/czxa/hchinamap) - Mapping China and its provinces with highcharts.
+- [mapbrew](https://github.com/czxa/mapbrew) - Mapping China with amCharts.
 
 ### Sparkline
 
@@ -310,6 +315,7 @@ A curated list of awesome R packages that offer extended UI or server components
 ### Word Cloud
 
 - [wordcloud2](https://github.com/lchiffon/wordcloud2) - Word cloud visualization based on wordcloud2.js.
+- [hwordcloud](https://github.com/czxa/hwordcloud) - Render word clouds with highcharts.
 
 ### Biological Data
 
