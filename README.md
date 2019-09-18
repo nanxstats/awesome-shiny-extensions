@@ -177,6 +177,8 @@ A curated list of awesome R packages that offer extended UI or server components
 - [rhandsontable](https://github.com/jrowen/rhandsontable) - Create Excel-like editable tables in Shiny apps.
 - [DTedit](https://github.com/jbryer/DTedit) - Editable DataTables for Shiny apps.
 - [texPreview](https://github.com/metrumresearchgroup/texPreview) - Preview and save images of rendered snippets of LaTeX in RStudio viewer, R Markdown and Shiny.
+- [basictabler](https://github.com/cbailiss/basictabler) - Construct rich tables for output to HTML/Excel.
+- [pivottabler](https://github.com/cbailiss/pivottabler) - Create pivot tables in R.
 
 ### Drawers
 
@@ -191,6 +193,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [shinysense](https://github.com/nstrayer/shinysense) - A series of shiny modules to help Shiny sense the world around it (draw, swipe cards, record images from a webcam, record audio, capture accelerometer data).
 - [pixels](https://github.com/javierluraschi/pixels) - htmlwidget and Shiny Gadget to render and draw pixels.
 - [vembedr](https://github.com/ijlyttle/vembedr) - Embed videos in R Markdown documents and Shiny apps.
+- [webcamR](https://github.com/ginberg/webcamR) - htmlwidget wrapper around the react-webcam library.
 
 ### PDF
 
@@ -211,6 +214,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [countup](https://github.com/JohnCoene/countup) - R htmlwidget that animates a numerical value by counting to it with CountUp.js.
 - [textillate](https://github.com/JohnCoene/textillate) - CSS3 text animations with textillate.js.
 - [shinyglide](https://github.com/juba/shinyglide) - Create carousel-like or assistant-like (wizard) UI components with Glide.js.
+- [d3rain](https://github.com/daranzolin/d3rain) - htmlwidget bringing D3 drip to R.
 
 ### i18n
 
@@ -246,6 +250,12 @@ A curated list of awesome R packages that offer extended UI or server components
 - [echarts4r](https://github.com/JohnCoene/echarts4r) - Interactive graphs with Echarts v4.
 - [r2d3](https://github.com/rstudio/r2d3) - R interface to D3 visualizations.
 - [vegalite](https://github.com/hrbrmstr/vegalite) - R ggplot2 bindings for Vega-Lite.
+- [vegawidget](https://github.com/vegawidget/vegawidget) - htmlwidget renderer for Vega and Vega-Lite.
+- [ggiraph](https://github.com/davidgohel/ggiraph) - htmlwidget that makes ggplot2 graphics interactive. Select graphical elements, add tooltips, animations, and JavaScript actions to the graphics.
+- [rfrappe](https://github.com/merlinoa/rfrappe) - htmlwidget for the Frappe Charts JavaScript library.
+- [tuichartr](https://github.com/dreamRs/tuichartr) - htmlwidget for tui-chart.
+- [billboarder](https://github.com/dreamRs/billboarder) - htmlwidget for billboard.js.
+- [apexcharter](https://github.com/dreamRs/apexcharter) - htmlwidget for ApexCharts.js.
 
 ### Scatterplot
 
@@ -259,6 +269,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [dygraphs](https://github.com/rstudio/dygraphs) - R interface to the dygraphs JavaScript charting library.
 - [metricsgraphics](https://github.com/hrbrmstr/metricsgraphics) - An htmlwidget interface to the MetricsGraphics.js D3-based charting library.
 - [timevis](https://github.com/daattali/timevis) - Interactive timeline visualizations based on vis.js.
+- [timelineschart](https://github.com/dreamRs/timelineschart) - R interface to timelines-chart.
 
 ### Tree and Hierarchical Data
 
@@ -281,6 +292,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [edgebundleR](https://github.com/garthtarr/edgebundleR) - Circular layout plots with bundled edges based on D3.
 - [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization based on viz.js.
 - [hiveD3](https://github.com/nielsenmarkus11/hiveD3) - D3-based hive plots. [Tutorial](https://www.nielsenmark.us/2018/01/02/creating-a-custom-htmlwidget/) for recreating the package.
+- [arcDiagramR](https://github.com/hepplerj/arcDiagramR) - Create arc diagrams with htmlwidgets.
 
 ### Heatmap
 
@@ -288,7 +300,8 @@ A curated list of awesome R packages that offer extended UI or server components
 - [heatmaply](https://github.com/talgalili/heatmaply/) - Interactive heatmaps using plotly.
 - [rChartsCalmap](https://github.com/ramnathv/rChartsCalmap) - An htmlwidgets binding for calendar heatmaps using D3.
 - [calheatmapR](https://github.com/durtal/calheatmapR) -  R interface for the cal-heatmap JavaScript charting library to create calendar heatmaps.
-- [nivowaffle](https://github.com/czxa/nivowaffle) - HTML widget for drawing waffle diagrams based on nivo.
+- [nivocal](https://github.com/react-R/nivocal) - htmlwidget for drawing calendar heatmaps based on nivo.
+- [nivowaffle](https://github.com/czxa/nivowaffle) - htmlwidget for drawing waffle diagrams based on nivo.
 
 ### Maps and Spatial Data
 
@@ -304,6 +317,8 @@ A curated list of awesome R packages that offer extended UI or server components
 - [mapview](https://github.com/r-spatial/mapview) - Interactive viewing of spatial data.
 - [mapedit](https://github.com/r-spatial/mapedit) - Interactive editing of spatial data.
 - [tmap](https://github.com/mtennekes/tmap) - Create thematic maps, such as choropleths and bubble maps.
+- [datamaps](https://github.com/JohnCoene/datamaps) - Create interactive choropleth maps with the JavaScript library Datamaps, add arcs and bubbles, change choropleth values, and change labels.
+- [topogram](https://github.com/dreamRs/topogram) - Cartogram htmlwidget for visualizing geographical data by distorting a TopoJSON topology using cartogram-chart.
 - [hchinamap](https://github.com/czxa/hchinamap) - Mapping China and its provinces with highcharts.
 - [mapbrew](https://github.com/czxa/mapbrew) - Mapping China with amCharts.
 
@@ -316,6 +331,7 @@ A curated list of awesome R packages that offer extended UI or server components
 
 - [wordcloud2](https://github.com/lchiffon/wordcloud2) - Word cloud visualization based on wordcloud2.js.
 - [hwordcloud](https://github.com/czxa/hwordcloud) - Render word clouds with highcharts.
+- [d3wordcloud](https://github.com/jbkunst/d3wordcloud) - htmlwidget for D3.js word cloud layout.
 
 ### Biological Data
 
@@ -324,6 +340,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [g3viz](https://github.com/G3js/lollipopR) - D3-based interactive lollipop plots.
 - [BioCircos.R](https://github.com/lvulliard/BioCircos.R) - Interactive circular visualization of genomic data using htmlwidgets and BioCircos.js.
 - [chromoMap](https://github.com/cran/chromoMap) - Interactive visualization and mapping of human chromosomes.
+- [ideogRam](https://github.com/freestatman/ideogRam) - htmlwidget for chromosome visualization with ideogram.js.
 - [flowDashboard](https://github.com/laderast/flowDashboard) - Shiny Modules for visualizing flow cytometry data.
 - [qtlcharts](https://github.com/kbroman/qtlcharts) - Interactive graphics for QTL experiments.
 - [phylocanvas](https://github.com/zachcp/phylocanvas) - Interactive phylogenetic trees using the Phylocanvas JavaScript library.
