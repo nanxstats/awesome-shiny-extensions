@@ -227,6 +227,7 @@ A curated list of awesome R packages that offer extended UI or server components
 
 ### Vue.js
 
+- [vuer](https://github.com/ramnathv/vuer) - Use Vue components and build Vue apps in R.
 - [vueR](https://github.com/timelyportfolio/vueR) - Use Vue.js in R with htmlwidget constructor templates and local JavaScript dependencies.
 
 ### Advanced Interactivity
