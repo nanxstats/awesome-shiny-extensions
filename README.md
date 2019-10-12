@@ -162,6 +162,7 @@ A curated list of awesome R packages that offer extended UI or server components
 
 - [colourpicker](https://github.com/daattali/colourpicker) - A colour picker tool for Shiny.
 - [gradientPickerD3](https://github.com/peikert/gradientPickerD3) - Interactive color gradient picker based on jquery-gradient-picker.
+- [gradientInput](https://github.com/daattali/shiny-colour-gradient-input) - Another approach at gradient colour picker, implemented using the `colourpicker` package.
 
 ### Editor
 
