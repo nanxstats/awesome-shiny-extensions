@@ -72,6 +72,7 @@ A curated list of awesome R packages that offer extended UI or server components
     - [Cloud Deploy](#cloud-deploy)
     - [Desktop Deploy](#desktop-deploy)
   - [Developer Tools](#developer-tools)
+    - [Prototyping](#prototyping)
     - [Debugging](#debugging)
     - [Testing](#testing)
     - [Profiling](#profiling)
@@ -423,6 +424,13 @@ A curated list of awesome R packages that offer extended UI or server components
 ## Developer Tools
 
 *Debug, test, and optimize Shiny apps.*
+
+### Prototyping
+
+- [golem](https://github.com/ThinkR-open/golem) - Opinionated framework for building production-grade Shiny apps.
+- [shinipsum](https://github.com/ThinkR-open/shinipsum) - Lorem-Ipsum-like helpers for fast Shiny prototyping.
+- [fakir](https://github.com/ThinkR-open/fakir) - Create fake data in R for tutorials.
+- [shinysnippets](https://github.com/ThinkR-open/shinysnippets) - A series of Shiny related RStudio snippets.
 
 ### Debugging
 
