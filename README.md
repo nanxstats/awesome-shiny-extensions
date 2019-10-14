@@ -352,6 +352,9 @@ A curated list of awesome R packages that offer extended UI or server components
 ### WebGL
 
 - [rgl](https://github.com/cran/rgl) - Render WebGL scenes created with the rgl package ([vignette](https://cran.r-project.org/web/packages/rgl/vignettes/WebGL.html)).
+- [rayshader](https://github.com/tylermorganwall/rayshader) - Create and visualize hillshaded maps from elevation matrices.
+- [rayrender](https://github.com/tylermorganwall/rayrender) - Build and raytrace 3D scenes.
+- [rayfocus](https://github.com/tylermorganwall/rayfocus) - Render depth of field for images.
 
 ### Augmented and Virtual Reality
 
