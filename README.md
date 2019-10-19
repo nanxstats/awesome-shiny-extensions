@@ -181,7 +181,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [texPreview](https://github.com/metrumresearchgroup/texPreview) - Preview and save images of rendered snippets of LaTeX in RStudio viewer, R Markdown and Shiny.
 - [basictabler](https://github.com/cbailiss/basictabler) - Construct rich tables for output to HTML/Excel.
 - [pivottabler](https://github.com/cbailiss/pivottabler) - Create pivot tables in R.
-- [excelR](https://github.com/Swechhya/excelR) - An Interface to 'jExcel.js' Library.
+- [excelR](https://github.com/Swechhya/excelR) - R interface to the jExcel.js library.
 
 ### Drawers
 
