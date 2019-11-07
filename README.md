@@ -390,6 +390,7 @@ A curated list of awesome R packages that offer extended UI or server components
 
 ### Web APIs Integration
 
+- [glouton](https://github.com/ColinFay/glouton) - Handle browser cookies in shiny, built on top of js-cookie.
 - [geoloc](https://github.com/ColinFay/geoloc) - Use the Geolocation API to get the location of the user (with user's permission).
 - [shinyStore](https://github.com/trestletech/shinyStore) - Use the Web Storage API to store persistent, synchronized data in the user's browser.
 
@@ -446,6 +447,7 @@ A curated list of awesome R packages that offer extended UI or server components
 
 - [shinytest](https://github.com/rstudio/shinytest) - Automated testing for Shiny apps.
 - [shinyloadtest](https://github.com/rstudio/shinyloadtest) - Load testing for Shiny apps.
+- [reactor](https://github.com/yonicd/reactor) - Unit testing for Shiny reactivity.
 
 ### Profiling
 
