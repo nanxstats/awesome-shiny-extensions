@@ -297,6 +297,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization based on viz.js.
 - [hiveD3](https://github.com/nielsenmarkus11/hiveD3) - D3-based hive plots. [Tutorial](https://www.nielsenmark.us/2018/01/02/creating-a-custom-htmlwidget/) for recreating the package.
 - [arcDiagramR](https://github.com/hepplerj/arcDiagramR) - Create arc diagrams with htmlwidgets.
+- [grapher](https://github.com/JohnCoene/grapher) - An R integration of ngraph to create 3D and 2D interactive graphs.
 
 ### Heatmap
 
