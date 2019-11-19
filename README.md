@@ -173,6 +173,7 @@ A curated list of awesome R packages that offer extended UI or server components
 ### Table
 
 - [DT](https://github.com/rstudio/DT) - R interface to the DataTables library.
+- [reactable](https://github.com/glin/reactable) - Interactive data tables for R, based on the React Table library and made with reactR.
 - [kableExtra](https://github.com/haozhu233/kableExtra) - Construct complex table with `knitr::kable()` and pipes.
 - [formattable](https://github.com/renkun-ken/formattable) - Table elements formatting and styling for R Markdown documents and Shiny apps.
 - [gt](https://github.com/rstudio/gt) - Generate information-rich, publication-quality tables.
