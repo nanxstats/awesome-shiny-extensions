@@ -153,6 +153,7 @@ A curated list of awesome R packages that offer extended UI or server components
 
 - [rintrojs](https://github.com/carlganz/rintrojs) - Wrapper for Intro.js to create step-by-step introductions and clickable hints.
 - [tippy](https://github.com/JohnCoene/tippy) - Wrapper for Tippy.js to add tooltips to R Markdown documents or Shiny apps.
+- [cicerone](https://github.com/JohnCoene/cicerone) - Create guided tours for Shiny apps using driver.js.
 - [shinyhelper](https://github.com/cwthom/shinyhelper) - Add Markdown help files to Shiny app elements.
 
 ### Clipboard
