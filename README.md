@@ -317,6 +317,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Add and modify small charts on the interactive map created with  the leaflet package.
 - [leaflet.esri](https://github.com/bhaskarvk/leaflet.esri) - ESRI bindings for the leaflet package.
 - [leaflet.opacity](https://github.com/be-marc/leaflet.opacity) - Opacity controls for Leaflet maps.
+- [leaftime](https://github.com/timelyportfolio/leaftime) - Leaflet-timeline plugin for Leaflet to show changing geospatial data over time.
 - [leafletCN](https://github.com/Lchiffon/leafletCN) - China and geojson choropleth maps for Leaflet.
 - [mapdeck](https://github.com/SymbolixAU/mapdeck) - Interactive maps using Mapbox GL and Deck.gl.
 - [h3r](https://github.com/scottmmjackson/h3r) - Uber's H3 geographical indexing library bindings for R.
