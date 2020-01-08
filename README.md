@@ -211,7 +211,7 @@ A curated list of awesome R packages that offer extended UI or server components
 
 ### Image Comparison
 
-- [vdiffr](https://github.com/r-lib/vdiffr) - Visual regression testing and graphical diffing, with toggle, slide and diff widgets for comparing two images.
+- [vdiffr](https://github.com/r-lib/vdiffr) - Visual regression testing and graphical diffing, with toggle, slide, and diff widgets for comparing two images.
 
 ### Code Diff
 
