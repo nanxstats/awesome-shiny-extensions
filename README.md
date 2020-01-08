@@ -40,6 +40,7 @@ A curated list of awesome R packages that offer extended UI or server components
     - [Image / Audio / Video](#image--audio--video)
     - [PDF](#pdf)
     - [Icon Font](#icon-font)
+    - [Image Comparison](#image-comparison)
     - [Code Diff](#code-diff)
     - [Animation Effects](#animation-effects)
     - [i18n](#i18n)
@@ -207,6 +208,10 @@ A curated list of awesome R packages that offer extended UI or server components
 ### Icon Font
 
 - [fontawesome](https://github.com/rstudio/fontawesome) - Insert FontAwesome icons into R Markdown documents and Shiny apps.
+
+### Image Comparison
+
+- [vdiffr](https://github.com/r-lib/vdiffr) - Visual regression testing and graphical diffing, with toggle, slide and diff widgets for comparing two images.
 
 ### Code Diff
 
