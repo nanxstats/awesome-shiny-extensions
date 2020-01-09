@@ -111,7 +111,7 @@ A curated list of awesome R packages that offer extended UI or server components
 ### Mobile Theming
 
 - [miniUI](https://github.com/rstudio/miniUI) - Widgets and layouts for Shiny apps working on small screens. Designed for creating Shiny Gadgets.
-- [shinyF7](https://github.com/RinteRface/shinyF7) - Theming Shiny apps with Framework7, a full featured HTML framework for building iOS & Android apps.
+- [shinyMobile](https://github.com/RinteRface/shinyMobile) - Theming Shiny apps with Framework7, a full featured HTML framework for building iOS & Android apps.
 
 ## UI Components
 
