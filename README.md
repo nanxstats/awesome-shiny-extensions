@@ -389,6 +389,7 @@ A curated list of awesome R packages that offer extended UI or server components
 
 ### Authentication
 
+- [shinymanager](https://github.com/datastorm-open/shinymanager) - Simple and secure authentification mechanism for single Shiny apps.
 - [googleAuthR](https://github.com/MarkEdmondson1234/googleAuthR) - Shiny compatible Google API client for authentication with OAuth2.
 - [auth0](https://github.com/curso-r/auth0) - Authentication in Shiny apps using Auth0.
 - [shinyauthr](https://github.com/PaulC91/shinyauthr) - Server-side authentication using shiny modules.
