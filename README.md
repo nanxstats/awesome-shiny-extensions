@@ -248,6 +248,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [shinyjqui](https://github.com/Yang-Tang/shinyjqui) - Add jQuery UI interactions and effects (e.g. draggable, resizable, sortable elements) to Shiny apps.
 - [shiny.collections](https://github.com/Appsilon/shiny.collections) - Google Docs-like live collaboration in Shiny with RethinkDB.
 - [shinyCanvas](https://github.com/metrumresearchgroup/shinyCanvas) - Create and customize an interactive canvas using the D3 JavaScript library and the htmlwidgets package.
+- [shinyscroll](https://github.com/JohnCoene/shinyscroll) - Scroll to an element in Shiny.
 
 ## Visualization
 
