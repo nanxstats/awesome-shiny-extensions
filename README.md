@@ -74,11 +74,11 @@ A curated list of awesome R packages that offer extended UI or server components
     - [Desktop Deploy](#desktop-deploy)
   - [Developer Tools](#developer-tools)
     - [Prototyping](#prototyping)
+    - [Modularization](#modularization)
     - [Debugging](#debugging)
     - [Testing](#testing)
     - [Profiling](#profiling)
     - [Scaling](#scaling)
-    - [Analysis](#analysis)
   - [Miscellaneous](#miscellaneous)
     - [UI Customization](#ui-customization)
     - [Dependency Resolution](#dependency-resolution)
@@ -450,6 +450,11 @@ A curated list of awesome R packages that offer extended UI or server components
 - [fakir](https://github.com/ThinkR-open/fakir) - Create fake data in R for tutorials.
 - [shinysnippets](https://github.com/ThinkR-open/shinysnippets) - A series of Shiny related RStudio snippets.
 
+### Modularization
+
+- [tidymodules](https://github.com/Novartis/tidymodules) - An object-oriented approach to Shiny modules.
+- [supreme](https://github.com/strboul/supreme) - Structure Shiny applications developed with modules.
+
 ### Debugging
 
 - [shinyreactlog](https://github.com/rstudio/shinyreactlog) - Visual debugger for Shiny reactivity.
@@ -468,10 +473,6 @@ A curated list of awesome R packages that offer extended UI or server components
 ### Scaling
 
 - [promises](https://github.com/rstudio/promises) - Promise-based asynchronous programming for R. [Using promises with Shiny](https://rstudio.github.io/promises/articles/shiny.html).
-
-### Analysis
-
-- [supreme](https://github.com/strboul/supreme) - Structure Shiny applications developed with modules.
 
 ## Miscellaneous
 
