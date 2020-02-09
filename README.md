@@ -143,6 +143,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Custom css/html or gif/image loaders for Shiny outputs.
 - [shinybusy](https://github.com/dreamRs/shinybusy) - Minimal busy indicator for Shiny apps.
 - [waiter](https://github.com/JohnCoene/waiter) - Splash loading screens for Shiny.
+- [sever](https://github.com/JohnCoene/sever) - Customize Shiny's disconnected screen.
 
 ### Feedback / Alert / Notification
 
