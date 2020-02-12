@@ -50,6 +50,7 @@ A curated list of awesome R packages that offer extended UI or server components
   - [Visualization](#visualization)
     - [General-Purpose](#general-purpose)
     - [Scatterplot](#scatterplot)
+    - [Parallel Coordinates](#parallel-coordinates)
     - [Time Series](#time-series)
     - [Tree and Hierarchical Data](#tree-and-hierarchical-data)
     - [Network and Graph Data](#network-and-graph-data)
@@ -278,6 +279,10 @@ A curated list of awesome R packages that offer extended UI or server components
 - [rthreejs](https://github.com/bwlewis/rthreejs) - Interactive 3D scatterplots, networks, and globes based on three.js.
 - [hpackedbubble](https://github.com/czxa/hpackedbubble) - Split packed bubble charts with highcharts.
 
+### Parallel Coordinates
+
+- [parcoords](https://github.com/timelyportfolio/parcoords) - htmlwidget for D3 parallel coordinates chart.
+
 ### Time Series
 
 - [dygraphs](https://github.com/rstudio/dygraphs) - R interface to the dygraphs JavaScript charting library.
@@ -475,6 +480,7 @@ A curated list of awesome R packages that offer extended UI or server components
 ### Scaling
 
 - [promises](https://github.com/rstudio/promises) - Promise-based asynchronous programming for R. [Using promises with Shiny](https://rstudio.github.io/promises/articles/shiny.html).
+- [shinyParallel](https://github.com/jcrodriguez1989/shinyParallel) - Run Shiny applications in a multi-session mode.
 
 ## Miscellaneous
 
