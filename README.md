@@ -438,6 +438,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [googleAuthR](https://github.com/MarkEdmondson1234/googleAuthR) - Shiny compatible Google API client for authentication with OAuth2.
 - [auth0](https://github.com/curso-r/auth0) - Authentication in Shiny apps using Auth0.
 - [shinyauthr](https://github.com/PaulC91/shinyauthr) - Server-side authentication using shiny modules.
+- [firebase](https://github.com/JohnCoene/firebase) - Authenticate Shiny users with Google Firebase.
 
 ### Job Scheduling
 
