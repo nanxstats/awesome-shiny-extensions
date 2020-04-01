@@ -207,6 +207,7 @@ A curated list of awesome R packages that offer extended UI or server components
 
 - [shinysense](https://github.com/nstrayer/shinysense) - A series of shiny modules to help Shiny sense the world around it (draw, swipe cards, record images from a webcam, record audio, capture accelerometer data).
 - [pixels](https://github.com/javierluraschi/pixels) - htmlwidget and Shiny Gadget to render and draw pixels.
+- [heyshiny](https://github.com/jcrodriguez1989/heyshiny) - Speech to text input.
 - [vembedr](https://github.com/ijlyttle/vembedr) - Embed videos in R Markdown documents and Shiny apps.
 - [webcamR](https://github.com/ginberg/webcamR) - htmlwidget wrapper around the react-webcam library.
 - [pianobar](https://github.com/czxa/pianobar) - Create histograms with audible features.
