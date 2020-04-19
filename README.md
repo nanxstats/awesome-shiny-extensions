@@ -24,6 +24,7 @@ A curated list of awesome R packages that offer extended UI or server components
     - [Generic Theming](#generic-theming)
     - [Dashboard Theming](#dashboard-theming)
     - [Mobile Theming](#mobile-theming)
+    - [Theme Customization](#theme-customization)
   - [UI Components](#ui-components)
     - [Bootstrap](#bootstrap)
     - [File Input](#file-input)
@@ -116,6 +117,11 @@ A curated list of awesome R packages that offer extended UI or server components
 
 - [miniUI](https://github.com/rstudio/miniUI) - Widgets and layouts for Shiny apps working on small screens. Designed for creating Shiny Gadgets.
 - [shinyMobile](https://github.com/RinteRface/shinyMobile) - Theming Shiny apps with Framework7, a full featured HTML framework for building iOS & Android apps.
+
+### Theme Customization
+
+- [bootstraplib](https://github.com/rstudio/bootstraplib) - Tools for theming Shiny and R Markdown from R via Bootstrap (3 or 4) Sass.
+- [fresh](https://github.com/dreamRs/fresh) - Create fresh themes for use in shiny & shinydashboard applications and flexdashboard documents.
 
 ## UI Components
 
