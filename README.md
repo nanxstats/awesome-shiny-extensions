@@ -395,6 +395,9 @@ A curated list of awesome R packages that offer extended UI or server components
 
 ### Biological Data
 
+- [igvShiny](https://github.com/paul-shannon/igvShiny) - htmlwidget for igv.js, a JavaScript library for embeddable genomic visualization.
+- [cyjShiny](https://github.com/paul-shannon/cyjShiny) - htmlwidget for Cytoscape.js, a JavaScript library for graph/network visualization. The API is based on RCyjs (and thus RCy3).
+- [nglShiny](https://github.com/paul-shannon/nglShiny) - NGL Viewer as an htmlwidget for molecular visualization.
 - [msaR](https://github.com/zachcp/msaR) - BioJS-based MSA (multiple sequence alignment) viewer.
 - [TnT](https://github.com/Marlin-Na/TnT) - Track-based visulizations based on the TnT JavaScript libraries. Useful for displaying genomic features as a simple genome browser.
 - [mutsneedle](https://github.com/freezecoder/mutsneedle) - Interactive mutation lollipop diagrams.
