@@ -292,6 +292,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [billboarder](https://github.com/dreamRs/billboarder) - htmlwidget for billboard.js.
 - [apexcharter](https://github.com/dreamRs/apexcharter) - htmlwidget for ApexCharts.js.
 - [taucharts](https://github.com/hrbrmstr/taucharts) - htmlwidget for Taucharts.
+- [googleVis](https://github.com/mages/googleVis) - R interface to Google Charts.
 
 ### Scatterplot
 
@@ -340,7 +341,7 @@ A curated list of awesome R packages that offer extended UI or server components
 
 ### Diagrams
 
-- [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Graph and network visualization based on viz.js.
+- [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Diagram, graph, and network visualization based on D3.js, viz.js, and mermaid.js.
 - [nomnoml](https://github.com/javierluraschi/nomnoml) - R interface to nomnoml, a tool for drawing sassy UML diagrams based on syntax with customizable styling.
 - [bpmn](https://github.com/bergant/bpmn) - R interface to the bpmn-js library.
 
