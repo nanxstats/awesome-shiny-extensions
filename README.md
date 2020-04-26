@@ -160,6 +160,7 @@ A curated list of awesome R packages that offer extended UI or server components
 - [shinyFeedback](https://github.com/merlinoa/shinyFeedback) - Display user feedback next to Shiny inputs.
 - [shinyalert](https://github.com/daattali/shinyalert) - Create pretty popup messages (modals) in Shiny apps.
 - [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications for Shiny apps, via toastr.
+- [shinypop](https://github.com/dreamRs/shinypop) - Collection of notifications, confirm dialogs, and alerts for Shiny apps based on noty, notie, push.js, and notiflix.
 
 ### Walkthrough / Tooltip / Help
 
