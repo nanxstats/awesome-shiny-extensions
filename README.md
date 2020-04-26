@@ -11,6 +11,8 @@
 
 A curated list of awesome R packages that offer extended UI or server components for the R web framework [Shiny](https://shiny.rstudio.com/).
 
+Your contribution is welcomed. Please create a pull request or issue to add packages to the list.
+
 <hr>
 
 - Inspired by: [awesome-react-components](https://github.com/brillout/awesome-react-components) and [awesome-rshiny](https://github.com/grabear/awesome-rshiny).
