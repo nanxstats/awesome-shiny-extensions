@@ -494,6 +494,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 ### Desktop Deploy
 
 - [RInno](https://github.com/ficonsulting/RInno) - Deploy Shiny apps to Windows by interfacing Inno Setup and Electron.
+- [photon](https://github.com/ColumbusCollaboratory/photon) - RStudio Add-in to build Shiny apps utilizing the Electron framework.
 - [Shiny Meets Electron](https://github.com/ksasso/useR_electron_meet_shiny) - Talk at useR! 2018 on turning Shiny app into standalone desktop apps. [Talk video](https://www.youtube.com/watch?v=ARrbbviGvjc).
 - [r-shiny-electron](https://github.com/dirkschumacher/r-shiny-electron) - Template for R Shiny and Electron integration.
 - [nativefier](https://github.com/jiahaog/nativefier) - Create Electron wrappers for any websites (including remotely deployed Shiny apps).
