@@ -452,6 +452,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [auth0](https://github.com/curso-r/auth0) - Authentication in Shiny apps using Auth0.
 - [shinyauthr](https://github.com/PaulC91/shinyauthr) - Server-side authentication using shiny modules.
 - [firebase](https://github.com/JohnCoene/firebase) - Authenticate Shiny users with Google Firebase.
+- [otp](https://github.com/randy3k/otp) - One-Time Password generation and verification.
 
 ### Job Scheduling
 
