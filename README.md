@@ -209,6 +209,8 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 - [shinyDND](https://github.com/ayayron/shinydnd) - Create drag and drop elements in Shiny.
 - [sortable](https://github.com/rstudio/sortable) - htmlwidget for SortableJS that enables drag-and-drop behavior and reorderable elements.
+- [dragulaR](https://github.com/zzawadz/dragulaR) - R interface for the dragula JavaScript library for moving around elements in Shiny apps.
+- [dndselectr](https://github.com/serenity-r/dndselectr) - Drag-and-drop Shiny select input.
 - [esquisse](https://github.com/dreamRs/esquisse) - Drag and drop inputs and visual builder for ggplot2.
 
 ### Image / Audio / Video
