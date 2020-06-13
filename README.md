@@ -169,6 +169,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [tippy](https://github.com/JohnCoene/tippy) - Wrapper for Tippy.js to add tooltips to R Markdown documents or Shiny apps.
 - [cicerone](https://github.com/JohnCoene/cicerone) - Create guided tours for Shiny apps using driver.js.
 - [shinyhelper](https://github.com/cwthom/shinyhelper) - Add Markdown help files to Shiny app elements.
+- [scrollrevealR](https://github.com/feddelegrand7/scrollrevealR) - Animate shiny elements when they scroll into view using the scrollrevealjs library.
 
 ### Clipboard
 
