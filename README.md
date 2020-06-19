@@ -475,6 +475,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [twilio](https://github.com/seankross/twilio) - R interface to the Twilio API.
 - [blastula](https://github.com/rich-iannone/blastula) - Easily send HTML email messages from R.
 - [mjml](https://github.com/JohnCoene/mjml) - Create responsive emails with R and MJML.
+- [mailtoR](https://github.com/feddelegrand7/mailtoR) - Creates a friendly user interface for emails sending in Shiny.
 
 ### Cloud Integration
 
