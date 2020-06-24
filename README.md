@@ -123,7 +123,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 - [bootstraplib](https://github.com/rstudio/bootstraplib) - Tools for theming Shiny and R Markdown from R via Bootstrap (3 or 4) Sass.
 - [fresh](https://github.com/dreamRs/fresh) - Create fresh themes for use in shiny & shinydashboard applications and flexdashboard documents.
-- [Rnightly](https://github.com/feddelegrand7/Rnightly) - An R Wrapper of the JavaScript Library Nightly
+- [Rnightly](https://github.com/feddelegrand7/Rnightly) - An R wrapper of the JavaScript library Nightly.
 
 ## UI Components
 
