@@ -258,6 +258,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 ### i18n
 
 - [shiny.i18n](https://github.com/Appsilon/shiny.i18n) - Easy internationalization of Shiny apps.
+- [shi18ny](https://github.com/datasketch/shi18ny) - Tools for shiny apps internationalization.
 
 ### React
 
@@ -458,6 +459,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinyauthr](https://github.com/PaulC91/shinyauthr) - Server-side authentication using shiny modules.
 - [firebase](https://github.com/JohnCoene/firebase) - Authenticate Shiny users with Google Firebase.
 - [otp](https://github.com/randy3k/otp) - One-Time Password generation and verification.
+- [backendlessr](https://gitlab.com/rresults/backendlessr) - R wrapper for Backendless API to manage users.
 
 ### Job Scheduling
 
