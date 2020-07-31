@@ -172,6 +172,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [cicerone](https://github.com/JohnCoene/cicerone) - Create guided tours for Shiny apps using driver.js.
 - [shinyhelper](https://github.com/cwthom/shinyhelper) - Add Markdown help files to Shiny app elements.
 - [scrollrevealR](https://github.com/feddelegrand7/scrollrevealR) - Animate shiny elements when they scroll into view using the scrollrevealjs library.
+- [faq](https://github.com/jienagu/faq) - Accordion-based FAQ component with expand/collapse control.
 
 ### Clipboard
 
