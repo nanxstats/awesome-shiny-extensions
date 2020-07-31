@@ -203,6 +203,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [basictabler](https://github.com/cbailiss/basictabler) - Construct rich tables for output to HTML/Excel.
 - [pivottabler](https://github.com/cbailiss/pivottabler) - Create pivot tables in R.
 - [excelR](https://github.com/Swechhya/excelR) - R interface to the jExcel.js library.
+- [RXSpreadsheet](https://github.com/MichaelHogers/RXSpreadsheet) - R wrapper for the JavaScript canvas spreadsheet library x-spreadsheet.
 
 ### Drawers
 
