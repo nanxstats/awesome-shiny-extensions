@@ -45,6 +45,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
   - [Image Comparison](#image-comparison)
   - [Code Diff](#code-diff)
   - [Calendar](#calendar)
+  - [Notebooks](#notebooks)
   - [Animation Effects](#animation-effects)
   - [i18n](#i18n)
   - [React](#react)
@@ -248,6 +249,10 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 ### Calendar
 
 - [tuicalendr](https://github.com/dreamRs/tuicalendr) - htmlwidget to create interactive calendars with JavaScript library tui-calendar.
+
+### Notebooks
+
+- [robservable](https://github.com/juba/robservable) - [Observable](https://observablehq.com/) notebooks as R htmlwidgets.
 
 ### Animation Effects
 
