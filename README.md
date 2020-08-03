@@ -411,6 +411,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 ### Biological Data
 
+- [igvR](https://github.com/paul-shannon/igvR) - R package providing interactive connections to igv.js running in a web browser.
 - [igvShiny](https://github.com/paul-shannon/igvShiny) - htmlwidget for igv.js, a JavaScript library for embeddable genomic visualization.
 - [cyjShiny](https://github.com/paul-shannon/cyjShiny) - htmlwidget for Cytoscape.js, a JavaScript library for graph/network visualization. The API is based on RCyjs (and thus RCy3).
 - [nglShiny](https://github.com/paul-shannon/nglShiny) - NGL Viewer as an htmlwidget for molecular visualization.
