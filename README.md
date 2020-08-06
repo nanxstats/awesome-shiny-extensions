@@ -210,6 +210,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 ### Drawers
 
 - [pushbar](https://github.com/JohnCoene/pushbar) - pushbar.js for Shiny. Create off-canvas sliding drawers for inputs, outputs, or any other content.
+- [fabricerin](https://github.com/feddelegrand7/fabricerin) - Create Easily Canvas in Shiny and RMarkdown Documents.
 
 ### Drag and Drop
 
