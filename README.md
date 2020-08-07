@@ -308,6 +308,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [apexcharter](https://github.com/dreamRs/apexcharter) - htmlwidget for ApexCharts.js.
 - [taucharts](https://github.com/hrbrmstr/taucharts) - htmlwidget for Taucharts.
 - [googleVis](https://github.com/mages/googleVis) - R interface to Google Charts.
+- [pivta](https://github.com/feddelegrand7/pivta) - an R wrapper for WebDataRocks - an interactive pivot table component for data analysis. 
 
 ### Scatterplot
 
