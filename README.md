@@ -210,7 +210,6 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 ### Drawers
 
 - [pushbar](https://github.com/JohnCoene/pushbar) - pushbar.js for Shiny. Create off-canvas sliding drawers for inputs, outputs, or any other content.
-- [fabricerin](https://github.com/feddelegrand7/fabricerin) - Create Easily Canvas in Shiny and RMarkdown Documents.
 
 ### Drag and Drop
 
@@ -224,6 +223,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 - [shinysense](https://github.com/nstrayer/shinysense) - A series of shiny modules to help Shiny sense the world around it (draw, swipe cards, record images from a webcam, record audio, capture accelerometer data).
 - [pixels](https://github.com/javierluraschi/pixels) - htmlwidget and Shiny Gadget to render and draw pixels.
+- [fabricerin](https://github.com/feddelegrand7/fabricerin) - Create HTML5 canvas in Shiny and R Markdown documents based on Fabric.js.
 - [heyshiny](https://github.com/jcrodriguez1989/heyshiny) - Speech to text input.
 - [vembedr](https://github.com/ijlyttle/vembedr) - Embed videos in R Markdown documents and Shiny apps.
 - [webcamR](https://github.com/ginberg/webcamR) - htmlwidget wrapper around the react-webcam library.
