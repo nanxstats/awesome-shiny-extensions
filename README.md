@@ -174,6 +174,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinyhelper](https://github.com/cwthom/shinyhelper) - Add Markdown help files to Shiny app elements.
 - [scrollrevealR](https://github.com/feddelegrand7/scrollrevealR) - Animate shiny elements when they scroll into view using the scrollrevealjs library.
 - [faq](https://github.com/jienagu/faq) - Accordion-based FAQ component with expand/collapse control.
+- [flashCard](https://github.com/jienagu/flashCard) - htmlwidget for creating flippable flash cards.
 
 ### Clipboard
 
