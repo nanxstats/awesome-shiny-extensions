@@ -311,6 +311,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [apexcharter](https://github.com/dreamRs/apexcharter) - htmlwidget for ApexCharts.js.
 - [taucharts](https://github.com/hrbrmstr/taucharts) - htmlwidget for Taucharts.
 - [googleVis](https://github.com/mages/googleVis) - R interface to Google Charts.
+- [rroughviz](https://github.com/tidyss/rroughviz) - R warpper for roughViz.js, a JavaScript library for creating sketchy/hand-drawn styled charts.
 
 ### Scatterplot
 
