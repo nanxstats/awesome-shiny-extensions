@@ -146,10 +146,13 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 ### Special Input
 
 - [shinyTime](https://github.com/burgerga/shinyTime) - A timeInput widget for Shiny.
+- [shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) -  Datetime pickers for Shiny
 - [shinyCleave](https://github.com/CannaData/shinyCleave) - Customized text inputs (phone number, ZIP code, currency, credit card) based on Cleave.js.
 - [regexSelect](https://github.com/yonicd/regexSelect) - Enable regular expression searches within a Shiny selectize object.
 - [ShinyRatingInput](https://github.com/stefanwilhelm/ShinyRatingInput) - Star rating inputs for Shiny based on bootstrap-rating.
 - [algo](https://github.com/feddelegrand7/algo) - Implements the Algolia Places address search auto completion menu on shiny text inputs.
+- [shinyChakraSlider](https://github.com/stla/shinyChakraSlider) - Combined slider and number input for Shiny.
+- [shinyMultiActionButton](https://github.com/stla/shinyMultiActionButton) - A multi-action button for Shiny.
 
 ### Loader
 
@@ -189,6 +192,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 ### Editor
 
 - [shinyAce](https://github.com/trestletech/shinyAce) - Ace code editor bindings for Shiny.
+- [shinyMonacoEditor](https://github.com/stla/shinyMonacoEditor) - The Monaco Editor in Shiny.
 - [shinyMCE](https://github.com/mul118/shinyMCE) - TinyMCE WYSIWYG editor bindings for Shiny.
 - [sqlquery](https://github.com/dreamRs/sqlquery) - htmlwidget for writing SQL queries with autocompletion for SQL keywords and table/field names.
 
@@ -312,12 +316,14 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [taucharts](https://github.com/hrbrmstr/taucharts) - htmlwidget for Taucharts.
 - [googleVis](https://github.com/mages/googleVis) - R interface to Google Charts.
 - [rroughviz](https://github.com/tidyss/rroughviz) - R warpper for roughViz.js, a JavaScript library for creating sketchy/hand-drawn styled charts.
+- [rAmCharts4](https://github.com/stla/rAmCharts4) - R interface to amCharts 4.
 
 ### Scatterplot
 
 - [scatterD3](https://github.com/juba/scatterD3) - R scatterplot htmlwidget based on D3.js.
 - [pairsD3](https://github.com/garthtarr/pairsD3) - D3 scatterplot matrices.
 - [rthreejs](https://github.com/bwlewis/rthreejs) - Interactive 3D scatterplots, networks, and globes based on three.js.
+- [graph3d](https://github.com/stla/graph3d) - R wrapper of the JavaScript library vis-graph3d.
 - [hpackedbubble](https://github.com/czxa/hpackedbubble) - Split packed bubble charts with highcharts.
 
 ### Parallel Coordinates
@@ -341,6 +347,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [jsTree](https://github.com/metrumresearchgroup/jsTree) - R htmlwidget for inspecting heirachal structures with the jQuery jsTree plugin.
 - [shinyTree](https://github.com/shinyTree/shinyTree) - jsTree bindings for creating interactive trees in Shiny.
 - [jsTreeR](https://github.com/stla/jsTreeR) - A wrapper of the JavaScript library jsTree.
+- [shinyCheckboxTree](https://github.com/stla/shinyCheckboxTree) - Checkbox tree widget for Shiny. Wrapper of the JavaScript library react-checkbox-tree.
 - [listviewer](https://github.com/timelyportfolio/listviewer) - View and modify lists interactively, based on jsoneditor and react-json-view.
 - [trelliscopejs](https://github.com/hafen/trelliscopejs/) - Create interactive Trelliscope displays based on trelliscopejs-lib.
 - [gwordtree](https://github.com/czxa/gwordtree) - Render a word tree with Google Charts.
