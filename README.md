@@ -340,6 +340,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [collapsibleTree](https://github.com/AdeelK93/collapsibleTree) - D3-based interactive collapsible tree diagrams.
 - [jsTree](https://github.com/metrumresearchgroup/jsTree) - R htmlwidget for inspecting heirachal structures with the jQuery jsTree plugin.
 - [shinyTree](https://github.com/shinyTree/shinyTree) - jsTree bindings for creating interactive trees in Shiny.
+- [jsTreeR](https://github.com/stla/jsTreeR) - A wrapper of the JavaScript library jsTree.
 - [listviewer](https://github.com/timelyportfolio/listviewer) - View and modify lists interactively, based on jsoneditor and react-json-view.
 - [trelliscopejs](https://github.com/hafen/trelliscopejs/) - Create interactive Trelliscope displays based on trelliscopejs-lib.
 - [gwordtree](https://github.com/czxa/gwordtree) - Render a word tree with Google Charts.
