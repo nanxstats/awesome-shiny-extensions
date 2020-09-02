@@ -69,6 +69,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
   - [Augmented and Virtual Reality](#augmented-and-virtual-reality)
 - [Backend](#backend)
   - [Database](#database)
+  - [API Frameworks](#api-frameworks)
   - [URL Routing](#url-routing)
   - [Authentication](#authentication)
   - [Job Scheduling](#job-scheduling)
@@ -465,6 +466,12 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [pool](https://github.com/rstudio/pool) - Database connection pooling in R.
 - [elastic](https://github.com/ropensci/elastic) - R client for the Elasticsearch HTTP API.
 - [sergeant](https://github.com/hrbrmstr/sergeant) - Transform and query data with Apache Drill.
+
+### API Frameworks
+
+- [RestRserve](https://github.com/rexyai/RestRserve) - R web API framework for building high-performance and robust microservices and app backends.
+- [plumber](https://github.com/rstudio/plumber/) - Create web APIs by decorating R code with special comments.
+- [opencpu](https://github.com/opencpu/opencpu) - A system for embedded scientific computing and reproducible research with R.
 
 ### URL Routing
 
