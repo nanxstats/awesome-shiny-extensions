@@ -293,8 +293,9 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinyjqui](https://github.com/Yang-Tang/shinyjqui) - Add jQuery UI interactions and effects (e.g. draggable, resizable, sortable elements) to Shiny apps.
 - [shiny.collections](https://github.com/Appsilon/shiny.collections) - Google Docs-like live collaboration in Shiny with RethinkDB.
 - [shinyCanvas](https://github.com/metrumresearchgroup/shinyCanvas) - Create and customize an interactive canvas using the D3 JavaScript library and the htmlwidgets package.
-- [shinyscroll](https://github.com/JohnCoene/shinyscroll) - Scroll to an element in Shiny.
 - [shinymeta](https://github.com/rstudio/shinymeta) - Record and expose Shiny app logic using metaprogramming.
+- [shinyscroll](https://github.com/JohnCoene/shinyscroll) - Scroll to an element in Shiny.
+- [pagemapR](https://github.com/swsoyee/pagemapR) - Create a mini map for Shiny apps and R Markdown documents.
 
 ## Visualization
 
