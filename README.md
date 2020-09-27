@@ -443,6 +443,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 ### Chemical Data
 
+- [r3dmol](https://github.com/swsoyee/r3dmol) - Visualizing molecular data in 3D, based on 3Dmol.js.
 - [chemdoodle](https://github.com/zachcp/chemdoodle) - htmlwidget for visualizing and drawing molecules.
 
 ### WebGL
