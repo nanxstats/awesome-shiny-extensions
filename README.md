@@ -39,6 +39,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
   - [Table](#table)
   - [Drawers](#drawers)
   - [Drag and Drop](#drag-and-drop)
+  - [Text](#text)
   - [Image / Audio / Video](#image--audio--video)
   - [PDF](#pdf)
   - [Icon Font](#icon-font)
@@ -226,6 +227,10 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [dndselectr](https://github.com/serenity-r/dndselectr) - Drag-and-drop Shiny select input.
 - [esquisse](https://github.com/dreamRs/esquisse) - Drag and drop inputs and visual builder for ggplot2.
 
+### Text
+
+- [marker](https://github.com/JohnCoene/marker) - Highlight text in Shiny with markjs.
+
 ### Image / Audio / Video
 
 - [shinysense](https://github.com/nstrayer/shinysense) - A series of shiny modules to help Shiny sense the world around it (draw, swipe cards, record images from a webcam, record audio, capture accelerometer data).
@@ -243,6 +248,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 ### Icon Font
 
 - [fontawesome](https://github.com/rstudio/fontawesome) - Insert FontAwesome icons into R Markdown documents and Shiny apps.
+- [icongram](https://github.com/r4fun/icongram) - Interface to Icongram, easily fetch svg icons with a single function.
 
 ### Image Comparison
 
@@ -269,6 +275,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [textillate](https://github.com/JohnCoene/textillate) - CSS3 text animations with textillate.js.
 - [shinyglide](https://github.com/juba/shinyglide) - Create carousel-like or assistant-like (wizard) UI components with Glide.js.
 - [d3rain](https://github.com/daranzolin/d3rain) - htmlwidget bringing D3 drip to R.
+- [hover](https://github.com/r4fun/hover) - Add animations to Shiny button elements using Hover.css.
 
 ### i18n
 
@@ -296,6 +303,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinymeta](https://github.com/rstudio/shinymeta) - Record and expose Shiny app logic using metaprogramming.
 - [shinyscroll](https://github.com/JohnCoene/shinyscroll) - Scroll to an element in Shiny.
 - [pagemapR](https://github.com/swsoyee/pagemapR) - Create a mini map for Shiny apps and R Markdown documents.
+- [keys](https://github.com/r4fun/keys) - Assign and listen to keyboard shortcuts in Shiny using the Mousetrap Javascript library.
 
 ## Visualization
 
