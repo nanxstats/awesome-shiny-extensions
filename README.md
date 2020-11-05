@@ -91,6 +91,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [Miscellaneous](#miscellaneous)
   - [UI Customization](#ui-customization)
   - [Dependency Resolution](#dependency-resolution)
+  - [Books](#books)
 
 ## Theming
 
@@ -596,3 +597,9 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [packrat](https://github.com/rstudio/packrat) - Parse R package dependencies of Shiny apps with `packrat::appDependencies`.
 - [sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages.
 - [shinyapps-package-dependencies](https://github.com/rstudio/shinyapps-package-dependencies) - A collection of bash scripts that install system dependencies for R packages.
+
+### Books
+
+- [Mastering Shiny: Build Interactive Apps, Reports, and Dashboards Powered by R](https://mastering-shiny.org/)
+- [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
+- [JavaScript for R](https://book.javascript-for-r.com/)
