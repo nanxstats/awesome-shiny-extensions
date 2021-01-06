@@ -156,6 +156,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [algo](https://github.com/feddelegrand7/algo) - Implements the Algolia Places address search auto completion menu on shiny text inputs.
 - [shinyChakraSlider](https://github.com/stla/shinyChakraSlider) - Combined slider and number input for Shiny.
 - [shinyMultiActionButton](https://github.com/stla/shinyMultiActionButton) - A multi-action button for Shiny.
+- [NestedMenu](https://github.com/stla/NestedMenu) - Multi-level dropdown context menu selection input using jQuery contextMenu.
 
 ### Loader
 
@@ -422,7 +423,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 ### Sparkline
 
-- [sparkline](https://github.com/htmlwidgets/sparkline) - jQuery Sparkline (tiny inline charts) HTML Widget for R. [Use sparklines in DT](https://leonawicz.github.io/HtmlWidgetExamples/ex_dt_sparkline.html).
+- [sparkline](https://github.com/htmlwidgets/sparkline) - jQuery Sparkline (tiny inline charts) HTML Widget for R. [Use sparklines in DT](https://github.com/leonawicz/HtmlWidgetExamples).
 - [reactrend](https://github.com/JohnCoene/reactrend) - Simple, elegant spark lines and trend graphs based on react-trend.
 - [peity](https://github.com/JohnCoene/peity) - Peity htmlwidget for R.
 
