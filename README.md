@@ -278,6 +278,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinyglide](https://github.com/juba/shinyglide) - Create carousel-like or assistant-like (wizard) UI components with Glide.js.
 - [d3rain](https://github.com/daranzolin/d3rain) - htmlwidget bringing D3 drip to R.
 - [hover](https://github.com/r4fun/hover) - Add animations to Shiny button elements using Hover.css.
+- [bubblyr](https://github.com/feddelegrand7/bubblyr) - Add animated bubbles to Shiny and R Markdown backgrounds.
 
 ### i18n
 
