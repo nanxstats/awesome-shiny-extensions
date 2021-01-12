@@ -427,6 +427,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [sparkline](https://github.com/htmlwidgets/sparkline) - jQuery Sparkline (tiny inline charts) HTML Widget for R. [Use sparklines in DT](https://github.com/leonawicz/HtmlWidgetExamples).
 - [reactrend](https://github.com/JohnCoene/reactrend) - Simple, elegant spark lines and trend graphs based on react-trend.
 - [peity](https://github.com/JohnCoene/peity) - Peity htmlwidget for R.
+- [dataui](https://github.com/timelyportfolio/dataui) - Interactive visualizations of data-ui based on vx.
 
 ### Word Cloud
 
