@@ -606,3 +606,4 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [Mastering Shiny: Build Interactive Apps, Reports, and Dashboards Powered by R](https://mastering-shiny.org/)
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
 - [JavaScript for R](https://book.javascript-for-r.com/)
+- [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/)
