@@ -405,6 +405,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [leaftime](https://github.com/timelyportfolio/leaftime) - Leaflet-timeline plugin for Leaflet to show changing geospatial data over time.
 - [leafletCN](https://github.com/Lchiffon/leafletCN) - China and geojson choropleth maps for Leaflet.
 - [leafletGeocoderRshiny](https://github.com/mubashirqasim/leafletGeocoderRshiny) - Leaflet + Pelias geocoding for Shiny.
+- [leafdown](https://github.com/hoga-it/leafdown) - Provides drilldown functionality for leaflet choropleths.
 - [mapdeck](https://github.com/SymbolixAU/mapdeck) - Interactive maps using Mapbox GL and Deck.gl.
 - [deckgl](https://github.com/crazycapivara/deckgl) - R Interface to Deck.gl.
 - [r2deck](https://github.com/crazycapivara/r2deck) - R interface to Deck.gl and Mapbox GL visualizations.
