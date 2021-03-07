@@ -163,6 +163,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinycssloaders](https://github.com/andrewsali/shinycssloaders) - CSS loader animations for Shiny outputs.
 - [shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Custom css/html or gif/image loaders for Shiny outputs.
 - [shinybusy](https://github.com/dreamRs/shinybusy) - Minimal busy indicator for Shiny apps.
+- [shinydisconnect](https://github.com/daattali/shinydisconnect) - Show a nice message when a Shiny app disconnects or errors
 - [waiter](https://github.com/JohnCoene/waiter) - Splash loading screens for Shiny.
 - [sever](https://github.com/JohnCoene/sever) - Customize Shiny's disconnected screen.
 
@@ -502,6 +503,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [firebase](https://github.com/JohnCoene/firebase) - Authenticate Shiny users with Google Firebase.
 - [otp](https://github.com/randy3k/otp) - One-Time Password generation and verification.
 - [backendlessr](https://gitlab.com/rresults/backendlessr) - R wrapper for Backendless API to manage users.
+- [shiny-user-management](https://github.com/yanirmor/shiny-user-management) - R Shiny User Management & Authentication
 
 ### Job Scheduling
 
