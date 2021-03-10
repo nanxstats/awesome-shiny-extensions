@@ -140,6 +140,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinyBS](https://github.com/ebailey78/shinyBS) - Bootstrap 3 components for Shiny (alerts, tooltips, popovers, modals, collapsible panels, button upgrades).
 - [slickR](https://github.com/metrumresearchgroup/slickR) - Carousels for Shiny apps using slick.js.
 - [shinyLP](https://github.com/jasdumas/shinyLP) - Bootstrap 3 landing pages for Shiny apps.
+- [spsComps](https://github.com/lz100/spsComps) - Additional Bootstrap 3 custom UI components (gallery, panels, buttons, animation and more) and additional Shiny server components (exception catch, validation, etc.).
 
 ### File Input
 
@@ -242,6 +243,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [vembedr](https://github.com/ijlyttle/vembedr) - Embed videos in R Markdown documents and Shiny apps.
 - [webcamR](https://github.com/ginberg/webcamR) - htmlwidget wrapper around the react-webcam library.
 - [pianobar](https://github.com/czxa/pianobar) - Create histograms with audible features.
+- [drawer](https://github.com/lz100/drawer) - A front-end only image editor for both Shiny and R Markdown. 
 
 ### PDF
 
