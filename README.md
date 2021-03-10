@@ -35,8 +35,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
   - [Walkthrough / Tooltip / Help](#walkthrough--tooltip--help)
   - [Clipboard](#clipboard)
   - [Color Picker](#color-picker)
-  - [Text Editor](#text-editor)
-  - [Image Editor](#image-editor)
+  - [Editor](#editor)
   - [Table](#table)
   - [Drawers](#drawers)
   - [Drag and Drop](#drag-and-drop)
@@ -141,7 +140,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinyBS](https://github.com/ebailey78/shinyBS) - Bootstrap 3 components for Shiny (alerts, tooltips, popovers, modals, collapsible panels, button upgrades).
 - [slickR](https://github.com/metrumresearchgroup/slickR) - Carousels for Shiny apps using slick.js.
 - [shinyLP](https://github.com/jasdumas/shinyLP) - Bootstrap 3 landing pages for Shiny apps.
-- [spsComps](https://github.com/lz100/spsComps) - Additional bootstrap 3 custom UI components (gallery, progress panel, timeline, buttons) and additional Shiny server components (exception catch, validation, etc.).
+- [spsComps](https://github.com/lz100/spsComps) - Additional Bootstrap 3 custom UI components (gallery, panels, buttons, animation and more) and additional Shiny server components (exception catch, validation, etc.).
 
 ### File Input
 
@@ -195,16 +194,12 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [gradientPickerD3](https://github.com/peikert/gradientPickerD3) - Interactive color gradient picker based on jquery-gradient-picker.
 - [gradientInput](https://github.com/daattali/shiny-colour-gradient-input) - Another approach at gradient colour picker, implemented using the `colourpicker` package.
 
-### Text Editor
+### Editor
 
 - [shinyAce](https://github.com/trestletech/shinyAce) - Ace code editor bindings for Shiny.
 - [shinyMonacoEditor](https://github.com/stla/shinyMonacoEditor) - The Monaco Editor in Shiny.
 - [shinyMCE](https://github.com/mul118/shinyMCE) - TinyMCE WYSIWYG editor bindings for Shiny.
 - [sqlquery](https://github.com/dreamRs/sqlquery) - htmlwidget for writing SQL queries with autocompletion for SQL keywords and table/field names.
-
-### Image Editor
-
-- [drawer](https://github.com/lz100/drawer) - A front-end only image editor for both Shiny and R markdown. 
 
 ### Table
 
@@ -248,6 +243,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [vembedr](https://github.com/ijlyttle/vembedr) - Embed videos in R Markdown documents and Shiny apps.
 - [webcamR](https://github.com/ginberg/webcamR) - htmlwidget wrapper around the react-webcam library.
 - [pianobar](https://github.com/czxa/pianobar) - Create histograms with audible features.
+- [drawer](https://github.com/lz100/drawer) - A front-end only image editor for both Shiny and R Markdown. 
 
 ### PDF
 
@@ -459,7 +455,6 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [qtlcharts](https://github.com/kbroman/qtlcharts) - Interactive graphics for QTL experiments.
 - [phylocanvas](https://github.com/zachcp/phylocanvas) - Interactive phylogenetic trees using the Phylocanvas JavaScript library.
 - [phylowidget](https://github.com/sdwfrost/phylowidget) - Interactive phylogenetic trees based on phylotree.js.
-- [systemPipeShiny](https://github.com/systemPipeR/systemPipeShiny) - A framework to design/run biological or general data anaylysis workflows, and visualize downstream results.
 
 ### Chemical Data
 
