@@ -164,6 +164,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinycssloaders](https://github.com/andrewsali/shinycssloaders) - CSS loader animations for Shiny outputs.
 - [shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Custom css/html or gif/image loaders for Shiny outputs.
 - [shinybusy](https://github.com/dreamRs/shinybusy) - Minimal busy indicator for Shiny apps.
+- [shinydisconnect](https://github.com/daattali/shinydisconnect) - Show a nice message when a Shiny app disconnects or errors.
 - [waiter](https://github.com/JohnCoene/waiter) - Splash loading screens for Shiny.
 - [sever](https://github.com/JohnCoene/sever) - Customize Shiny's disconnected screen.
 
