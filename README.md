@@ -175,6 +175,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinyalert](https://github.com/daattali/shinyalert) - Create pretty popup messages (modals) in Shiny apps.
 - [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications for Shiny apps, via toastr.
 - [shinypop](https://github.com/dreamRs/shinypop) - Collection of notifications, confirm dialogs, and alerts for Shiny apps based on noty, notie, push.js, and notiflix.
+- [shinyvalidate](https://github.com/rstudio/shinyvalidate) -  Add input validation capabilities to Shiny.
 
 ### Walkthrough / Tooltip / Help
 
