@@ -158,7 +158,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [algo](https://github.com/feddelegrand7/algo) - Implements the Algolia Places address search auto completion menu on shiny text inputs.
 - [shinyChakraSlider](https://github.com/stla/shinyChakraSlider) - Combined slider and number input for Shiny.
 - [shinyMultiActionButton](https://github.com/stla/shinyMultiActionButton) - A multi-action button for Shiny.
-- [NestedMenu](https://github.com/stla/NestedMenu) - Multi-level dropdown context menu selection input using jQuery contextMenu.
+- [NestedMenu](https://github.com/stla/NestedMenu) - Multi-level dropdown menu selection input.
 
 ### Loader
 
