@@ -459,6 +459,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [qtlcharts](https://github.com/kbroman/qtlcharts) - Interactive graphics for QTL experiments.
 - [phylocanvas](https://github.com/zachcp/phylocanvas) - Interactive phylogenetic trees using the Phylocanvas JavaScript library.
 - [phylowidget](https://github.com/sdwfrost/phylowidget) - Interactive phylogenetic trees based on phylotree.js.
+- [JBrowseR](https://github.com/GMOD/JBrowseR) - R interface to the JBrowse 2 linear genome view.
 
 ### Chemical Data
 
