@@ -208,6 +208,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 - [DT](https://github.com/rstudio/DT) - R interface to the DataTables library.
 - [reactable](https://github.com/glin/reactable) - Interactive data tables for R, based on the React Table library and made with reactR.
+- [reactablefmtr](https://github.com/kcuilla/reactablefmtr) - Simplify the styling, formatting, and customization of tables made with reactable.
 - [kableExtra](https://github.com/haozhu233/kableExtra) - Construct complex table with `knitr::kable()` and pipes.
 - [formattable](https://github.com/renkun-ken/formattable) - Table elements formatting and styling for R Markdown documents and Shiny apps.
 - [flextable](https://github.com/davidgohel/flextable) - Create tables for reporting with format and layout control.
