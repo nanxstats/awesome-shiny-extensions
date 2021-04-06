@@ -615,3 +615,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/)
 - [JavaScript for R](https://book.javascript-for-r.com/)
 - [Outstanding User Interfaces with Shiny](https://unleash-shiny.rinterface.com/)
+
+### Videos / Screencasts
+
+- [Shiny Developer Series](https://shinydevseries.com) - Interviews with practitioners & developers of Shiny and the broader ecosystem of Shiny packages, plus occasional live streams of Shiny app development in action.
