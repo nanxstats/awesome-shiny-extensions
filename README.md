@@ -383,7 +383,6 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [chordViz](https://github.com/nredell/chordViz) - Create interactive chord diagrams in R.
 - [edgebundleR](https://github.com/garthtarr/edgebundleR) - Circular layout plots with bundled edges based on D3.
 - [hiveD3](https://github.com/nielsenmarkus11/hiveD3) - D3-based hive plots. [Tutorial](https://www.nielsenmark.us/2018/01/02/creating-a-custom-htmlwidget/) for recreating the package.
-- [arcDiagramR](https://github.com/hepplerj/arcDiagramR) - Create arc diagrams with htmlwidgets.
 - [grapher](https://github.com/JohnCoene/grapher) - An R integration of ngraph to create 3D and 2D interactive graphs.
 
 ### Diagrams
