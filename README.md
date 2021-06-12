@@ -102,6 +102,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 - [shinythemes](https://github.com/rstudio/shinythemes) - Bootswatch themes (Bootstrap 3) for Shiny.
 - [shiny.semantic](https://github.com/Appsilon/shiny.semantic) - Semantic UI for Shiny.
+- [shiny.fluent](https://github.com/Appsilon/shiny.fluent) - Fluent UI for Shiny apps.
 - [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Material Design for Shiny with Materialize.css.
 - [shinyUIkit](https://github.com/RinteRface/shinyUIkit) - UIkit API for Shiny.
 - [fullPage](https://github.com/RinteRface/fullPage) - Single page styles for Shiny apps.
@@ -296,6 +297,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 - [reactR](https://github.com/react-R/reactR) - Use React in R with htmlwidget constructor templates and local JavaScript dependencies.
 - [shinyReactWidgets](https://github.com/pvictor/shinyReactWidgets) - React widgets for Shiny apps.
+- [shiny.react](https://github.com/Appsilon/shiny.react) - Tools for using React in Shiny.
 
 ### Vue.js
 
