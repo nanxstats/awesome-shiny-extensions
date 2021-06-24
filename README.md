@@ -188,7 +188,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [scrollrevealR](https://github.com/feddelegrand7/scrollrevealR) - Animate shiny elements when they scroll into view using the scrollrevealjs library.
 - [faq](https://github.com/jienagu/faq) - Accordion-based FAQ component with expand/collapse control.
 - [flashCard](https://github.com/jienagu/flashCard) - htmlwidget for creating flippable flash cards.
-- [prompter](https://github.com/etiennebacher/prompter) - Add tooltips in Shiny apps with 'hover.css'
+- [prompter](https://github.com/etiennebacher/prompter) - Add tooltips in Shiny apps with 'hint.css'.
 
 ### Clipboard
 
@@ -605,7 +605,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 - [Bootstrap Live Customizer](https://bootstrap-live-customizer.com/) - Customize Bootswatch themes (Bootstrap 3) to create your own Bootstrap themes.
 - [google-webfonts-helper](https://google-webfonts-helper.herokuapp.com/fonts) - A hassle-free way to self-hosted Google Fonts, useful for air-gapped environments.
-- [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen) - Display HTML elements on full screen using 'screenfull.js'
+- [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen) - Display HTML elements on full screen using 'screenfull.js'.
 
 ### Dependency Resolution
 
