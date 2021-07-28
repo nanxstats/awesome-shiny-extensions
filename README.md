@@ -153,7 +153,8 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 ### Special Input
 
 - [shinyTime](https://github.com/burgerga/shinyTime) - A timeInput widget for Shiny.
-- [shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) -  Datetime pickers for Shiny
+- [shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) -  Datetime pickers for Shiny.
+- [shinyMatrix](https://github.com/INWTlab/shiny-matrix) - Matrix input for Shiny.
 - [shinyCleave](https://github.com/CannaData/shinyCleave) - Customized text inputs (phone number, ZIP code, currency, credit card) based on Cleave.js.
 - [regexSelect](https://github.com/yonicd/regexSelect) - Enable regular expression searches within a Shiny selectize object.
 - [ShinyRatingInput](https://github.com/stefanwilhelm/ShinyRatingInput) - Star rating inputs for Shiny based on bootstrap-rating.
