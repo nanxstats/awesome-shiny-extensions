@@ -162,6 +162,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinyChakraSlider](https://github.com/stla/shinyChakraSlider) - Combined slider and number input for Shiny.
 - [shinyMultiActionButton](https://github.com/stla/shinyMultiActionButton) - A multi-action button for Shiny.
 - [NestedMenu](https://github.com/stla/NestedMenu) - Multi-level dropdown menu selection input.
+- [codeModules](https://github.com/statistikat/codeModules) - Shiny modules to import/manipulate/export tabular data, download plots/tables/widgets, and output code with syntax highlighting using highlight.js.
 
 ### Loader
 
