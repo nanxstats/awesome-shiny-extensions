@@ -59,6 +59,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
   - [Time Series](#time-series)
   - [Tree and Hierarchical Data](#tree-and-hierarchical-data)
   - [Network and Graph Data](#network-and-graph-data)
+  - [Categorical Data](#categorical-data)
   - [Diagrams](#diagrams)
   - [Heatmap](#heatmap)
   - [Maps and Spatial Data](#maps-and-spatial-data)
@@ -130,6 +131,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [bslib](https://github.com/rstudio/bslib) - Tools for theming Shiny and R Markdown from R via Bootstrap (3 or 4) Sass.
 - [fresh](https://github.com/dreamRs/fresh) - Create fresh themes for use in shiny & shinydashboard applications and flexdashboard documents.
 - [Rnightly](https://github.com/feddelegrand7/Rnightly) - An R wrapper of the JavaScript library Nightly.
+- [linne](https://github.com/JohnCoene/linne) - Write CSS in R.
 
 ## UI Components
 
@@ -181,6 +183,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications for Shiny apps, via toastr.
 - [shinypop](https://github.com/dreamRs/shinypop) - Collection of notifications, confirm dialogs, and alerts for Shiny apps based on noty, notie, push.js, and notiflix.
 - [shinyvalidate](https://github.com/rstudio/shinyvalidate) - Add input validation capabilities to Shiny.
+- [awn](https://github.com/JohnCoene/awn) - Awesome Notifications for Shiny.
 
 ### Walkthrough / Tooltip / Help
 
@@ -391,6 +394,10 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [hiveD3](https://github.com/nielsenmarkus11/hiveD3) - D3-based hive plots. [Tutorial](https://www.nielsenmark.us/2018/01/02/creating-a-custom-htmlwidget/) for recreating the package.
 - [grapher](https://github.com/JohnCoene/grapher) - An R integration of ngraph to create 3D and 2D interactive graphs.
 
+### Categorical Data
+
+- [bar](https://github.com/dreamRs/bar) - Interactive one-dimensional proportions chart for representing categorical data.
+
 ### Diagrams
 
 - [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Diagram, graph, and network visualization based on D3.js, viz.js, and mermaid.js.
@@ -579,6 +586,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 - [tidymodules](https://github.com/Novartis/tidymodules) - An object-oriented approach to Shiny modules.
 - [supreme](https://github.com/strboul/supreme) - Structure Shiny applications developed with modules.
+- [packer](https://github.com/JohnCoene/packer) - An opinionated framework for using JavaScript with R.
 
 ### Debugging
 
