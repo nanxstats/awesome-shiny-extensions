@@ -294,6 +294,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [d3rain](https://github.com/daranzolin/d3rain) - htmlwidget bringing D3 drip to R.
 - [hover](https://github.com/r4fun/hover) - Add animations to Shiny button elements using Hover.css.
 - [bubblyr](https://github.com/feddelegrand7/bubblyr) - Add animated bubbles to Shiny and R Markdown backgrounds.
+- [shinyEffects](https://github.com/RinteRface/shinyEffects) - Customize shiny apps with CSS effects (Zoom / Pulse / Shadow / Shake).
 
 ### i18n
 
