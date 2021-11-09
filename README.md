@@ -71,6 +71,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
   - [Augmented and Virtual Reality](#augmented-and-virtual-reality)
 - [Backend](#backend)
   - [Database](#database)
+  - [Persistent Data Storage](#persistent-data-storage)
   - [API Frameworks](#api-frameworks)
   - [URL Routing](#url-routing)
   - [Authentication](#authentication)
@@ -502,6 +503,10 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [pool](https://github.com/rstudio/pool) - Database connection pooling in R.
 - [elastic](https://github.com/ropensci/elastic) - R client for the Elasticsearch HTTP API.
 - [sergeant](https://github.com/hrbrmstr/sergeant) - Transform and query data with Apache Drill.
+
+### Persistent Data Storage
+
+- [pins](https://github.com/rstudio/pins) - Publish data sets, models, and other R objects to folders, RStudio Connect, Amazon S3, and more.
 
 ### API Frameworks
 
