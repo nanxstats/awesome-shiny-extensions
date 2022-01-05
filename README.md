@@ -395,6 +395,8 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [edgebundleR](https://github.com/garthtarr/edgebundleR) - Circular layout plots with bundled edges based on D3.
 - [hiveD3](https://github.com/nielsenmarkus11/hiveD3) - D3-based hive plots. [Tutorial](https://www.nielsenmark.us/2018/01/02/creating-a-custom-htmlwidget/) for recreating the package.
 - [grapher](https://github.com/JohnCoene/grapher) - An R integration of ngraph to create 3D and 2D interactive graphs.
+- [shinyCyJS](https://github.com/jhk0530/shinyCyJS) - Cytoscape.js R binding for Shiny.
+- [cyjShiny](https://github.com/cytoscape/cyjShiny) - R/Shiny widget for Cytoscape.js.
 
 ### Categorical Data
 
@@ -461,7 +463,6 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 - [igvR](https://github.com/paul-shannon/igvR) - R package providing interactive connections to igv.js running in a web browser.
 - [igvShiny](https://github.com/paul-shannon/igvShiny) - htmlwidget for igv.js, a JavaScript library for embeddable genomic visualization.
-- [cyjShiny](https://github.com/paul-shannon/cyjShiny) - htmlwidget for Cytoscape.js, a JavaScript library for graph/network visualization. The API is based on RCyjs (and thus RCy3).
 - [nglShiny](https://github.com/paul-shannon/nglShiny) - NGL Viewer as an htmlwidget for molecular visualization.
 - [msaR](https://github.com/zachcp/msaR) - BioJS-based MSA (multiple sequence alignment) viewer.
 - [TnT](https://github.com/Marlin-Na/TnT) - Track-based visulizations based on the TnT JavaScript libraries. Useful for displaying genomic features as a simple genome browser.
