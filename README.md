@@ -274,6 +274,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 ### Code Diff
 
+- [diffviewer](https://github.com/r-lib/diffviewer) - HTML widget to visually compare files (text, images, and data frames).
 - [diffr](https://github.com/muschellij2/diffr) - Create code diff widgets based on codediff.js.
 - [diffRgit](https://github.com/abossi/diffRgit) - Create an HTML git diff widget using the diff2html library.
 - [jsondiff](https://github.com/bergant/jsondiff) - R interface to jsondiffpatch for comparing R objects as JSONs.
