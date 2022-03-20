@@ -257,7 +257,8 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [vembedr](https://github.com/ijlyttle/vembedr) - Embed videos in R Markdown documents and Shiny apps.
 - [webcamR](https://github.com/ginberg/webcamR) - htmlwidget wrapper around the react-webcam library.
 - [pianobar](https://github.com/czxa/pianobar) - Create histograms with audible features.
-- [drawer](https://github.com/lz100/drawer) - A front-end only image editor for both Shiny and R Markdown. 
+- [drawer](https://github.com/lz100/drawer) - A front-end only image editor for both Shiny and R Markdown.
+- [shinyscreenshot](https://github.com/daattali/shinyscreenshot) - Capture screenshots of entire pages or parts of pages in Shiny apps.
 
 ### PDF
 
