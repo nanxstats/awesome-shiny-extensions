@@ -176,6 +176,8 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinydisconnect](https://github.com/daattali/shinydisconnect) - Show a nice message when a Shiny app disconnects or errors.
 - [waiter](https://github.com/JohnCoene/waiter) - Splash loading screens for Shiny.
 - [sever](https://github.com/JohnCoene/sever) - Customize Shiny's disconnected screen.
+- [shiny-fcp-loader](https://github.com/nanxstats/shiny-fcp-loader) - Shiny app template with a loading screen that aims to minimize the time to First Contentful Paint (FCP).
+- [shiny-loading-skeleton](https://github.com/nanxstats/shiny-loading-skeleton) - Shiny app template with an animated, fully customizable skeleton loader.
 
 ### Feedback / Alert / Notification
 
