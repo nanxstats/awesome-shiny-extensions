@@ -227,6 +227,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [gt](https://github.com/rstudio/gt) - Generate information-rich, publication-quality tables.
 - [rhandsontable](https://github.com/jrowen/rhandsontable) - Create Excel-like editable tables in Shiny apps.
 - [DTedit](https://github.com/jbryer/DTedit) - Editable DataTables for Shiny apps.
+- [dteditmod](https://github.com/DavidPatShuiFong/DTedit) - A fork of DTedit with a modular implementation and more [documentation](https://rpubs.com/DavidFong/DTedit).
 - [texPreview](https://github.com/metrumresearchgroup/texPreview) - Preview and save images of rendered snippets of LaTeX in RStudio viewer, R Markdown and Shiny.
 - [basictabler](https://github.com/cbailiss/basictabler) - Construct rich tables for output to HTML/Excel.
 - [pivottabler](https://github.com/cbailiss/pivottabler) - Create pivot tables in R.
