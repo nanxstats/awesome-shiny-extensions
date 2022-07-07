@@ -133,6 +133,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [fresh](https://github.com/dreamRs/fresh) - Create fresh themes for use in shiny & shinydashboard applications and flexdashboard documents.
 - [Rnightly](https://github.com/feddelegrand7/Rnightly) - An R wrapper of the JavaScript library Nightly.
 - [linne](https://github.com/JohnCoene/linne) - Write CSS in R.
+- [designer](https://github.com/ashbaldry/designer) - Shiny UI prototype builder allowing drag and drop UI components before saving the equivalent R code.
 
 ## UI Components
 
