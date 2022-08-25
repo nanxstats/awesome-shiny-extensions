@@ -428,6 +428,8 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 - [leaflet](https://github.com/rstudio/leaflet) - R interface to the Leaflet JavaScript library to create interactive maps.
 - [leaflet.extras](https://github.com/bhaskarvk/leaflet.extras) - Extra functionality for the leaflet package.
+- [leaflet.extras2](https://github.com/trafficonese/leaflet.extras2) - More plugins for the leaflet package.
+- [leafgl](https://github.com/r-spatial/leafgl) - Performant WebGL rendering for leaflet
 - [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Add and modify small charts on the interactive map created with  the leaflet package.
 - [leaflet.esri](https://github.com/bhaskarvk/leaflet.esri) - ESRI bindings for the leaflet package.
 - [leaflet.opacity](https://github.com/be-marc/leaflet.opacity) - Opacity controls for Leaflet maps.
