@@ -160,6 +160,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) -  Datetime pickers for Shiny.
 - [shinyMatrix](https://github.com/INWTlab/shiny-matrix) - Matrix input for Shiny.
 - [shinyCleave](https://github.com/CannaData/shinyCleave) - Customized text inputs (phone number, ZIP code, currency, credit card) based on Cleave.js.
+- [shinySelect](https://github.com/stla/shinySelect) - A wrapper of the react-select library that supports grouped, sortable items with Font Awesome icons, KaTeX formulas, and Bootstrap tooltips.
 - [regexSelect](https://github.com/yonicd/regexSelect) - Enable regular expression searches within a Shiny selectize object.
 - [ShinyRatingInput](https://github.com/stefanwilhelm/ShinyRatingInput) - Star rating inputs for Shiny based on bootstrap-rating.
 - [algo](https://github.com/feddelegrand7/algo) - Implements the Algolia Places address search auto completion menu on shiny text inputs.
