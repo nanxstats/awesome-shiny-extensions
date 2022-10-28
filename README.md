@@ -111,6 +111,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinybulma](https://github.com/RinteRface/shinybulma) - Bulma.io for Shiny.
 - [shinyMetroUi](https://github.com/RinteRface/shinyMetroUi) - Metro 4 UI for Shiny.
 - [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.
+- [gridlayout](https://github.com/rstudio/gridlayout) - Build dashboard-style layouts for Shiny and R Markdown using CSS Grid.
 
 ### Dashboard Theming
 
