@@ -616,6 +616,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinytest2](https://github.com/rstudio/shinytest2/) - Automated unit testing of Shiny apps through a headless Chromium browser.
 - [shinyloadtest](https://github.com/rstudio/shinyloadtest) - Load testing for Shiny apps.
 - [reactor](https://github.com/yonicd/reactor) - Unit testing for Shiny reactivity.
+- [shinyValidator](https://github.com/Novartis/shinyValidator) - Audit Shiny apps at each commit.
 
 ### Profiling
 
