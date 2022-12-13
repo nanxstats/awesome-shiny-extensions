@@ -333,6 +333,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 - [shinyscroll](https://github.com/JohnCoene/shinyscroll) - Scroll to an element in Shiny.
 - [pagemapR](https://github.com/swsoyee/pagemapR) - Create a mini map for Shiny apps and R Markdown documents.
 - [keys](https://github.com/r4fun/keys) - Assign and listen to keyboard shortcuts in Shiny using the Mousetrap Javascript library.
+- [js4shiny](https://github.com/gadenbuie/js4shiny) - Companion package for 'JavaScript for Shiny Users' workshop, with components to enable using R Markdown for literate programming with JavaScript.
 
 ## Visualization
 
