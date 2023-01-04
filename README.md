@@ -595,6 +595,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 ### Prototyping
 
+- [Rhino](https://github.com/Appsilon/rhino/) - Build high quality, enterprise-grade Shiny apps at speed.
 - [golem](https://github.com/ThinkR-open/golem) - Opinionated framework for building production-grade Shiny apps.
 - [shinipsum](https://github.com/ThinkR-open/shinipsum) - Lorem-Ipsum-like helpers for fast Shiny prototyping.
 - [fakir](https://github.com/ThinkR-open/fakir) - Create fake data in R for tutorials.
