@@ -95,6 +95,7 @@ add packages to the list.
 - [Miscellaneous](#miscellaneous)
   - [UI Customization](#ui-customization)
   - [Dependency Resolution](#dependency-resolution)
+  - [Editor Extensions](#editor-extensions)
   - [Books](#books)
   - [Videos / Screencasts](#videos--screencasts)
 - [Shiny for Python](#shiny-for-python)
@@ -653,6 +654,11 @@ add packages to the list.
 - [sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages.
 - [shinyapps-package-dependencies](https://github.com/rstudio/shinyapps-package-dependencies) - A collection of bash scripts that install system dependencies for R packages.
 
+### Editor Extensions
+
+- [shinysnip](https://marketplace.visualstudio.com/items?itemName=Mohamed-El-Fodil-Ihaddaden.shinysnip) - Simple Shiny code snippets generator in VS Code.
+- [textmate.rstheme](https://marketplace.visualstudio.com/items?itemName=nanxstats.textmate-rstheme) - A light theme for VS Code inspired by the TextMate (default) theme in RStudio IDE.
+
 ### Books
 
 - [Mastering Shiny: Build Interactive Apps, Reports, and Dashboards Powered by R](https://mastering-shiny.org/)
@@ -683,4 +689,4 @@ add packages to the list.
 
 ### Python - Editor Extensions
 
-- [pyshiny-vscode](https://github.com/rstudio/pyshiny-vscode) - VS Code extension to help launch Shiny for Python applications.
+- [pyshiny-vscode](https://marketplace.visualstudio.com/items?itemName=rstudio.pyshiny) - VS Code extension to help launch Shiny for Python applications.
