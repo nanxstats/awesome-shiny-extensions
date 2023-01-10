@@ -9,9 +9,11 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome R packages that offer extended UI or server components for the R web framework [Shiny](https://shiny.rstudio.com/).
+A curated list of awesome R and Python packages offering extended UI or
+server components to the web framework [Shiny](https://shiny.rstudio.com/).
 
-Your contribution is welcomed. Please create a pull request or issue to add packages to the list.
+Your contribution is welcomed. Please create a pull request or issue to
+add packages to the list.
 
 <hr>
 
@@ -95,6 +97,11 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
   - [Dependency Resolution](#dependency-resolution)
   - [Books](#books)
   - [Videos / Screencasts](#videos--screencasts)
+- [Shiny for Python](#shiny-for-python)
+  - [Python - UI Components](#python---ui-components)
+  - [Python - Deploy](#python---deploy)
+  - [Python - Persistent Data Storage](#python---persistent-data-storage)
+  - [Python - Editor Extensions](#python---editor-extensions)
 
 ## Theming
 
@@ -656,3 +663,24 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 ### Videos / Screencasts
 
 - [Shiny Developer Series](https://shinydevseries.com) - Interviews with practitioners & developers of Shiny and the broader ecosystem of Shiny packages, plus occasional live streams of Shiny app development in action.
+
+## Shiny for Python
+
+### Python - UI Components
+
+- [py-htmltools](https://github.com/rstudio/py-htmltools) - Tools for creating, manipulating, and writing HTML from Python.
+- [py-faicons](https://github.com/rstudio/py-faicons) - An interface to Font Awesome for use in Shiny for Python.
+- [py-shinywidgets](https://github.com/rstudio/py-shinywidgets) - Render ipywidgets inside a Shiny app.
+
+### Python - Deploy
+
+- [py-shinylive](https://github.com/rstudio/py-shinylive) - Export Shiny applications as Shinylive applications.
+- [rsconnect-python](https://github.com/rstudio/rsconnect-python) - CLI for interacting with and deploying to Posit Connect.
+
+### Python - Persistent Data Storage
+
+- [pins-python](https://github.com/rstudio/pins-python) - Publish data, models, and other Python objects for sharing across projects and with colleagues.
+
+### Python - Editor Extensions
+
+- [pyshiny-vscode](https://github.com/rstudio/pyshiny-vscode) - VS Code extension to help launch Shiny for Python applications.
