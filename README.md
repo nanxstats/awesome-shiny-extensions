@@ -511,7 +511,7 @@ Your contribution is welcomed. Please create a pull request or issue to add pack
 
 ### Database
 
-- [db.rstudio.com](https://db.rstudio.com) - Packages and tutorials for connecting R and Shiny apps to databases.
+- [Best Practices in Working with Databases](https://solutions.posit.co/connections/db/) - Packages and tutorials for connecting R and Shiny apps to databases.
 - [pool](https://github.com/rstudio/pool) - Database connection pooling in R.
 - [elastic](https://github.com/ropensci/elastic) - R client for the Elasticsearch HTTP API.
 - [sergeant](https://github.com/hrbrmstr/sergeant) - Transform and query data with Apache Drill.
