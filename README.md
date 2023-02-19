@@ -124,10 +124,10 @@ add packages to the list.
 ### Dashboard Theming
 
 - [shinydashboard](https://github.com/rstudio/shinydashboard) - Shiny dashboarding framework based on AdminLTE 2.
-- [shinydashboardPlus](https://github.com/DivadNojnarg/shinydashboardPlus) - Additional AdminLTE 2 components for shinydashboard.
+- [shinydashboardPlus](https://github.com/RinteRface/shinydashboardPlus) - Additional AdminLTE 2 components for shinydashboard.
 - [gentelellaShiny](https://github.com/RinteRface/gentelellaShiny) - Bootstrap 3 Gentelella theme for Shiny dashboards.
 - [semantic.dashboard](https://github.com/Appsilon/semantic.dashboard) - Semantic UI for Shiny dashboards.
-- [bs4Dash](https://github.com/DivadNojnarg/bs4Dash) - Bootstrap 4 Shiny dashboards using AdminLTE 3.
+- [bs4Dash](https://github.com/RinteRface/bs4Dash) - Bootstrap 4 Shiny dashboards using AdminLTE 3.
 - [argonDash](https://github.com/RinteRface/argonDash) - Bootstrap 4 Argon template for Shiny dashboards.
 - [tablerDash](https://github.com/RinteRface/tablerDash) - Tabler dashboard template for Shiny with Bootstrap 4.
 
@@ -153,7 +153,7 @@ add packages to the list.
 - [ShinyWidgets](https://github.com/dreamRs/shinyWidgets) - Bootstrap 3 custom widgets for Shiny (switches, checkboxes, sweet alerts, slider text, knob inputs, select pickers, search bar, dropdown buttons).
 - [bsplus](https://github.com/ijlyttle/bsplus) - Bootstrap 3 addons for Shiny and R Markdown (collapsible elements, accordion panels, accordion-sidebar sets, tooltips, popovers, modals, carousels).
 - [shinyBS](https://github.com/ebailey78/shinyBS) - Bootstrap 3 components for Shiny (alerts, tooltips, popovers, modals, collapsible panels, button upgrades).
-- [slickR](https://github.com/metrumresearchgroup/slickR) - Carousels for Shiny apps using slick.js.
+- [slickR](https://github.com/yonicd/slickR) - Carousels for Shiny apps using slick.js.
 - [shinyLP](https://github.com/jasdumas/shinyLP) - Bootstrap 3 landing pages for Shiny apps.
 - [shinypanels](https://github.com/datasketch/shinypanels) - Shiny layout with collapsible panels.
 - [spsComps](https://github.com/lz100/spsComps) - Additional Bootstrap 3 custom UI components (gallery, panels, buttons, animation and more) and additional Shiny server components (exception catch, validation, etc.).
@@ -166,9 +166,9 @@ add packages to the list.
 ### Special Input
 
 - [shinyTime](https://github.com/burgerga/shinyTime) - A timeInput widget for Shiny.
-- [shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) -  Datetime pickers for Shiny.
+- [shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) - Datetime pickers for Shiny.
 - [shinyMatrix](https://github.com/INWTlab/shiny-matrix) - Matrix input for Shiny.
-- [shinyCleave](https://github.com/CannaData/shinyCleave) - Customized text inputs (phone number, ZIP code, currency, credit card) based on Cleave.js.
+- [shinyCleave](https://github.com/carlganz/shinyCleave) - Customized text inputs (phone number, ZIP code, currency, credit card) based on Cleave.js.
 - [shinySelect](https://github.com/stla/shinySelect) - A wrapper of the react-select library that supports grouped, sortable items with Font Awesome icons, KaTeX formulas, and Bootstrap tooltips.
 - [regexSelect](https://github.com/yonicd/regexSelect) - Enable regular expression searches within a Shiny selectize object.
 - [ShinyRatingInput](https://github.com/stefanwilhelm/ShinyRatingInput) - Star rating inputs for Shiny based on bootstrap-rating.
@@ -181,7 +181,7 @@ add packages to the list.
 
 ### Loader
 
-- [shinycssloaders](https://github.com/andrewsali/shinycssloaders) - CSS loader animations for Shiny outputs.
+- [shinycssloaders](https://github.com/daattali/shinycssloaders) - CSS loader animations for Shiny outputs.
 - [shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Custom css/html or gif/image loaders for Shiny outputs.
 - [shinybusy](https://github.com/dreamRs/shinybusy) - Minimal busy indicator for Shiny apps.
 - [shinydisconnect](https://github.com/daattali/shinydisconnect) - Show a nice message when a Shiny app disconnects or errors.
@@ -239,7 +239,7 @@ add packages to the list.
 - [rhandsontable](https://github.com/jrowen/rhandsontable) - Create Excel-like editable tables in Shiny apps.
 - [DTedit](https://github.com/jbryer/DTedit) - Editable DataTables for Shiny apps.
 - [dteditmod](https://github.com/DavidPatShuiFong/DTedit) - A fork of DTedit with a modular implementation and more [documentation](https://rpubs.com/DavidFong/DTedit).
-- [texPreview](https://github.com/metrumresearchgroup/texPreview) - Preview and save images of rendered snippets of LaTeX in RStudio viewer, R Markdown and Shiny.
+- [texPreview](https://github.com/yonicd/texPreview) - Preview and save images of rendered snippets of LaTeX in RStudio viewer, R Markdown and Shiny.
 - [basictabler](https://github.com/cbailiss/basictabler) - Construct rich tables for output to HTML/Excel.
 - [pivottabler](https://github.com/cbailiss/pivottabler) - Create pivot tables in R.
 - [pivta](https://github.com/feddelegrand7/pivta) - R wrapper for WebDataRocks, an interactive pivot table component for data analysis.
@@ -304,7 +304,7 @@ add packages to the list.
 
 ### Animation Effects
 
-- [typed](https://github.com/JohnCoene/typed) - R htmlwidget for animated typing effect with typed.js.
+- [typedjs](https://github.com/JohnCoene/typedjs) - R htmlwidget for animated typing effect with typed.js.
 - [countup](https://github.com/JohnCoene/countup) - R htmlwidget that animates a numerical value by counting to it with CountUp.js.
 - [textillate](https://github.com/JohnCoene/textillate) - CSS3 text animations with textillate.js.
 - [shinyglide](https://github.com/juba/shinyglide) - Create carousel-like or assistant-like (wizard) UI components with Glide.js.
@@ -327,7 +327,7 @@ add packages to the list.
 ### Vue.js
 
 - [vuer](https://github.com/ramnathv/vuer) - Use Vue components and build Vue apps in R.
-- [vueR](https://github.com/timelyportfolio/vueR) - Use Vue.js in R with htmlwidget constructor templates and local JavaScript dependencies.
+- [vueR](https://github.com/vue-r/vueR) - Use Vue.js in R with htmlwidget constructor templates and local JavaScript dependencies.
 
 ### Advanced Interactivity
 
@@ -336,7 +336,7 @@ add packages to the list.
 - [shinyjs](https://github.com/daattali/shinyjs) - Perform common JavaScript operations in Shiny apps.
 - [shinyjqui](https://github.com/Yang-Tang/shinyjqui) - Add jQuery UI interactions and effects (e.g. draggable, resizable, sortable elements) to Shiny apps.
 - [shiny.collections](https://github.com/Appsilon/shiny.collections) - Google Docs-like live collaboration in Shiny with RethinkDB.
-- [shinyCanvas](https://github.com/metrumresearchgroup/shinyCanvas) - Create and customize an interactive canvas using the D3 JavaScript library and the htmlwidgets package.
+- [shinyCanvas](https://github.com/yonicd/shinyCanvas) - Create and customize an interactive canvas using the D3 JavaScript library and the htmlwidgets package.
 - [shinymeta](https://github.com/rstudio/shinymeta) - Record and expose Shiny app logic using metaprogramming.
 - [shinyscroll](https://github.com/JohnCoene/shinyscroll) - Scroll to an element in Shiny.
 - [pagemapR](https://github.com/swsoyee/pagemapR) - Create a mini map for Shiny apps and R Markdown documents.
@@ -349,7 +349,7 @@ add packages to the list.
 
 ### General-Purpose
 
-- [plotly](https://github.com/ropensci/plotly) - Interactive web graphics via plotly.js. Has special support for linking/highlighting/filtering views.
+- [plotly](https://github.com/plotly/plotly.R) - Interactive web graphics via plotly.js. Has special support for linking/highlighting/filtering views.
 - [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for the highcharts JavaScript charting library.
 - [rbokeh](https://github.com/bokeh/rbokeh) - R interface for Bokeh.
 - [echarts4r](https://github.com/JohnCoene/echarts4r) - Interactive graphs with Echarts v4.
@@ -390,9 +390,9 @@ add packages to the list.
 ### Tree and Hierarchical Data
 
 - [D3partitionR](https://github.com/AntoineGuillot2/D3partitionR) - D3-based interactive visualization of nested and hierarchical data (sunburst, treemap, circle treemap, icicle, and partition chart) for Shiny.
-- [d3Tree](https://github.com/metrumresearchgroup/d3Tree) - D3-based collapsible trees for Shiny.
+- [d3Tree](https://github.com/yonicd/d3Tree) - D3-based collapsible trees for Shiny.
 - [collapsibleTree](https://github.com/AdeelK93/collapsibleTree) - D3-based interactive collapsible tree diagrams.
-- [jsTree](https://github.com/metrumresearchgroup/jsTree) - R htmlwidget for inspecting heirachal structures with the jQuery jsTree plugin.
+- [jsTree](https://github.com/yonicd/jsTree) - R htmlwidget for inspecting heirachal structures with the jQuery jsTree plugin.
 - [shinyTree](https://github.com/shinyTree/shinyTree) - jsTree bindings for creating interactive trees in Shiny.
 - [jsTreeR](https://github.com/stla/jsTreeR) - A wrapper of the JavaScript library jsTree.
 - [shinyCheckboxTree](https://github.com/stla/shinyCheckboxTree) - Checkbox tree widget for Shiny. Wrapper of the JavaScript library react-checkbox-tree.
@@ -422,15 +422,15 @@ add packages to the list.
 ### Diagrams
 
 - [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - Diagram, graph, and network visualization based on D3.js, viz.js, and mermaid.js.
-- [nomnoml](https://github.com/javierluraschi/nomnoml) - R interface to nomnoml, a tool for drawing sassy UML diagrams based on syntax with customizable styling.
+- [nomnoml](https://github.com/rstudio/nomnoml) - R interface to nomnoml, a tool for drawing sassy UML diagrams based on syntax with customizable styling.
 - [bpmn](https://github.com/bergant/bpmn) - R interface to the bpmn-js library.
 
 ### Heatmap
 
-- [d3heatmap](https://github.com/rstudio/d3heatmap) - D3-based interactive heatmaps (highlight rows/columns, zoom in/out, clustering, dendrograms).
+- [d3heatmap](https://github.com/talgalili/d3heatmap) - D3-based interactive heatmaps (highlight rows/columns, zoom in/out, clustering, dendrograms).
 - [heatmaply](https://github.com/talgalili/heatmaply/) - Interactive heatmaps using plotly.
 - [rChartsCalmap](https://github.com/ramnathv/rChartsCalmap) - An htmlwidgets binding for calendar heatmaps using D3.
-- [calheatmapR](https://github.com/durtal/calheatmapR) -  R interface for the cal-heatmap JavaScript charting library to create calendar heatmaps.
+- [calheatmapR](https://github.com/durtal/calheatmapR) - R interface for the cal-heatmap JavaScript charting library to create calendar heatmaps.
 - [nivocal](https://github.com/react-R/nivocal) - htmlwidget for drawing calendar heatmaps based on nivo.
 - [nivowaffle](https://github.com/czxa/nivowaffle) - htmlwidget for drawing waffle diagrams based on nivo.
 - [supercaliheatmapwidget](https://github.com/hrbrmstr/supercaliheatmapwidget) - Supercalifragilistic HTML calendar heatmaps.
@@ -441,8 +441,7 @@ add packages to the list.
 - [leaflet.extras](https://github.com/bhaskarvk/leaflet.extras) - Extra functionality for the leaflet package.
 - [leaflet.extras2](https://github.com/trafficonese/leaflet.extras2) - More plugins for the leaflet package.
 - [leafgl](https://github.com/r-spatial/leafgl) - Performant WebGL rendering for leaflet.
-- [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Add and modify small charts on the interactive map created with  the leaflet package.
-- [leaflet.esri](https://github.com/bhaskarvk/leaflet.esri) - ESRI bindings for the leaflet package.
+- [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Add and modify small charts on the interactive map created with the leaflet package.
 - [leaflet.opacity](https://github.com/be-marc/leaflet.opacity) - Opacity controls for Leaflet maps.
 - [leaftime](https://github.com/timelyportfolio/leaftime) - Leaflet-timeline plugin for Leaflet to show changing geospatial data over time.
 - [leafletCN](https://github.com/Lchiffon/leafletCN) - China and geojson choropleth maps for Leaflet.
@@ -486,7 +485,7 @@ add packages to the list.
 - [msaR](https://github.com/zachcp/msaR) - BioJS-based MSA (multiple sequence alignment) viewer.
 - [TnT](https://github.com/Marlin-Na/TnT) - Track-based visulizations based on the TnT JavaScript libraries. Useful for displaying genomic features as a simple genome browser.
 - [mutsneedle](https://github.com/freezecoder/mutsneedle) - Interactive mutation lollipop diagrams.
-- [g3viz](https://github.com/G3js/lollipopR) - D3-based interactive lollipop plots.
+- [g3viz](https://github.com/G3viz/g3viz) - D3-based interactive lollipop plots.
 - [BioCircos.R](https://github.com/lvulliard/BioCircos.R) - Interactive circular visualization of genomic data using htmlwidgets and BioCircos.js.
 - [chromoMap](https://github.com/cran/chromoMap) - Interactive visualization and mapping of human chromosomes.
 - [ideogRam](https://github.com/freestatman/ideogRam) - htmlwidget for chromosome visualization with ideogram.js.
@@ -506,7 +505,7 @@ add packages to the list.
 - [rgl](https://github.com/cran/rgl) - Render WebGL scenes created with the rgl package ([vignette](https://cran.r-project.org/web/packages/rgl/vignettes/WebGL.html)).
 - [rayshader](https://github.com/tylermorganwall/rayshader) - Create and visualize hillshaded maps from elevation matrices.
 - [rayrender](https://github.com/tylermorganwall/rayrender) - Build and raytrace 3D scenes.
-- [rayfocus](https://github.com/tylermorganwall/rayfocus) - Render depth of field for images.
+- [rayimage](https://github.com/tylermorganwall/rayimage) - Render depth of field for images.
 
 ### Augmented and Virtual Reality
 
@@ -526,7 +525,7 @@ add packages to the list.
 
 ### Persistent Data Storage
 
-- [pins](https://github.com/rstudio/pins) - Publish data sets, models, and other R objects to folders, RStudio Connect, Amazon S3, and more.
+- [pins](https://github.com/rstudio/pins-r) - Publish data sets, models, and other R objects to folders, RStudio Connect, Amazon S3, and more.
 
 ### API Frameworks
 
@@ -562,10 +561,10 @@ add packages to the list.
 
 ### Notification Integration
 
-- [slackr](https://github.com/hrbrmstr/slackr) - Send messages, images, R objects, and files to Slack channels/users.
+- [slackr](https://github.com/mrkaye97/slackr) - Send messages, images, R objects, and files to Slack channels/users.
 - [sendgridr](https://github.com/mrchypark/sendgridr) - Send emails with SendGrid mail API (v3).
 - [twilio](https://github.com/seankross/twilio) - R interface to the Twilio API.
-- [blastula](https://github.com/rich-iannone/blastula) - Easily send HTML email messages from R.
+- [blastula](https://github.com/rstudio/blastula) - Easily send HTML email messages from R.
 - [mjml](https://github.com/JohnCoene/mjml) - Create responsive emails with R and MJML.
 - [mailtoR](https://github.com/feddelegrand7/mailtoR) - Creates a friendly user interface for emails sending in Shiny.
 
@@ -578,7 +577,7 @@ add packages to the list.
 - [googlesheets4](https://github.com/tidyverse/googlesheets4) - R interface to Google Sheets via the Sheets API v4.
 - [googlesheets](https://github.com/jennybc/googlesheets) - R interface to Google Spreadsheets API (no longer under active development).
 - [googledrive](https://github.com/tidyverse/googledrive) - R API client for Google Drive.
-- [gmailr](https://github.com/jimhester/gmailr) - Access the Gmail RESTful API from R.
+- [gmailr](https://github.com/r-lib/gmailr) - Access the Gmail RESTful API from R.
 
 ## Deploy
 
@@ -592,11 +591,11 @@ add packages to the list.
 
 - [RInno](https://github.com/ficonsulting/RInno) - Deploy Shiny apps to Windows by interfacing Inno Setup and Electron.
 - [electricShine](https://github.com/chasemc/electricShine) - Create distributable Shiny Electron apps.
-- [photon](https://github.com/ColumbusCollaboratory/photon) - RStudio Add-in to build Shiny apps utilizing the Electron framework.
+- [photon](https://github.com/COVAIL/photon) - RStudio Add-in to build Shiny apps utilizing the Electron framework.
 - [DesktopDeployR](https://github.com/wleepang/DesktopDeployR) - A framework for deploying self-contained R-based applications to the desktop.
 - [Shiny Meets Electron](https://github.com/ksasso/useR_electron_meet_shiny) - Talk at useR! 2018 on turning Shiny app into standalone desktop apps. [Talk video](https://www.youtube.com/watch?v=ARrbbviGvjc).
 - [r-shiny-electron](https://github.com/dirkschumacher/r-shiny-electron) - Template for R Shiny and Electron integration.
-- [nativefier](https://github.com/jiahaog/nativefier) - Create Electron wrappers for any websites (including remotely deployed Shiny apps).
+- [nativefier](https://github.com/nativefier/nativefier) - Create Electron wrappers for any websites (including remotely deployed Shiny apps).
 
 ## Developer Tools
 
@@ -618,8 +617,7 @@ add packages to the list.
 
 ### Debugging
 
-- [shinyreactlog](https://github.com/rstudio/shinyreactlog) - Visual debugger for Shiny reactivity.
-- [reactlog](https://github.com/glin/reactlog) - Easier debugging with the Shiny reactive log.
+- [reactlog](https://github.com/rstudio/reactlog) - Visual debugger for Shiny reactivity.
 
 ### Testing
 
