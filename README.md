@@ -270,7 +270,6 @@ add packages to the list.
 - [heyshiny](https://github.com/jcrodriguez1989/heyshiny) - Speech to text input.
 - [vembedr](https://github.com/ijlyttle/vembedr) - Embed videos in R Markdown documents and Shiny apps.
 - [webcamR](https://github.com/ginberg/webcamR) - htmlwidget wrapper around the react-webcam library.
-- [pianobar](https://github.com/czxa/pianobar) - Create histograms with audible features.
 - [drawer](https://github.com/lz100/drawer) - A front-end only image editor for both Shiny and R Markdown.
 - [shinyscreenshot](https://github.com/daattali/shinyscreenshot) - Capture screenshots of entire pages or parts of pages in Shiny apps.
 
@@ -372,7 +371,7 @@ add packages to the list.
 - [pairsD3](https://github.com/garthtarr/pairsD3) - D3 scatterplot matrices.
 - [rthreejs](https://github.com/bwlewis/rthreejs) - Interactive 3D scatterplots, networks, and globes based on three.js.
 - [graph3d](https://github.com/stla/graph3d) - R wrapper of the JavaScript library vis-graph3d.
-- [hpackedbubble](https://github.com/czxa/hpackedbubble) - Split packed bubble charts with highcharts.
+- [hpackedbubble](https://cran.r-project.org/package=hpackedbubble) - Split packed bubble charts with highcharts.
 
 ### Parallel Coordinates
 
@@ -398,7 +397,6 @@ add packages to the list.
 - [shinyCheckboxTree](https://github.com/stla/shinyCheckboxTree) - Checkbox tree widget for Shiny. Wrapper of the JavaScript library react-checkbox-tree.
 - [listviewer](https://github.com/timelyportfolio/listviewer) - View and modify lists interactively, based on jsoneditor and react-json-view.
 - [trelliscopejs](https://github.com/hafen/trelliscopejs/) - Create interactive Trelliscope displays based on trelliscopejs-lib.
-- [gwordtree](https://github.com/czxa/gwordtree) - Render a word tree with Google Charts.
 - [Rmarkmap](https://github.com/seifer08ms/Rmarkmap) - Create interactive mind maps with the markmap JavaScript library.
 
 ### Network and Graph Data
@@ -432,7 +430,6 @@ add packages to the list.
 - [rChartsCalmap](https://github.com/ramnathv/rChartsCalmap) - An htmlwidgets binding for calendar heatmaps using D3.
 - [calheatmapR](https://github.com/durtal/calheatmapR) - R interface for the cal-heatmap JavaScript charting library to create calendar heatmaps.
 - [nivocal](https://github.com/react-R/nivocal) - htmlwidget for drawing calendar heatmaps based on nivo.
-- [nivowaffle](https://github.com/czxa/nivowaffle) - htmlwidget for drawing waffle diagrams based on nivo.
 - [supercaliheatmapwidget](https://github.com/hrbrmstr/supercaliheatmapwidget) - Supercalifragilistic HTML calendar heatmaps.
 
 ### Maps and Spatial Data
@@ -458,8 +455,7 @@ add packages to the list.
 - [datamaps](https://github.com/JohnCoene/datamaps) - Create interactive choropleth maps with the JavaScript library Datamaps, add arcs and bubbles, change choropleth values, and change labels.
 - [topogram](https://github.com/dreamRs/topogram) - Cartogram htmlwidget for visualizing geographical data by distorting a TopoJSON topology using cartogram-chart.
 - [rsquaire](https://github.com/Jkassof/rsquaire) - R interface for squaire.js, a JavaScript library for making responsive equal-area square maps using D3.
-- [hchinamap](https://github.com/czxa/hchinamap) - Mapping China and its provinces with highcharts.
-- [mapbrew](https://github.com/czxa/mapbrew) - Mapping China with amCharts.
+- [hchinamap](https://cran.r-project.org/package=hchinamap) - Mapping China and its provinces with highcharts.
 - [planetary](https://github.com/jonmcalder/planetary) - htmlwidget for the planetary.js library for creating interactive globes.
 - [gior](https://github.com/JohnCoene/gior) - htmlwidget for gio.js for declarative 3D globe data visualization.
 - [quickglobe](https://github.com/daranzolin/quickglobe) - View country data via a 3D D3 globe.
@@ -474,7 +470,7 @@ add packages to the list.
 ### Word Cloud
 
 - [wordcloud2](https://github.com/lchiffon/wordcloud2) - Word cloud visualization based on wordcloud2.js.
-- [hwordcloud](https://github.com/czxa/hwordcloud) - Render word clouds with highcharts.
+- [hwordcloud](https://cran.r-project.org/package=hwordcloud) - Render word clouds with highcharts.
 - [d3wordcloud](https://github.com/jbkunst/d3wordcloud) - htmlwidget for D3.js word cloud layout.
 
 ### Biological Data
