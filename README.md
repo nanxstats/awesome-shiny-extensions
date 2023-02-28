@@ -610,6 +610,7 @@ add packages to the list.
 - [tidymodules](https://github.com/Novartis/tidymodules) - An object-oriented approach to Shiny modules.
 - [supreme](https://github.com/strboul/supreme) - Structure Shiny applications developed with modules.
 - [packer](https://github.com/JohnCoene/packer) - An opinionated framework for using JavaScript with R.
+- [box](https://github.com/klmr/box) - Organize code into hierarchical, composable, reusable modules, to use across projects.
 
 ### Debugging
 
@@ -648,6 +649,7 @@ add packages to the list.
 - [packrat](https://github.com/rstudio/packrat) - Parse R package dependencies of Shiny apps with `packrat::appDependencies`.
 - [sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages.
 - [shinyapps-package-dependencies](https://github.com/rstudio/shinyapps-package-dependencies) - A collection of bash scripts that install system dependencies for R packages.
+- [renv](https://github.com/rstudio/renv) - Create isolated, portable and reproducible environments for R projects.
 
 ### Editor Extensions
 
