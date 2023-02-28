@@ -686,4 +686,4 @@ add packages to the list.
 
 ### Python - Editor Extensions
 
-- [pyshiny-vscode](https://marketplace.visualstudio.com/items?itemName=rstudio.pyshiny) - VS Code extension to help launch Shiny for Python applications.
+- [pyshiny-vscode](https://marketplace.visualstudio.com/items?itemName=posit.shiny-python) - VS Code extension to help launch Shiny for Python applications.
