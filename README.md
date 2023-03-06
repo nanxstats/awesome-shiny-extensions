@@ -111,7 +111,7 @@ add packages to the list.
 ### Generic Theming
 
 - [shinythemes](https://github.com/rstudio/shinythemes) - Bootswatch themes (Bootstrap 3) for Shiny.
-- [shiny.semantic](https://github.com/Appsilon/shiny.semantic) - Semantic UI for Shiny.
+- [shiny.semantic](https://github.com/Appsilon/shiny.semantic) - Fomantic UI (formerly Semantic UI) for Shiny.
 - [shiny.fluent](https://github.com/Appsilon/shiny.fluent) - Fluent UI for Shiny apps.
 - [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Material Design for Shiny with Materialize.css.
 - [shinyUIkit](https://github.com/RinteRface/shinyUIkit) - UIkit API for Shiny.
@@ -126,7 +126,7 @@ add packages to the list.
 - [shinydashboard](https://github.com/rstudio/shinydashboard) - Shiny dashboarding framework based on AdminLTE 2.
 - [shinydashboardPlus](https://github.com/RinteRface/shinydashboardPlus) - Additional AdminLTE 2 components for shinydashboard.
 - [gentelellaShiny](https://github.com/RinteRface/gentelellaShiny) - Bootstrap 3 Gentelella theme for Shiny dashboards.
-- [semantic.dashboard](https://github.com/Appsilon/semantic.dashboard) - Semantic UI for Shiny dashboards.
+- [semantic.dashboard](https://github.com/Appsilon/semantic.dashboard) - Fomantic UI for Shiny dashboards.
 - [bs4Dash](https://github.com/RinteRface/bs4Dash) - Bootstrap 4 Shiny dashboards using AdminLTE 3.
 - [argonDash](https://github.com/RinteRface/argonDash) - Bootstrap 4 Argon template for Shiny dashboards.
 - [tablerDash](https://github.com/RinteRface/tablerDash) - Tabler dashboard template for Shiny with Bootstrap 4.
@@ -678,7 +678,7 @@ add packages to the list.
 - [py-htmltools](https://github.com/rstudio/py-htmltools) - Tools for creating, manipulating, and writing HTML from Python.
 - [py-faicons](https://github.com/rstudio/py-faicons) - An interface to Font Awesome for use in Shiny for Python.
 - [py-shinywidgets](https://github.com/rstudio/py-shinywidgets) - Render ipywidgets inside a Shiny app.
-- [py_shiny_semantic](https://github.com/Appsilon/py_shiny_semantic) - Create rich web applications in PyShiny using styles and components from Semantic UI.
+- [py_shiny_semantic](https://github.com/Appsilon/py_shiny_semantic) - Create rich web applications in PyShiny using styles and components from Fomantic UI.
 
 ### Python - Deploy
 
