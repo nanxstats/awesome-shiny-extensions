@@ -646,10 +646,10 @@ add packages to the list.
 
 ### Dependency Resolution
 
+- [renv](https://github.com/rstudio/renv) - Create isolated, portable, and reproducible environments for R projects.
 - [packrat](https://github.com/rstudio/packrat) - Parse R package dependencies of Shiny apps with `packrat::appDependencies`.
 - [sysreqsdb](https://github.com/r-hub/sysreqsdb) - SystemRequirements mappings for R packages.
 - [shinyapps-package-dependencies](https://github.com/rstudio/shinyapps-package-dependencies) - A collection of bash scripts that install system dependencies for R packages.
-- [renv](https://github.com/rstudio/renv) - Create isolated, portable and reproducible environments for R projects.
 
 ### Editor Extensions
 
