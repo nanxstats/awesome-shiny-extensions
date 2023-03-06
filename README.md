@@ -627,15 +627,15 @@ add packages to the list.
 ### Profiling
 
 - [profvis](https://github.com/rstudio/profvis) - Interactive visualizations for profiling R code. [Profiling Shiny apps](https://rstudio.github.io/profvis/examples.html#example-3---profiling-a-shiny-application).
-- [shiny.benchmark](https://github.com/Appsilon/shiny.benchmark) - Tool to measure and compare the performance of different versions of a shiny application.
-- [shiny.info](https://github.com/Appsilon/shiny.info) - Displays simple diagnostic information of the shiny project in the user interface of the app.
+- [shiny.benchmark](https://github.com/Appsilon/shiny.benchmark) - Measure and compare the performance of different versions of a Shiny application.
+- [shiny.info](https://github.com/Appsilon/shiny.info) - Displays simple diagnostic information of the Shiny project in the user interface of the app.
 
 ### Scaling
 
 - [promises](https://github.com/rstudio/promises) - Promise-based asynchronous programming for R. [Using promises with Shiny](https://rstudio.github.io/promises/articles/shiny.html).
 - [shinyParallel](https://github.com/jcrodriguez1989/shinyParallel) - Run Shiny applications in a multi-session mode.
 - [FutureManager](https://github.com/Boehringer-Ingelheim/FutureManager) - Background processes for long-running operations in Shiny applications.
-- [shiny.worker](https://github.com/Appsilon/shiny.worker) - Package to delegate heavy computation tasks to a separate process in a shiny application.
+- [shiny.worker](https://github.com/Appsilon/shiny.worker) - Delegate heavy computation tasks to a separate process in a Shiny application.
 
 ## Miscellaneous
 
@@ -676,7 +676,7 @@ add packages to the list.
 - [py-htmltools](https://github.com/rstudio/py-htmltools) - Tools for creating, manipulating, and writing HTML from Python.
 - [py-faicons](https://github.com/rstudio/py-faicons) - An interface to Font Awesome for use in Shiny for Python.
 - [py-shinywidgets](https://github.com/rstudio/py-shinywidgets) - Render ipywidgets inside a Shiny app.
-- [py_shiny_semantic](https://github.com/Appsilon/py_shiny_semantic) - Create rich web applications in PyShiny using styles and components from Fomantic UI.
+- [py_shiny_semantic](https://github.com/Appsilon/py_shiny_semantic) - Create rich web applications in PyShiny using styles and components from Semantic UI.
 
 ### Python - Deploy
 
