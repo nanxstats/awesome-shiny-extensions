@@ -335,6 +335,7 @@ add packages to the list.
 - [shinyjs](https://github.com/daattali/shinyjs) - Perform common JavaScript operations in Shiny apps.
 - [shinyjqui](https://github.com/Yang-Tang/shinyjqui) - Add jQuery UI interactions and effects (e.g. draggable, resizable, sortable elements) to Shiny apps.
 - [shiny.collections](https://github.com/Appsilon/shiny.collections) - Google Docs-like live collaboration in Shiny with RethinkDB.
+- [shinyChatR](https://github.com/julianschmocker/shinyChatR) - Reusable chat module for Shiny apps. Allows sending messages and view messages from other users. Messages can be stored in a database or a `.rds` file.
 - [shinyCanvas](https://github.com/yonicd/shinyCanvas) - Create and customize an interactive canvas using the D3 JavaScript library and the htmlwidgets package.
 - [shinymeta](https://github.com/rstudio/shinymeta) - Record and expose Shiny app logic using metaprogramming.
 - [shinyscroll](https://github.com/JohnCoene/shinyscroll) - Scroll to an element in Shiny.
