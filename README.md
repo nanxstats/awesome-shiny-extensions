@@ -639,6 +639,7 @@ add packages to the list.
 - [shinyParallel](https://github.com/jcrodriguez1989/shinyParallel) - Run Shiny applications in a multi-session mode.
 - [FutureManager](https://github.com/Boehringer-Ingelheim/FutureManager) - Background processes for long-running operations in Shiny applications.
 - [shiny.worker](https://github.com/Appsilon/shiny.worker) - Delegate heavy computation tasks to a separate process in a Shiny application.
+- [webR](https://github.com/r-wasm/webr/) - A version of R compiled for the browser and Node.js using WebAssembly via Emscripten.
 
 ## Miscellaneous
 
