@@ -83,8 +83,9 @@ add packages to the list.
   - [Cloud Integration](#cloud-integration)
   - [G Suite Integration](#g-suite-integration)
 - [Deploy](#deploy)
-  - [Cloud Deploy](#cloud-deploy)
+  - [Remote Deploy](#remote-deploy)
   - [Desktop Deploy](#desktop-deploy)
+  - [Static Server Deploy](#static-server-deploy)
 - [Developer Tools](#developer-tools)
   - [Prototyping](#prototyping)
   - [Modularization](#modularization)
@@ -581,7 +582,7 @@ add packages to the list.
 
 *Deploy Shiny apps to the cloud, hosted infrastructure, or desktop.*
 
-### Cloud Deploy
+### Remote Deploy
 
 - [rsconnect](https://github.com/rstudio/rsconnect) - Deploy Shiny apps to shinyapps.io, or RStudio Connect.
 
@@ -594,6 +595,10 @@ add packages to the list.
 - [Shiny Meets Electron](https://github.com/ksasso/useR_electron_meet_shiny) - Talk at useR! 2018 on turning Shiny app into standalone desktop apps. [Talk video](https://www.youtube.com/watch?v=ARrbbviGvjc).
 - [r-shiny-electron](https://github.com/dirkschumacher/r-shiny-electron) - Template for R Shiny and Electron integration.
 - [nativefier](https://github.com/nativefier/nativefier) - Create Electron wrappers for any websites (including remotely deployed Shiny apps).
+
+### Static Server Deploy
+
+- [webR](https://github.com/r-wasm/webr/) - A version of R compiled for the browser and Node.js using WebAssembly via Emscripten.
 
 ## Developer Tools
 
@@ -639,7 +644,6 @@ add packages to the list.
 - [shinyParallel](https://github.com/jcrodriguez1989/shinyParallel) - Run Shiny applications in a multi-session mode.
 - [FutureManager](https://github.com/Boehringer-Ingelheim/FutureManager) - Background processes for long-running operations in Shiny applications.
 - [shiny.worker](https://github.com/Appsilon/shiny.worker) - Delegate heavy computation tasks to a separate process in a Shiny application.
-- [webR](https://github.com/r-wasm/webr/) - A version of R compiled for the browser and Node.js using WebAssembly via Emscripten.
 
 ## Miscellaneous
 
