@@ -534,7 +534,8 @@ add packages to the list.
 
 - [shiny.router](https://github.com/Appsilon/shiny.router) - Minimalistic URL router for Shiny apps.
 - [shinyURL](https://github.com/aoles/shinyURL) - Save and restore the state of a Shiny app by encoding the values of user inputs and active tab panels in the app's URL query string.
-- [brochure](https://github.com/ColinFay/brochure) - Create natively multi-page Shiny applications to serve content from multiple endpoints.
+- [brochure](https://github.com/ColinFay/brochure) - Create natively multi-page Shiny applications to serve content from multiple endpoints. See [blog post](https://colinfay.me/post-request-shiny-app-brochure/) on POST requests support.
+- [Accepting POST requests from Shiny](https://gist.github.com/jcheng5/2aaff19e67079840350d08361fe7fb20) - Undocumented feature for handling POST requests that are not associated with any specific Shiny session.
 
 ### Authentication
 
