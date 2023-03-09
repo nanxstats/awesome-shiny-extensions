@@ -523,7 +523,7 @@ add packages to the list.
 
 ### Persistent Data Storage
 
-- [pins](https://github.com/rstudio/pins-r) - Publish data sets, models, and other R objects to folders, RStudio Connect, Amazon S3, and more.
+- [pins](https://github.com/rstudio/pins-r) - Publish data sets, models, and other R objects to folders, Posit Connect, Amazon S3, and more.
 
 ### API Frameworks
 
@@ -584,7 +584,7 @@ add packages to the list.
 
 ### Remote Deploy
 
-- [rsconnect](https://github.com/rstudio/rsconnect) - Deploy Shiny apps to shinyapps.io, or RStudio Connect.
+- [rsconnect](https://github.com/rstudio/rsconnect) - Deploy Shiny apps to shinyapps.io, or Posit Connect.
 
 ### Desktop Deploy
 
