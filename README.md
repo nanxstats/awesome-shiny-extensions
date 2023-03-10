@@ -585,6 +585,7 @@ add packages to the list.
 ### Remote Deploy
 
 - [rsconnect](https://github.com/rstudio/rsconnect) - Deploy Shiny apps to shinyapps.io, or Posit Connect.
+- [connectwidgets](https://github.com/rstudio/connectwidgets) - Query a Posit Connect server for a subset of content items, then organize them within htmlwidget components in R Markdown documents or Shiny applications.
 
 ### Desktop Deploy
 
