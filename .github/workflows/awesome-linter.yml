@@ -4,7 +4,7 @@ on:
   pull_request:
   workflow_dispatch:
   push:
-    branches: master
+    branches: [master, main]
     paths: README.md
 
 concurrency:
@@ -24,4 +24,4 @@ jobs:
         with:
           fetch-depth: 0
       - name: "Linting: README.md"
-        run: npx -y awesome-lint README.md
+        run: npx -y awesome-lint
