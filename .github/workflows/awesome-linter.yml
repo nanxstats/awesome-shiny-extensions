@@ -19,9 +19,9 @@ jobs:
     env:
       github_token: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - name: "checkout repo"
+      - name: "Checkout repo"
         uses: actions/checkout@v3
         with:
           fetch-depth: 0
-      - name: "linting: README.md"
+      - name: "Linting: README.md"
         run: npx -y awesome-lint
