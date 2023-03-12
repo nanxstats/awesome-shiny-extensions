@@ -652,8 +652,8 @@ add packages to the list.
 
 ### UI Customization
 
-- [Bootstrap Live Customizer](https://bootstrap-live-customizer.com/) - Customize Bootswatch themes (Bootstrap 3) to create your own Bootstrap themes.
-- [google-webfonts-helper](https://google-webfonts-helper.herokuapp.com/fonts) - A hassle-free way to self-hosted Google Fonts, useful for air-gapped environments.
+- [Bootstrap Live Customizer](https://www.bootstrap-live-customizer.com/) - Customize Bootswatch themes (Bootstrap 3) to create your own Bootstrap themes.
+- [google-webfonts-helper](https://gwfh.mranftl.com/fonts) - A hassle-free way to self-hosted Google Fonts, useful for air-gapped environments.
 - [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen) - Display HTML elements on full screen using 'screenfull.js'.
 
 ### Dependency Resolution
