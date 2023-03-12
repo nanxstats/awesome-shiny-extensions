@@ -7,7 +7,7 @@
 
 # Awesome Shiny Extensions <!-- omit in toc -->
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome R and Python packages offering extended UI or
 server components to the web framework [Shiny](https://shiny.rstudio.com/).
