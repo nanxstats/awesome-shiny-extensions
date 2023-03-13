@@ -23,7 +23,7 @@ add packages to the list.
 
 <hr>
 
-<!--lint ignore awesome-toc awesome-list-item-->
+<!--lint disable awesome-toc awesome-list-item-->
 
 ## Contents <!-- omit in toc -->
 
