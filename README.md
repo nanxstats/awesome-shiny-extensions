@@ -538,7 +538,7 @@ add packages to the list.
 - [shiny.router](https://github.com/Appsilon/shiny.router) - Minimalistic URL router for Shiny apps.
 - [shinyURL](https://github.com/aoles/shinyURL) - Save and restore the state of a Shiny app by encoding the values of user inputs and active tab panels in the app's URL query string.
 - [brochure](https://github.com/ColinFay/brochure) - Create natively multi-page Shiny applications to serve content from multiple endpoints. See [blog post](https://colinfay.me/post-request-shiny-app-brochure/) on POST requests support.
-- [scenes](https://r4ds.github.io/scenes/) - Switch between alternative UIs based on request properties, such as cookies, paths, query parameters, or HTTP request method.
+- [scenes](https://github.com/r4ds/scenes) - Switch between alternative UIs based on request properties, such as cookies, paths, query parameters, or HTTP request method.
 - [Accepting POST requests from Shiny](https://gist.github.com/jcheng5/2aaff19e67079840350d08361fe7fb20) - Undocumented feature for handling POST requests that are not associated with any specific Shiny session.
 
 ### Authentication
@@ -558,7 +558,7 @@ add packages to the list.
 ### Web APIs Integration
 
 - [glouton](https://github.com/ColinFay/glouton) - Handle browser cookies in shiny, built on top of js-cookie.
-- [cookies](https://r4ds.github.io/cookies/) - Another js-cookie package, with added functionality to handle HttpOnly cookies. 
+- [cookies](https://github.com/r4ds/cookies) - Another js-cookie package, with added functionality to handle HttpOnly cookies.
 - [geoloc](https://github.com/ColinFay/geoloc) - Use the Geolocation API to get the location of the user (with user's permission).
 - [shinyStore](https://github.com/trestletech/shinyStore) - Use the Web Storage API to store persistent, synchronized data in the user's browser.
 
