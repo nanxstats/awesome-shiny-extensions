@@ -494,6 +494,7 @@ add packages to the list.
 - [phylocanvas](https://github.com/zachcp/phylocanvas) - Interactive phylogenetic trees using the Phylocanvas JavaScript library.
 - [phylowidget](https://github.com/sdwfrost/phylowidget) - Interactive phylogenetic trees based on phylotree.js.
 - [JBrowseR](https://github.com/GMOD/JBrowseR) - R interface to the JBrowse 2 linear genome view.
+- [safetyCharts](https://github.com/SafetyGraphics/safetyCharts) - Charts for monitoring clinical trial safety.
 
 ### Chemical Data
 
