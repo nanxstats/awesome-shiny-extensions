@@ -210,7 +210,7 @@ add packages to the list.
 - [shinyhelper](https://github.com/cwthom/shinyhelper) - Add Markdown help files to Shiny app elements.
 - [scrollrevealR](https://github.com/feddelegrand7/scrollrevealR) - Animate shiny elements when they scroll into view using the scrollrevealjs library.
 - [faq](https://github.com/jienagu/faq) - Accordion-based FAQ component with expand/collapse control.
-- [flashCard](https://github.com/jienagu/flashCard) - htmlwidget for creating flippable flash cards.
+- [flashCard](https://github.com/jienagu/flashCard) - HTML widget for creating flippable flash cards.
 - [prompter](https://github.com/etiennebacher/prompter) - Add tooltips in Shiny apps with 'hint.css'.
 
 ### Clipboard
@@ -228,7 +228,7 @@ add packages to the list.
 - [shinyAce](https://github.com/trestletech/shinyAce) - Ace code editor bindings for Shiny.
 - [shinyMonacoEditor](https://github.com/stla/shinyMonacoEditor) - The Monaco Editor in Shiny.
 - [shinyMCE](https://github.com/mul118/shinyMCE) - TinyMCE WYSIWYG editor bindings for Shiny.
-- [sqlquery](https://github.com/dreamRs/sqlquery) - htmlwidget for writing SQL queries with autocompletion for SQL keywords and table/field names.
+- [sqlquery](https://github.com/dreamRs/sqlquery) - HTML widget for writing SQL queries with autocompletion for SQL keywords and table/field names.
 
 ### Table
 
@@ -251,12 +251,12 @@ add packages to the list.
 
 ### Drawers
 
-- [pushbar](https://github.com/JohnCoene/pushbar) - pushbar.js for Shiny. Create off-canvas sliding drawers for inputs, outputs, or any other content.
+- [pushbar](https://github.com/JohnCoene/pushbar) - Brings pushbar.js to Shiny. Create off-canvas sliding drawers for inputs, outputs, or any other content.
 
 ### Drag and Drop
 
 - [shinyDND](https://github.com/ayayron/shinydnd) - Create drag and drop elements in Shiny.
-- [sortable](https://github.com/rstudio/sortable) - htmlwidget for SortableJS that enables drag-and-drop behavior and reorderable elements.
+- [sortable](https://github.com/rstudio/sortable) - HTML widget for SortableJS that enables drag-and-drop behavior and reorderable elements.
 - [dragulaR](https://github.com/zzawadz/dragulaR) - R interface for the dragula JavaScript library for moving around elements in Shiny apps.
 - [dndselectr](https://github.com/serenity-r/dndselectr) - Drag-and-drop Shiny select input.
 - [esquisse](https://github.com/dreamRs/esquisse) - Drag and drop inputs and visual builder for ggplot2.
@@ -268,11 +268,11 @@ add packages to the list.
 ### Image / Audio / Video
 
 - [shinysense](https://github.com/nstrayer/shinysense) - A series of shiny modules to help Shiny sense the world around it (draw, swipe cards, record images from a webcam, record audio, capture accelerometer data).
-- [pixels](https://github.com/javierluraschi/pixels) - htmlwidget and Shiny Gadget to render and draw pixels.
+- [pixels](https://github.com/javierluraschi/pixels) - HTML widget and Shiny Gadget to render and draw pixels.
 - [fabricerin](https://github.com/feddelegrand7/fabricerin) - Create HTML5 canvas in Shiny and R Markdown documents based on Fabric.js.
 - [heyshiny](https://github.com/jcrodriguez1989/heyshiny) - Speech to text input.
 - [vembedr](https://github.com/ijlyttle/vembedr) - Embed videos in R Markdown documents and Shiny apps.
-- [webcamR](https://github.com/ginberg/webcamR) - htmlwidget wrapper around the react-webcam library.
+- [webcamR](https://github.com/ginberg/webcamR) - HTML widget wrapper around the react-webcam library.
 - [drawer](https://github.com/lz100/drawer) - A front-end only image editor for both Shiny and R Markdown.
 - [shinyscreenshot](https://github.com/daattali/shinyscreenshot) - Capture screenshots of entire pages or parts of pages in Shiny apps.
 
@@ -298,7 +298,7 @@ add packages to the list.
 
 ### Calendar
 
-- [tuicalendr](https://github.com/dreamRs/tuicalendr) - htmlwidget to create interactive calendars with JavaScript library tui-calendar.
+- [tuicalendr](https://github.com/dreamRs/tuicalendr) - HTML widget to create interactive calendars with JavaScript library tui-calendar.
 
 ### Notebooks
 
@@ -310,7 +310,7 @@ add packages to the list.
 - [countup](https://github.com/JohnCoene/countup) - R htmlwidget that animates a numerical value by counting to it with CountUp.js.
 - [textillate](https://github.com/JohnCoene/textillate) - CSS3 text animations with textillate.js.
 - [shinyglide](https://github.com/juba/shinyglide) - Create carousel-like or assistant-like (wizard) UI components with Glide.js.
-- [d3rain](https://github.com/daranzolin/d3rain) - htmlwidget bringing D3 drip to R.
+- [d3rain](https://github.com/daranzolin/d3rain) - HTML widget bringing D3 drip to R.
 - [hover](https://github.com/r4fun/hover) - Add animations to Shiny button elements using Hover.css.
 - [bubblyr](https://github.com/feddelegrand7/bubblyr) - Add animated bubbles to Shiny and R Markdown backgrounds.
 - [shinyEffects](https://github.com/RinteRface/shinyEffects) - Customize shiny apps with CSS effects (Zoom / Pulse / Shadow / Shake).
@@ -358,13 +358,13 @@ add packages to the list.
 - [echarts4r](https://github.com/JohnCoene/echarts4r) - Interactive graphs with Echarts v4.
 - [r2d3](https://github.com/rstudio/r2d3) - R interface to D3 visualizations.
 - [vegalite](https://github.com/hrbrmstr/vegalite) - R ggplot2 bindings for Vega-Lite.
-- [vegawidget](https://github.com/vegawidget/vegawidget) - htmlwidget renderer for Vega and Vega-Lite.
-- [ggiraph](https://github.com/davidgohel/ggiraph) - htmlwidget that makes ggplot2 graphics interactive. Select graphical elements, add tooltips, animations, and JavaScript actions to the graphics.
-- [rfrappe](https://github.com/merlinoa/rfrappe) - htmlwidget for the Frappe Charts JavaScript library.
-- [tuichartr](https://github.com/dreamRs/tuichartr) - htmlwidget for tui-chart.
-- [billboarder](https://github.com/dreamRs/billboarder) - htmlwidget for billboard.js.
-- [apexcharter](https://github.com/dreamRs/apexcharter) - htmlwidget for ApexCharts.js.
-- [taucharts](https://github.com/hrbrmstr/taucharts) - htmlwidget for Taucharts.
+- [vegawidget](https://github.com/vegawidget/vegawidget) - HTML widget renderer for Vega and Vega-Lite.
+- [ggiraph](https://github.com/davidgohel/ggiraph) - HTML widget that makes ggplot2 graphics interactive. Select graphical elements, add tooltips, animations, and JavaScript actions to the graphics.
+- [rfrappe](https://github.com/merlinoa/rfrappe) - HTML widget for the Frappe Charts JavaScript library.
+- [tuichartr](https://github.com/dreamRs/tuichartr) - HTML widget for tui-chart.
+- [billboarder](https://github.com/dreamRs/billboarder) - HTML widget for billboard.js.
+- [apexcharter](https://github.com/dreamRs/apexcharter) - HTML widget for ApexCharts.js.
+- [taucharts](https://github.com/hrbrmstr/taucharts) - HTML widget for Taucharts.
 - [googleVis](https://github.com/mages/googleVis) - R interface to Google Charts.
 - [rroughviz](https://github.com/tidyss/rroughviz) - R warpper for roughViz.js, a JavaScript library for creating sketchy/hand-drawn styled charts.
 - [rAmCharts4](https://github.com/stla/rAmCharts4) - R interface to amCharts 4.
@@ -379,7 +379,7 @@ add packages to the list.
 
 ### Parallel Coordinates
 
-- [parcoords](https://github.com/timelyportfolio/parcoords) - htmlwidget for D3 parallel coordinates chart.
+- [parcoords](https://github.com/timelyportfolio/parcoords) - HTML widget for D3 parallel coordinates chart.
 
 ### Time Series
 
@@ -387,8 +387,8 @@ add packages to the list.
 - [metricsgraphics](https://github.com/hrbrmstr/metricsgraphics) - An htmlwidget interface to the MetricsGraphics.js D3-based charting library.
 - [timevis](https://github.com/daattali/timevis) - Interactive timeline visualizations based on vis.js.
 - [timelineschart](https://github.com/dreamRs/timelineschart) - R interface to timelines-chart.
-- [streamgraph](https://github.com/hrbrmstr/streamgraph) - htmlwidget for creating streamgraph visualizations in R.
-- [eventdropR](https://github.com/timelyportfolio/eventdropR) - htmlwidget for EventDrops, time based and event series interactive visualization using D3.
+- [streamgraph](https://github.com/hrbrmstr/streamgraph) - HTML widget for creating streamgraph visualizations in R.
+- [eventdropR](https://github.com/timelyportfolio/eventdropR) - HTML widget for EventDrops, time based and event series interactive visualization using D3.
 
 ### Tree and Hierarchical Data
 
@@ -433,7 +433,7 @@ add packages to the list.
 - [heatmaply](https://github.com/talgalili/heatmaply/) - Interactive heatmaps using plotly.
 - [rChartsCalmap](https://github.com/ramnathv/rChartsCalmap) - An htmlwidgets binding for calendar heatmaps using D3.
 - [calheatmapR](https://github.com/durtal/calheatmapR) - R interface for the cal-heatmap JavaScript charting library to create calendar heatmaps.
-- [nivocal](https://github.com/react-R/nivocal) - htmlwidget for drawing calendar heatmaps based on nivo.
+- [nivocal](https://github.com/react-R/nivocal) - HTML widget for drawing calendar heatmaps based on nivo.
 - [supercaliheatmapwidget](https://github.com/hrbrmstr/supercaliheatmapwidget) - Supercalifragilistic HTML calendar heatmaps.
 
 ### Maps and Spatial Data
@@ -460,8 +460,8 @@ add packages to the list.
 - [topogram](https://github.com/dreamRs/topogram) - Cartogram htmlwidget for visualizing geographical data by distorting a TopoJSON topology using cartogram-chart.
 - [rsquaire](https://github.com/Jkassof/rsquaire) - R interface for squaire.js, a JavaScript library for making responsive equal-area square maps using D3.
 - [hchinamap](https://cran.r-project.org/package=hchinamap) - Mapping China and its provinces with highcharts.
-- [planetary](https://github.com/jonmcalder/planetary) - htmlwidget for the planetary.js library for creating interactive globes.
-- [gior](https://github.com/JohnCoene/gior) - htmlwidget for gio.js for declarative 3D globe data visualization.
+- [planetary](https://github.com/jonmcalder/planetary) - HTML widget for the planetary.js library for creating interactive globes.
+- [gior](https://github.com/JohnCoene/gior) - HTML widget for gio.js for declarative 3D globe data visualization.
 - [quickglobe](https://github.com/daranzolin/quickglobe) - View country data via a 3D D3 globe.
 
 ### Sparkline
@@ -475,12 +475,12 @@ add packages to the list.
 
 - [wordcloud2](https://github.com/lchiffon/wordcloud2) - Word cloud visualization based on wordcloud2.js.
 - [hwordcloud](https://cran.r-project.org/package=hwordcloud) - Render word clouds with highcharts.
-- [d3wordcloud](https://github.com/jbkunst/d3wordcloud) - htmlwidget for D3.js word cloud layout.
+- [d3wordcloud](https://github.com/jbkunst/d3wordcloud) - HTML widget for D3.js word cloud layout.
 
 ### Biological Data
 
 - [igvR](https://github.com/paul-shannon/igvR) - R package providing interactive connections to igv.js running in a web browser.
-- [igvShiny](https://github.com/paul-shannon/igvShiny) - htmlwidget for igv.js, a JavaScript library for embeddable genomic visualization.
+- [igvShiny](https://github.com/paul-shannon/igvShiny) - HTML widget for igv.js, a JavaScript library for embeddable genomic visualization.
 - [nglShiny](https://github.com/paul-shannon/nglShiny) - NGL Viewer as an htmlwidget for molecular visualization.
 - [msaR](https://github.com/zachcp/msaR) - BioJS-based MSA (multiple sequence alignment) viewer.
 - [TnT](https://github.com/Marlin-Na/TnT) - Track-based visulizations based on the TnT JavaScript libraries. Useful for displaying genomic features as a simple genome browser.
@@ -488,7 +488,7 @@ add packages to the list.
 - [g3viz](https://github.com/G3viz/g3viz) - D3-based interactive lollipop plots.
 - [BioCircos.R](https://github.com/lvulliard/BioCircos.R) - Interactive circular visualization of genomic data using htmlwidgets and BioCircos.js.
 - [chromoMap](https://github.com/cran/chromoMap) - Interactive visualization and mapping of human chromosomes.
-- [ideogRam](https://github.com/freestatman/ideogRam) - htmlwidget for chromosome visualization with ideogram.js.
+- [ideogRam](https://github.com/freestatman/ideogRam) - HTML widget for chromosome visualization with ideogram.js.
 - [flowDashboard](https://github.com/laderast/flowDashboard) - Shiny Modules for visualizing flow cytometry data.
 - [qtlcharts](https://github.com/kbroman/qtlcharts) - Interactive graphics for QTL experiments.
 - [phylocanvas](https://github.com/zachcp/phylocanvas) - Interactive phylogenetic trees using the Phylocanvas JavaScript library.
@@ -499,7 +499,7 @@ add packages to the list.
 ### Chemical Data
 
 - [r3dmol](https://github.com/swsoyee/r3dmol) - Visualizing molecular data in 3D, based on 3Dmol.js.
-- [chemdoodle](https://github.com/zachcp/chemdoodle) - htmlwidget for visualizing and drawing molecules.
+- [chemdoodle](https://github.com/zachcp/chemdoodle) - HTML widget for visualizing and drawing molecules.
 
 ### WebGL
 
