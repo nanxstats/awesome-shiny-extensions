@@ -5,7 +5,7 @@
   <br>
 </p>
 
-# Awesome Shiny Extensions <!-- omit in toc -->
+# Awesome Shiny Extensions
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -23,7 +23,7 @@ add packages to the list.
 
 <hr>
 
-## Contents <!-- omit in toc -->
+## Contents
 
 - [Theming](#theming)
   - [Generic Theming](#generic-theming)
