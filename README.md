@@ -545,6 +545,7 @@ add packages to the list.
 ### Authentication
 
 - [shinymanager](https://github.com/datastorm-open/shinymanager) - Simple and secure authentification mechanism for single Shiny apps.
+- [gargle](https://github.com/r-lib/gargle) - Infrastructure for calling Google APIs from R, including auth.
 - [googleAuthR](https://github.com/MarkEdmondson1234/googleAuthR) - Shiny compatible Google API client for authentication with OAuth2.
 - [auth0](https://github.com/curso-r/auth0) - Authentication in Shiny apps using Auth0.
 - [shinyauthr](https://github.com/PaulC91/shinyauthr) - Server-side authentication using shiny modules.
