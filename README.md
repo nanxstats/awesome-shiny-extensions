@@ -359,6 +359,7 @@ add packages to the list.
 - [r2d3](https://github.com/rstudio/r2d3) - R interface to D3 visualizations.
 - [vegalite](https://github.com/hrbrmstr/vegalite) - R ggplot2 bindings for Vega-Lite.
 - [vegawidget](https://github.com/vegawidget/vegawidget) - HTML widget renderer for Vega and Vega-Lite.
+- [sketch](https://github.com/kcf-jackson/sketch) - Creates static / animated / interactive visualizations embeddable in R Markdown documents and Shiny. Implements an R-to-JavaScript transpiler and enables users to write JavaScript applications using the syntax of R.
 - [ggiraph](https://github.com/davidgohel/ggiraph) - HTML widget that makes ggplot2 graphics interactive. Select graphical elements, add tooltips, animations, and JavaScript actions to the graphics.
 - [rfrappe](https://github.com/merlinoa/rfrappe) - HTML widget for the Frappe Charts JavaScript library.
 - [tuichartr](https://github.com/dreamRs/tuichartr) - HTML widget for tui-chart.
