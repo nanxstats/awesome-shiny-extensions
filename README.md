@@ -534,6 +534,7 @@ add packages to the list.
 
 - [RestRserve](https://github.com/rexyai/RestRserve) - R web API framework for building high-performance and robust microservices and app backends.
 - [plumber](https://github.com/rstudio/plumber/) - Create web APIs by decorating R code with special comments.
+- [valve](https://github.com/JosiahParry/valve) - Create multi-threaded Plumber APIs powered by Rust's tokio and axum web frameworks.
 - [opencpu](https://github.com/opencpu/opencpu) - A system for embedded scientific computing and reproducible research with R.
 
 ### URL Routing
