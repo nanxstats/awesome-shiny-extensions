@@ -674,6 +674,7 @@ add packages to the list.
 
 ### Editor Extensions
 
+- [shiny-vscode](https://marketplace.visualstudio.com/items?itemName=posit.shiny) - VS Code extension to run Shiny apps (in R and Python) and create or save Shinylive links.
 - [shinysnip](https://marketplace.visualstudio.com/items?itemName=Mohamed-El-Fodil-Ihaddaden.shinysnip) - Simple Shiny code snippets generator in VS Code.
 - [textmate.rstheme](https://marketplace.visualstudio.com/items?itemName=nanxstats.textmate-rstheme) - A light theme for VS Code inspired by the TextMate (default) theme in RStudio IDE.
 
@@ -708,4 +709,4 @@ add packages to the list.
 
 ### Python - Editor Extensions
 
-- [pyshiny-vscode](https://marketplace.visualstudio.com/items?itemName=posit.shiny-python) - VS Code extension to help launch Shiny for Python applications.
+- [shiny-vscode](https://marketplace.visualstudio.com/items?itemName=posit.shiny) - VS Code extension to run Shiny apps (in R and Python) and create or save Shinylive links.
