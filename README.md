@@ -105,7 +105,6 @@ add packages to the list.
   - [Python - UI Components](#python---ui-components)
   - [Python - Deploy](#python---deploy)
   - [Python - Persistent Data Storage](#python---persistent-data-storage)
-  - [Python - Editor Extensions](#python---editor-extensions)
 
 ## Theming
 
@@ -170,7 +169,7 @@ add packages to the list.
 
 - [shinyTime](https://github.com/burgerga/shinyTime) - A timeInput widget for Shiny.
 - [shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) - Datetime pickers for Shiny.
-- [shinyMatrix](https://github.com/INWTlab/shiny-matrix) - Matrix input for Shiny.
+- [shinyMatrix](https://github.com/INWTlab/shinyMatrix) - Matrix input for Shiny.
 - [shinyCleave](https://github.com/carlganz/shinyCleave) - Customized text inputs (phone number, ZIP code, currency, credit card) based on Cleave.js.
 - [shinySelect](https://github.com/stla/shinySelect) - A wrapper of the react-select library that supports grouped, sortable items with Font Awesome icons, KaTeX formulas, and Bootstrap tooltips.
 - [regexSelect](https://github.com/yonicd/regexSelect) - Enable regular expression searches within a Shiny selectize object.
@@ -247,7 +246,7 @@ add packages to the list.
 - [pivottabler](https://github.com/cbailiss/pivottabler) - Create pivot tables in R.
 - [pivta](https://github.com/feddelegrand7/pivta) - R wrapper for WebDataRocks, an interactive pivot table component for data analysis.
 - [excelR](https://github.com/Swechhya/excelR) - R interface to the jExcel.js library.
-- [RXSpreadsheet](https://github.com/MichaelHogers/RXSpreadsheet) - R wrapper for the JavaScript canvas spreadsheet library x-spreadsheet.
+- [xSpreadsheet](https://github.com/MichaelHogers/xSpreadsheet) - R wrapper for the JavaScript canvas spreadsheet library x-spreadsheet.
 
 ### Drawers
 
@@ -441,7 +440,7 @@ add packages to the list.
 ### Maps and Spatial Data
 
 - [leaflet](https://github.com/rstudio/leaflet) - R interface to the Leaflet JavaScript library to create interactive maps.
-- [leaflet.extras](https://github.com/bhaskarvk/leaflet.extras) - Extra functionality for the leaflet package.
+- [leaflet.extras](https://github.com/trafficonese/leaflet.extras) - Extra functionality for the leaflet package.
 - [leaflet.extras2](https://github.com/trafficonese/leaflet.extras2) - More plugins for the leaflet package.
 - [leafgl](https://github.com/r-spatial/leafgl) - Performant WebGL rendering for leaflet.
 - [leaflet.minicharts](https://github.com/rte-antares-rpackage/leaflet.minicharts) - Add and modify small charts on the interactive map created with the leaflet package.
@@ -481,8 +480,8 @@ add packages to the list.
 
 ### Biological Data
 
-- [igvR](https://github.com/paul-shannon/igvR) - R package providing interactive connections to igv.js running in a web browser.
-- [igvShiny](https://github.com/paul-shannon/igvShiny) - HTML widget for igv.js, a JavaScript library for embeddable genomic visualization.
+- [igvR](https://github.com/gladkia/igvR) - R package providing interactive connections to igv.js running in a web browser.
+- [igvShiny](https://github.com/gladkia/igvShiny) - HTML widget for igv.js, a JavaScript library for embeddable genomic visualization.
 - [nglShiny](https://github.com/paul-shannon/nglShiny) - NGL Viewer as an htmlwidget for molecular visualization.
 - [msaR](https://github.com/zachcp/msaR) - BioJS-based MSA (multiple sequence alignment) viewer.
 - [TnT](https://github.com/Marlin-Na/TnT) - Track-based visulizations based on the TnT JavaScript libraries. Useful for displaying genomic features as a simple genome browser.
@@ -542,7 +541,7 @@ add packages to the list.
 - [shiny.router](https://github.com/Appsilon/shiny.router) - Minimalistic URL router for Shiny apps.
 - [shinyURL](https://github.com/aoles/shinyURL) - Save and restore the state of a Shiny app by encoding the values of user inputs and active tab panels in the app's URL query string.
 - [brochure](https://github.com/ColinFay/brochure) - Create natively multi-page Shiny applications to serve content from multiple endpoints. See [blog post](https://colinfay.me/post-request-shiny-app-brochure/) on POST requests support.
-- [scenes](https://github.com/r4ds/scenes) - Switch between alternative UIs based on request properties, such as cookies, paths, query parameters, or HTTP request method.
+- [scenes](https://github.com/shinyworks/scenes) - Switch between alternative UIs based on request properties, such as cookies, paths, query parameters, or HTTP request method.
 - [Accepting POST requests from Shiny](https://gist.github.com/jcheng5/2aaff19e67079840350d08361fe7fb20) - Undocumented feature for handling POST requests that are not associated with any specific Shiny session.
 
 ### Authentication
@@ -563,7 +562,7 @@ add packages to the list.
 ### Web APIs Integration
 
 - [glouton](https://github.com/ColinFay/glouton) - Handle browser cookies in shiny, built on top of js-cookie.
-- [cookies](https://github.com/r4ds/cookies) - Another js-cookie package, with added functionality to handle HttpOnly cookies.
+- [cookies](https://github.com/shinyworks/cookies) - Another js-cookie package, with added functionality to handle HttpOnly cookies.
 - [geoloc](https://github.com/ColinFay/geoloc) - Use the Geolocation API to get the location of the user (with user's permission).
 - [shinyStore](https://github.com/trestletech/shinyStore) - Use the Web Storage API to store persistent, synchronized data in the user's browser.
 
@@ -675,6 +674,7 @@ add packages to the list.
 ### Editor Extensions
 
 - [shiny-vscode](https://marketplace.visualstudio.com/items?itemName=posit.shiny) - VS Code extension to run Shiny apps (in R and Python) and create or save Shinylive links.
+- [ShinyUiEditor](https://marketplace.visualstudio.com/items?itemName=Posit.shinyuieditor) - A visual tool for building the UI portion of a Shiny application that generates clean and human-readable code.
 - [shinysnip](https://marketplace.visualstudio.com/items?itemName=Mohamed-El-Fodil-Ihaddaden.shinysnip) - Simple Shiny code snippets generator in VS Code.
 - [textmate.rstheme](https://marketplace.visualstudio.com/items?itemName=nanxstats.textmate-rstheme) - A light theme for VS Code inspired by the TextMate (default) theme in RStudio IDE.
 
@@ -693,20 +693,16 @@ add packages to the list.
 
 ### Python - UI Components
 
-- [py-htmltools](https://github.com/rstudio/py-htmltools) - Tools for creating, manipulating, and writing HTML from Python.
-- [py-faicons](https://github.com/rstudio/py-faicons) - An interface to Font Awesome for use in Shiny for Python.
-- [py-shinywidgets](https://github.com/rstudio/py-shinywidgets) - Render ipywidgets inside a Shiny app.
+- [py-htmltools](https://github.com/posit-dev/py-htmltools) - Tools for creating, manipulating, and writing HTML from Python.
+- [py-faicons](https://github.com/posit-dev/py-faicons) - An interface to Font Awesome for use in Shiny for Python.
+- [py-shinywidgets](https://github.com/posit-dev/py-shinywidgets) - Render ipywidgets inside a Shiny app.
 - [py_shiny_semantic](https://github.com/Appsilon/py_shiny_semantic) - Create rich web applications in PyShiny using styles and components from Fomantic UI.
 
 ### Python - Deploy
 
-- [py-shinylive](https://github.com/rstudio/py-shinylive) - Export Shiny applications as Shinylive applications.
-- [rsconnect-python](https://github.com/rstudio/rsconnect-python) - CLI for interacting with and deploying to Posit Connect.
+- [py-shinylive](https://github.com/posit-dev/py-shinylive) - Export Shiny applications as Shinylive applications.
+- [rsconnect-python](https://github.com/posit-dev/rsconnect-python) - CLI for interacting with and deploying to Posit Connect.
 
 ### Python - Persistent Data Storage
 
 - [pins-python](https://github.com/rstudio/pins-python) - Publish data, models, and other Python objects for sharing across projects and with colleagues.
-
-### Python - Editor Extensions
-
-- [shiny-vscode](https://marketplace.visualstudio.com/items?itemName=posit.shiny) - VS Code extension to run Shiny apps (in R and Python) and create or save Shinylive links.
