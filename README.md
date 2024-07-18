@@ -120,6 +120,7 @@ add packages to the list.
 - [fullPage](https://github.com/RinteRface/fullPage) - Single page styles for Shiny apps.
 - [shinybulma](https://github.com/RinteRface/shinybulma) - Bulma.io for Shiny.
 - [shinyMetroUi](https://github.com/RinteRface/shinyMetroUi) - Metro 4 UI for Shiny.
+- [shinyNextUI](https://github.com/RinteRface/shinyNextUI) - NextUI for Shiny.
 - [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.
 - [gridlayout](https://github.com/rstudio/gridlayout) - Build dashboard-style layouts for Shiny and R Markdown using CSS Grid.
 
@@ -643,7 +644,7 @@ add packages to the list.
 
 ### Profiling
 
-- [profvis](https://github.com/rstudio/profvis) - Interactive visualizations for profiling R code. [Profiling Shiny apps](https://rstudio.github.io/profvis/examples.html#example-3---profiling-a-shiny-application).
+- [profvis](https://github.com/r-lib/profvis) - Interactive visualizations for profiling R code. [Profiling Shiny apps](https://r-lib.github.io/profvis/examples.html#example-3---profiling-a-shiny-application).
 - [shiny.benchmark](https://github.com/Appsilon/shiny.benchmark) - Measure and compare the performance of different versions of a Shiny application.
 - [shiny.info](https://github.com/Appsilon/shiny.info) - Displays simple diagnostic information of the Shiny project in the user interface of the app.
 
