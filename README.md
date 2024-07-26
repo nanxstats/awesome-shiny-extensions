@@ -73,6 +73,9 @@ add packages to the list.
   - [Chemical Data](#chemical-data)
   - [WebGL](#webgl)
   - [Augmented and Virtual Reality](#augmented-and-virtual-reality)
+- [Frameworks](#frameworks)
+  - [Foundational frameworks](#foundational-frameworks)
+  - [Framework extensions](#framework-extensions)
 - [Backend](#backend)
   - [Database](#database)
   - [Persistent Data Storage](#persistent-data-storage)
@@ -121,7 +124,6 @@ add packages to the list.
 - [shinybulma](https://github.com/RinteRface/shinybulma) - Bulma.io for Shiny.
 - [shinyMetroUi](https://github.com/RinteRface/shinyMetroUi) - Metro 4 UI for Shiny.
 - [shinyNextUI](https://github.com/RinteRface/shinyNextUI) - NextUI for Shiny.
-- [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.
 - [gridlayout](https://github.com/rstudio/gridlayout) - Build dashboard-style layouts for Shiny and R Markdown using CSS Grid.
 
 ### Dashboard Theming
@@ -515,6 +517,21 @@ add packages to the list.
 - [shinyaframe](https://github.com/cran/shinyaframe) - WebVR data visualizations with Shiny and Mozilla A-Frame.
 - [arframer](https://github.com/JohnCoene/arframer) - Augmented Reality in R based on AR.js.
 
+## Frameworks
+
+*Shiny app scaffolding and development frameworks built for various purposes.*
+
+### Foundational frameworks
+
+- [Rhino](https://github.com/Appsilon/rhino/) - Build high quality, enterprise-grade Shiny apps at speed.
+- [golem](https://github.com/ThinkR-open/golem) - Opinionated framework for building production-grade Shiny apps.
+- [teal](https://github.com/insightsengineering/teal) - Interactive exploration framework for analyzing clinical trials data, provides a dynamic filtering facility and different data viewers.
+- [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.
+
+### Framework extensions
+
+- [teal.widgets](https://github.com/insightsengineering/teal.widgets) - Shiny widgets for teal applications.
+
 ## Backend
 
 *Backend components and service integrations for Shiny apps.*
@@ -616,8 +633,6 @@ add packages to the list.
 
 ### Prototyping
 
-- [Rhino](https://github.com/Appsilon/rhino/) - Build high quality, enterprise-grade Shiny apps at speed.
-- [golem](https://github.com/ThinkR-open/golem) - Opinionated framework for building production-grade Shiny apps.
 - [shinipsum](https://github.com/ThinkR-open/shinipsum) - Lorem-Ipsum-like helpers for fast Shiny prototyping.
 - [fakir](https://github.com/ThinkR-open/fakir) - Create fake data in R for tutorials.
 - [shinysnippets](https://github.com/ThinkR-open/shinysnippets) - A series of Shiny related RStudio snippets.
