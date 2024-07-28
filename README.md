@@ -530,6 +530,14 @@ add packages to the list.
 
 ### Framework extensions
 
+- [teal.code](https://github.com/insightsengineering/teal.code) - Code storage and execution class for teal applications.
+- [teal.data](https://github.com/insightsengineering/teal.data) - Data model for teal applications.
+- [teal.logger](https://github.com/insightsengineering/teal.logger) - Logging setup for the teal family of packages.
+- [teal.modules.clinical](https://github.com/insightsengineering/teal.modules.clinical) - A set of teal modules for standard clinical outputs.
+- [teal.modules.general](https://github.com/insightsengineering/teal.modules.general) - General modules for teal applications.
+- [teal.reporter](https://github.com/insightsengineering/teal.reporter) - Reporting tools for Shiny modules.
+- [teal.slice](https://github.com/insightsengineering/teal.slice) - Filter module for teal applications.
+- [teal.transform](https://github.com/insightsengineering/teal.transform) - Functions and Shiny modules for extracting and merging data within the teal framework.
 - [teal.widgets](https://github.com/insightsengineering/teal.widgets) - Shiny widgets for teal applications.
 
 ## Backend
