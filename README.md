@@ -98,6 +98,7 @@ add packages to the list.
   - [Testing](#testing)
   - [Profiling](#profiling)
   - [Scaling](#scaling)
+  - [Monitoring and Analytics](#monitoring-and-analytics)
 - [Miscellaneous](#miscellaneous)
   - [UI Customization](#ui-customization)
   - [Dependency Resolution](#dependency-resolution)
@@ -683,6 +684,13 @@ add packages to the list.
 - [shinyParallel](https://github.com/jcrodriguez1989/shinyParallel) - Run Shiny applications in a multi-session mode.
 - [FutureManager](https://github.com/Boehringer-Ingelheim/FutureManager) - Background processes for long-running operations in Shiny applications.
 - [shiny.worker](https://github.com/Appsilon/shiny.worker) - Delegate heavy computation tasks to a separate process in a Shiny application.
+
+### Monitoring and Analytics
+
+- [shinymetrics](https://github.com/devOpifex/shinymetrics) - Track shiny applications with Shinymetrics, providing analytics and telemetry for Shiny applications.
+- [titan](https://github.com/devOpifex/titan) - Prometheus monitoring for Shiny applications, plumber APIs, and other R web services.
+- [openmetrics](https://github.com/atheriel/openmetrics) - An opinionated Prometheus client for R conforming to the OpenMetrics standard.
+- [pRometheus](https://github.com/cfmack/pRometheus) - Prometheus client library for R, Plumber, and Shiny.
 
 ## Miscellaneous
 
