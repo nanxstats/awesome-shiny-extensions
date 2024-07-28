@@ -125,6 +125,7 @@ add packages to the list.
 - [shinyMetroUi](https://github.com/RinteRface/shinyMetroUi) - Metro 4 UI for Shiny.
 - [shinyNextUI](https://github.com/RinteRface/shinyNextUI) - NextUI for Shiny.
 - [gridlayout](https://github.com/rstudio/gridlayout) - Build dashboard-style layouts for Shiny and R Markdown using CSS Grid.
+- [flexlayout](https://github.com/the-y-company/flexlayout) - A responsive three-column layout for Shiny. Creates up-to three-column layout where the left and right columns collapse into offcanvas elements on tablets and mobile devices.
 
 ### Dashboard Theming
 
@@ -156,6 +157,7 @@ add packages to the list.
 ### Bootstrap
 
 - [ShinyWidgets](https://github.com/dreamRs/shinyWidgets) - Bootstrap 3 custom widgets for Shiny (switches, checkboxes, sweet alerts, slider text, knob inputs, select pickers, search bar, dropdown buttons).
+- [bsutils](https://github.com/the-y-company/bsutils) - UI utilities for Bootstrap 5 and Shiny.
 - [bsplus](https://github.com/ijlyttle/bsplus) - Bootstrap 3 addons for Shiny and R Markdown (collapsible elements, accordion panels, accordion-sidebar sets, tooltips, popovers, modals, carousels).
 - [shinyBS](https://github.com/ebailey78/shinyBS) - Bootstrap 3 components for Shiny (alerts, tooltips, popovers, modals, collapsible panels, button upgrades).
 - [slickR](https://github.com/yonicd/slickR) - Carousels for Shiny apps using slick.js.
@@ -347,6 +349,7 @@ add packages to the list.
 - [pagemapR](https://github.com/swsoyee/pagemapR) - Create a mini map for Shiny apps and R Markdown documents.
 - [keys](https://github.com/r4fun/keys) - Assign and listen to keyboard shortcuts in Shiny using the Mousetrap JavaScript library.
 - [js4shiny](https://github.com/gadenbuie/js4shiny) - Companion package for 'JavaScript for Shiny Users' workshop, with components to enable using R Markdown for literate programming with JavaScript.
+- [flexfilter](https://github.com/the-y-company/flexfilter) - Create a filter from a data frame that enables users to dynamically add filters on each column. The filter dynamically generates the appropriate input for the selected column based on its type.
 
 ## Visualization
 
@@ -358,6 +361,7 @@ add packages to the list.
 - [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for the highcharts JavaScript charting library.
 - [rbokeh](https://github.com/bokeh/rbokeh) - R interface for Bokeh.
 - [echarts4r](https://github.com/JohnCoene/echarts4r) - Interactive graphs with Echarts v4.
+- [litecharts4r](https://github.com/the-y-company/litecharts4r) - A lite wrapper around echarts.js and echarts4r.
 - [r2d3](https://github.com/rstudio/r2d3) - R interface to D3 visualizations.
 - [vegalite](https://github.com/hrbrmstr/vegalite) - R ggplot2 bindings for Vega-Lite.
 - [vegawidget](https://github.com/vegawidget/vegawidget) - HTML widget renderer for Vega and Vega-Lite.
@@ -472,6 +476,7 @@ add packages to the list.
 
 - [sparkline](https://github.com/htmlwidgets/sparkline) - jQuery Sparkline (tiny inline charts) HTML Widget for R. [Use sparklines in DT](https://github.com/leonawicz/HtmlWidgetExamples).
 - [reactrend](https://github.com/JohnCoene/reactrend) - Simple, elegant spark lines and trend graphs based on react-trend.
+- [trendchart](https://github.com/the-y-company/trendchart) - Small, simple trendchart for R.
 - [peity](https://github.com/JohnCoene/peity) - Peity htmlwidget for R.
 - [dataui](https://github.com/timelyportfolio/dataui) - Interactive visualizations of data-ui based on vx.
 
@@ -651,6 +656,7 @@ add packages to the list.
 - [supreme](https://github.com/strboul/supreme) - Structure Shiny applications developed with modules.
 - [packer](https://github.com/JohnCoene/packer) - An opinionated framework for using JavaScript with R.
 - [box](https://github.com/klmr/box) - Organize code into hierarchical, composable, reusable modules, to use across projects.
+- [many](https://github.com/the-y-company/many) - Use multiple directories to build R packages.
 
 ### Debugging
 
