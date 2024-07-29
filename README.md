@@ -125,6 +125,7 @@ add packages to the list.
 - [shinyUIkit](https://github.com/RinteRface/shinyUIkit) - UIkit API for Shiny.
 - [fullPage](https://github.com/RinteRface/fullPage) - Single page styles for Shiny apps.
 - [shinybulma](https://github.com/RinteRface/shinybulma) - Bulma.io for Shiny.
+- [shinyChakraUI](https://github.com/stla/shinyChakraUI) - Chakra UI for Shiny.
 - [shinyMetroUi](https://github.com/RinteRface/shinyMetroUi) - Metro 4 UI for Shiny.
 - [shinyNextUI](https://github.com/RinteRface/shinyNextUI) - NextUI for Shiny.
 - [gridlayout](https://github.com/rstudio/gridlayout) - Build dashboard-style layouts for Shiny and R Markdown using CSS Grid.
@@ -178,13 +179,17 @@ add packages to the list.
 
 - [shinyTime](https://github.com/burgerga/shinyTime) - A timeInput widget for Shiny.
 - [shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) - Datetime pickers for Shiny.
+- [DateTimeRangePicker](https://github.com/stla/DateTimeRangePicker) - A datetime range picker widget for Shiny.
 - [shinyMatrix](https://github.com/INWTlab/shinyMatrix) - Matrix input for Shiny.
 - [shinyCleave](https://github.com/carlganz/shinyCleave) - Customized text inputs (phone number, ZIP code, currency, credit card) based on Cleave.js.
 - [shinySelect](https://github.com/stla/shinySelect) - A wrapper of the react-select library that supports grouped, sortable items with Font Awesome icons, KaTeX formulas, and Bootstrap tooltips.
 - [regexSelect](https://github.com/yonicd/regexSelect) - Enable regular expression searches within a Shiny selectize object.
+- [cascadeSelect](https://github.com/stla/cascadeSelect) - Cascade select widget for Shiny, useful for selection of hierarchical choices.
+- [reactCheckbox](https://github.com/stla/reactCheckbox) - Checkbox group input for Shiny, with a head checkbox allowing to check or uncheck all the checkboxes in the group.
 - [ShinyRatingInput](https://github.com/stefanwilhelm/ShinyRatingInput) - Star rating inputs for Shiny based on bootstrap-rating.
 - [algo](https://github.com/feddelegrand7/algo) - Implements the Algolia Places address search auto completion menu on shiny text inputs.
 - [shinyChakraSlider](https://github.com/stla/shinyChakraSlider) - Combined slider and number input for Shiny.
+- [histoslider](https://github.com/cpsievert/histoslider) - A histogram slider input binding for Shiny. Supports creating histograms from numeric, date, and date-time vectors.
 - [shinyMultiActionButton](https://github.com/stla/shinyMultiActionButton) - A multi-action button for Shiny.
 - [NestedMenu](https://github.com/stla/NestedMenu) - Multi-level dropdown menu selection input.
 - [codeModules](https://github.com/statistikat/codeModules) - Shiny modules to import/manipulate/export tabular data, download plots/tables/widgets, and output code with syntax highlighting using highlight.js.
@@ -206,6 +211,7 @@ add packages to the list.
 - [shinyFeedback](https://github.com/merlinoa/shinyFeedback) - Display user feedback next to Shiny inputs.
 - [shinyalert](https://github.com/daattali/shinyalert) - Create pretty popup messages (modals) in Shiny apps.
 - [shinytoastr](https://github.com/MangoTheCat/shinytoastr) - Notifications for Shiny apps, via toastr.
+- [shinyToastify](https://github.com/stla/shinyToastify) - A wrapper of the React-Toastify library for Shiny.
 - [shinypop](https://github.com/dreamRs/shinypop) - Collection of notifications, confirm dialogs, and alerts for Shiny apps based on noty, notie, push.js, and notiflix.
 - [shinyvalidate](https://github.com/rstudio/shinyvalidate) - Add input validation capabilities to Shiny.
 - [awn](https://github.com/JohnCoene/awn) - Awesome Notifications for Shiny.
@@ -233,6 +239,7 @@ add packages to the list.
 
 ### Editor
 
+- [aceEditor](https://github.com/stla/aceEditor) - Ace editor as an HTML widget based on react-ace.
 - [shinyAce](https://github.com/trestletech/shinyAce) - Ace code editor bindings for Shiny.
 - [shinyMonacoEditor](https://github.com/stla/shinyMonacoEditor) - The Monaco Editor in Shiny.
 - [shinyMCE](https://github.com/mul118/shinyMCE) - TinyMCE WYSIWYG editor bindings for Shiny.
@@ -248,6 +255,7 @@ add packages to the list.
 
 - [DT](https://github.com/rstudio/DT) - R interface to the DataTables library.
 - [reactable](https://github.com/glin/reactable) - Interactive data tables for R, based on the React Table library and made with reactR.
+- [reactable.extras](https://github.com/Appsilon/reactable.extras) - Enhanced functionality for reactable in Shiny applications, with interactive and dynamic data table capabilities.
 - [reactablefmtr](https://github.com/kcuilla/reactablefmtr) - Simplify the styling, formatting, and customization of tables made with reactable.
 - [kableExtra](https://github.com/haozhu233/kableExtra) - Construct complex table with `knitr::kable()` and pipes.
 - [formattable](https://github.com/renkun-ken/formattable) - Table elements formatting and styling for R Markdown documents and Shiny apps.
