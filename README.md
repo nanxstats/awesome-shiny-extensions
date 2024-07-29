@@ -40,6 +40,7 @@ add packages to the list.
   - [Clipboard](#clipboard)
   - [Color Picker](#color-picker)
   - [Editor](#editor)
+  - [Chat](#chat)
   - [Table](#table)
   - [Drawers](#drawers)
   - [Drag and Drop](#drag-and-drop)
@@ -237,6 +238,12 @@ add packages to the list.
 - [shinyMCE](https://github.com/mul118/shinyMCE) - TinyMCE WYSIWYG editor bindings for Shiny.
 - [sqlquery](https://github.com/dreamRs/sqlquery) - HTML widget for writing SQL queries with autocompletion for SQL keywords and table/field names.
 
+### Chat
+
+- [chattr](https://github.com/mlverse/chattr) - Interact with large language models (LLMs) in RStudio through the R console or Shiny gadget.
+- [gptstudio](https://github.com/MichelNivard/gptstudio) - Incorporate use of large language models (LLMs) into project workflows, with Shiny bindings for streamingMessage components.
+- [shinyChatR](https://github.com/julianschmocker/shinyChatR) - Reusable chat module for Shiny apps. Allows sending messages and view messages from other users. Messages can be stored in a database or a `.rds` file.
+
 ### Table
 
 - [DT](https://github.com/rstudio/DT) - R interface to the DataTables library.
@@ -345,7 +352,6 @@ add packages to the list.
 - [shinyjs](https://github.com/daattali/shinyjs) - Perform common JavaScript operations in Shiny apps.
 - [shinyjqui](https://github.com/Yang-Tang/shinyjqui) - Add jQuery UI interactions and effects (e.g. draggable, resizable, sortable elements) to Shiny apps.
 - [shiny.collections](https://github.com/Appsilon/shiny.collections) - Google Docs-like live collaboration in Shiny with RethinkDB.
-- [shinyChatR](https://github.com/julianschmocker/shinyChatR) - Reusable chat module for Shiny apps. Allows sending messages and view messages from other users. Messages can be stored in a database or a `.rds` file.
 - [shinyCanvas](https://github.com/yonicd/shinyCanvas) - Create and customize an interactive canvas using the D3 JavaScript library and the htmlwidgets package.
 - [shinymeta](https://github.com/rstudio/shinymeta) - Record and expose Shiny app logic using metaprogramming.
 - [shinyscroll](https://github.com/JohnCoene/shinyscroll) - Scroll to an element in Shiny.
