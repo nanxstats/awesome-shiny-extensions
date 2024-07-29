@@ -108,6 +108,7 @@ add packages to the list.
   - [Books](#books)
   - [Videos / Screencasts](#videos--screencasts)
 - [Shiny for Python](#shiny-for-python)
+  - [Python - Theming](#python---theming)
   - [Python - UI Components](#python---ui-components)
   - [Python - Deploy](#python---deploy)
   - [Python - Persistent Data Storage](#python---persistent-data-storage)
@@ -752,6 +753,10 @@ add packages to the list.
 - [Shiny Developer Series](https://shinydevseries.com) - Interviews with practitioners & developers of Shiny and the broader ecosystem of Shiny packages, plus occasional live streams of Shiny app development in action.
 
 ## Shiny for Python
+
+### Python - Theming
+
+- [py-shinyswatch](https://github.com/posit-dev/py-shinyswatch) - Bootswatch themes for py-shiny.
 
 ### Python - UI Components
 
