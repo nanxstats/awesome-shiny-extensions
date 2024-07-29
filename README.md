@@ -75,6 +75,7 @@ add packages to the list.
   - [Augmented and Virtual Reality](#augmented-and-virtual-reality)
 - [Frameworks](#frameworks)
   - [Foundational frameworks](#foundational-frameworks)
+  - [Scaffolding](#scaffolding)
   - [Framework extensions](#framework-extensions)
 - [Backend](#backend)
   - [Database](#database)
@@ -98,6 +99,7 @@ add packages to the list.
   - [Testing](#testing)
   - [Profiling](#profiling)
   - [Scaling](#scaling)
+  - [Monitoring and Analytics](#monitoring-and-analytics)
 - [Miscellaneous](#miscellaneous)
   - [UI Customization](#ui-customization)
   - [Dependency Resolution](#dependency-resolution)
@@ -156,13 +158,14 @@ add packages to the list.
 
 ### Bootstrap
 
-- [ShinyWidgets](https://github.com/dreamRs/shinyWidgets) - Bootstrap 3 custom widgets for Shiny (switches, checkboxes, sweet alerts, slider text, knob inputs, select pickers, search bar, dropdown buttons).
-- [bsutils](https://github.com/the-y-company/bsutils) - UI utilities for Bootstrap 5 and Shiny.
 - [bsplus](https://github.com/ijlyttle/bsplus) - Bootstrap 3 addons for Shiny and R Markdown (collapsible elements, accordion panels, accordion-sidebar sets, tooltips, popovers, modals, carousels).
+- [bsutils](https://github.com/the-y-company/bsutils) - UI utilities for Bootstrap 5 and Shiny.
+- [litter](https://github.com/devOpifex/litter) - Lit components for Shiny.
+- [ShinyWidgets](https://github.com/dreamRs/shinyWidgets) - Bootstrap 3 custom widgets for Shiny (switches, checkboxes, sweet alerts, slider text, knob inputs, select pickers, search bar, dropdown buttons).
 - [shinyBS](https://github.com/ebailey78/shinyBS) - Bootstrap 3 components for Shiny (alerts, tooltips, popovers, modals, collapsible panels, button upgrades).
-- [slickR](https://github.com/yonicd/slickR) - Carousels for Shiny apps using slick.js.
 - [shinyLP](https://github.com/jasdumas/shinyLP) - Bootstrap 3 landing pages for Shiny apps.
 - [shinypanels](https://github.com/datasketch/shinypanels) - Shiny layout with collapsible panels.
+- [slickR](https://github.com/yonicd/slickR) - Carousels for Shiny apps using slick.js.
 - [spsComps](https://github.com/lz100/spsComps) - Additional Bootstrap 3 custom UI components (gallery, panels, buttons, animation and more) and additional Shiny server components (exception catch, validation, etc.).
 
 ### File Input
@@ -361,6 +364,7 @@ add packages to the list.
 - [highcharter](https://github.com/jbkunst/highcharter) - R wrapper for the highcharts JavaScript charting library.
 - [rbokeh](https://github.com/bokeh/rbokeh) - R interface for Bokeh.
 - [echarts4r](https://github.com/JohnCoene/echarts4r) - Interactive graphs with Echarts v4.
+- [g2r](https://github.com/devOpifex/g2r) - Grammar of graphics for interactive visualization using G2.js.
 - [litecharts4r](https://github.com/the-y-company/litecharts4r) - A lite wrapper around echarts.js and echarts4r.
 - [r2d3](https://github.com/rstudio/r2d3) - R interface to D3 visualizations.
 - [vegalite](https://github.com/hrbrmstr/vegalite) - R ggplot2 bindings for Vega-Lite.
@@ -533,6 +537,11 @@ add packages to the list.
 - [teal](https://github.com/insightsengineering/teal) - Interactive exploration framework for analyzing clinical trials data, provides a dynamic filtering facility and different data viewers.
 - [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.
 
+### Scaffolding
+
+- [leprechaun](https://github.com/devOpifex/leprechaun) - Code generator for lean and robust Shiny applications.
+- [windy](https://github.com/devOpifex/windy) - Sets up basic scaffold to use Tailwind CSS within an R package for a Shiny application.
+
 ### Framework extensions
 
 - [teal.code](https://github.com/insightsengineering/teal.code) - Code storage and execution class for teal applications.
@@ -566,6 +575,7 @@ add packages to the list.
 - [plumber](https://github.com/rstudio/plumber/) - Create web APIs by decorating R code with special comments.
 - [valve](https://github.com/JosiahParry/valve) - Create multi-threaded Plumber APIs powered by Rust's tokio and axum web frameworks.
 - [opencpu](https://github.com/opencpu/opencpu) - A system for embedded scientific computing and reproducible research with R.
+- [communicate](https://github.com/devOpifex/communicate) - Small framework to communicate between Shiny client and server via HTTP requests.
 
 ### URL Routing
 
@@ -657,6 +667,7 @@ add packages to the list.
 - [packer](https://github.com/JohnCoene/packer) - An opinionated framework for using JavaScript with R.
 - [box](https://github.com/klmr/box) - Organize code into hierarchical, composable, reusable modules, to use across projects.
 - [many](https://github.com/the-y-company/many) - Use multiple directories to build R packages.
+- [component](https://github.com/devOpifex/component) - Create components for Shiny, inspired by Vue.js.
 
 ### Debugging
 
@@ -683,6 +694,13 @@ add packages to the list.
 - [shinyParallel](https://github.com/jcrodriguez1989/shinyParallel) - Run Shiny applications in a multi-session mode.
 - [FutureManager](https://github.com/Boehringer-Ingelheim/FutureManager) - Background processes for long-running operations in Shiny applications.
 - [shiny.worker](https://github.com/Appsilon/shiny.worker) - Delegate heavy computation tasks to a separate process in a Shiny application.
+
+### Monitoring and Analytics
+
+- [shinymetrics](https://github.com/devOpifex/shinymetrics) - Track shiny applications with Shinymetrics, providing analytics and telemetry for Shiny applications.
+- [titan](https://github.com/devOpifex/titan) - Prometheus monitoring for Shiny applications, plumber APIs, and other R web services.
+- [openmetrics](https://github.com/atheriel/openmetrics) - An opinionated Prometheus client for R conforming to the OpenMetrics standard.
+- [pRometheus](https://github.com/cfmack/pRometheus) - Prometheus client library for R, Plumber, and Shiny.
 
 ## Miscellaneous
 
