@@ -671,6 +671,7 @@ add packages to the list.
 
 ### Prototyping
 
+- [shinyuieditor](https://github.com/rstudio/shinyuieditor) - A GUI for laying out a Shiny application that generates clean and human-readable UI code.
 - [shinipsum](https://github.com/ThinkR-open/shinipsum) - Lorem-Ipsum-like helpers for fast Shiny prototyping.
 - [fakir](https://github.com/ThinkR-open/fakir) - Create fake data in R for tutorials.
 - [shinysnippets](https://github.com/ThinkR-open/shinysnippets) - A series of Shiny related RStudio snippets.
