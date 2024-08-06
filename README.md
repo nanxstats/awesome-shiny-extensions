@@ -110,6 +110,7 @@ add packages to the list.
 - [Shiny for Python](#shiny-for-python)
   - [Python - Theming](#python---theming)
   - [Python - UI Components](#python---ui-components)
+  - [Python - Frameworks](#python---frameworks)
   - [Python - Deploy](#python---deploy)
   - [Python - Persistent Data Storage](#python---persistent-data-storage)
 
@@ -122,6 +123,7 @@ add packages to the list.
 - [shinythemes](https://github.com/rstudio/shinythemes) - Bootswatch themes (Bootstrap 3) for Shiny.
 - [shiny.semantic](https://github.com/Appsilon/shiny.semantic) - Fomantic UI (formerly Semantic UI) for Shiny.
 - [shiny.fluent](https://github.com/Appsilon/shiny.fluent) - Fluent UI for Shiny apps.
+- [shiny.blueprint](https://github.com/Appsilon/shiny.blueprint) - Palantir's Blueprint for Shiny apps.
 - [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Material Design for Shiny with Materialize.css.
 - [shinyUIkit](https://github.com/RinteRface/shinyUIkit) - UIkit API for Shiny.
 - [fullPage](https://github.com/RinteRface/fullPage) - Single page styles for Shiny apps.
@@ -191,6 +193,7 @@ add packages to the list.
 - [algo](https://github.com/feddelegrand7/algo) - Implements the Algolia Places address search auto completion menu on shiny text inputs.
 - [shinyChakraSlider](https://github.com/stla/shinyChakraSlider) - Combined slider and number input for Shiny.
 - [histoslider](https://github.com/cpsievert/histoslider) - A histogram slider input binding for Shiny. Supports creating histograms from numeric, date, and date-time vectors.
+- [shinynlq](https://github.com/Appsilon/shinynlq) - Natural language queries (NLQs) for Shiny as a bslib custom component.
 - [shinyMultiActionButton](https://github.com/stla/shinyMultiActionButton) - A multi-action button for Shiny.
 - [NestedMenu](https://github.com/stla/NestedMenu) - Multi-level dropdown menu selection input.
 - [codeModules](https://github.com/statistikat/codeModules) - Shiny modules to import/manipulate/export tabular data, download plots/tables/widgets, and output code with syntax highlighting using highlight.js.
@@ -201,6 +204,7 @@ add packages to the list.
 - [shinycssloaders](https://github.com/daattali/shinycssloaders) - CSS loader animations for Shiny outputs.
 - [shinycustomloader](https://github.com/emitanaka/shinycustomloader) - Custom css/html or gif/image loaders for Shiny outputs.
 - [shinybusy](https://github.com/dreamRs/shinybusy) - Minimal busy indicator for Shiny apps.
+- [shiny.emptystate](https://github.com/Appsilon/shiny.emptystate) - Empty state components for Shiny.
 - [shinydisconnect](https://github.com/daattali/shinydisconnect) - Show a nice message when a Shiny app disconnects or errors.
 - [waiter](https://github.com/JohnCoene/waiter) - Splash loading screens for Shiny.
 - [sever](https://github.com/JohnCoene/sever) - Customize Shiny's disconnected screen.
@@ -510,7 +514,9 @@ add packages to the list.
 - [igvR](https://github.com/gladkia/igvR) - R package providing interactive connections to igv.js running in a web browser.
 - [igvShiny](https://github.com/gladkia/igvShiny) - HTML widget for igv.js, a JavaScript library for embeddable genomic visualization.
 - [nglShiny](https://github.com/paul-shannon/nglShiny) - NGL Viewer as an htmlwidget for molecular visualization.
+- [shiny.molstar](https://github.com/Appsilon/shiny.molstar) - Shiny wrapper for Mol*, a visualization toolkit of large scale molecular data.
 - [msaR](https://github.com/zachcp/msaR) - BioJS-based MSA (multiple sequence alignment) viewer.
+- [shiny.gosling](https://github.com/Appsilon/shiny.gosling) - Shiny wrapper for Gosling.js, grammar-based toolkit for scalable and interactive genomics data visualization.
 - [TnT](https://github.com/Marlin-Na/TnT) - Track-based visulizations based on the TnT JavaScript libraries. Useful for displaying genomic features as a simple genome browser.
 - [mutsneedle](https://github.com/freezecoder/mutsneedle) - Interactive mutation lollipop diagrams.
 - [g3viz](https://github.com/G3viz/g3viz) - D3-based interactive lollipop plots.
@@ -703,6 +709,7 @@ add packages to the list.
 - [profvis](https://github.com/r-lib/profvis) - Interactive visualizations for profiling R code. [Profiling Shiny apps](https://r-lib.github.io/profvis/examples.html#example-3---profiling-a-shiny-application).
 - [shiny.benchmark](https://github.com/Appsilon/shiny.benchmark) - Measure and compare the performance of different versions of a Shiny application.
 - [shiny.info](https://github.com/Appsilon/shiny.info) - Displays simple diagnostic information of the Shiny project in the user interface of the app.
+- [shiny.tictoc](https://github.com/Appsilon/shiny.tictoc) - Measure Shiny app performance in the browser.
 
 ### Scaling
 
@@ -713,6 +720,7 @@ add packages to the list.
 
 ### Monitoring and Analytics
 
+- [shiny.telemetry](https://github.com/Appsilon/shiny.telemetry) - Track events occurring on a user session and stores them in a local or remote database.
 - [shinymetrics](https://github.com/devOpifex/shinymetrics) - Track shiny applications with Shinymetrics, providing analytics and telemetry for Shiny applications.
 - [titan](https://github.com/devOpifex/titan) - Prometheus monitoring for Shiny applications, plumber APIs, and other R web services.
 - [openmetrics](https://github.com/atheriel/openmetrics) - An opinionated Prometheus client for R conforming to the OpenMetrics standard.
@@ -765,6 +773,10 @@ add packages to the list.
 - [py-faicons](https://github.com/posit-dev/py-faicons) - An interface to Font Awesome for use in Shiny for Python.
 - [py-shinywidgets](https://github.com/posit-dev/py-shinywidgets) - Render ipywidgets inside a Shiny app.
 - [py_shiny_semantic](https://github.com/Appsilon/py_shiny_semantic) - Create rich web applications in PyShiny using styles and components from Fomantic UI.
+
+### Python - Frameworks
+
+- [Tapyr](https://github.com/Appsilon/tapyr-template) - Shiny for Python application template.
 
 ### Python - Deploy
 
