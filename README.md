@@ -195,7 +195,7 @@ add packages to the list.
 - [shinyChakraSlider](https://github.com/stla/shinyChakraSlider) - Combined slider and number input for Shiny.
 - [histoslider](https://github.com/cpsievert/histoslider) - A histogram slider input binding for Shiny. Supports creating histograms from numeric, date, and date-time vectors.
 - [shinynlq](https://github.com/Appsilon/shinynlq) - Natural language queries (NLQs) for Shiny as a bslib custom component.
-- [shinyMultiActionButton](https://github.com/stla/shinyMultiActionButton) - A multi-action button for Shiny.
+- [multiActionButton](https://github.com/stla/multiActionButton) - A multi-action button for Shiny.
 - [NestedMenu](https://github.com/stla/NestedMenu) - Multi-level dropdown menu selection input.
 - [codeModules](https://github.com/statistikat/codeModules) - Shiny modules to import/manipulate/export tabular data, download plots/tables/widgets, and output code with syntax highlighting using highlight.js.
 - [shiny-highlight-rmarkdown](https://github.com/nanxstats/shiny-highlight-rmarkdown) - R code and R Markdown code output syntax highlighting using highlight.js.
@@ -247,6 +247,7 @@ add packages to the list.
 
 - [aceEditor](https://github.com/stla/aceEditor) - Ace editor as an HTML widget based on react-ace.
 - [shinyAce](https://github.com/trestletech/shinyAce) - Ace code editor bindings for Shiny.
+- [monaco](https://github.com/stla/monaco) - The Monaco editor as an HTML widget.
 - [shinyMonacoEditor](https://github.com/stla/shinyMonacoEditor) - The Monaco Editor in Shiny.
 - [shinyMCE](https://github.com/mul118/shinyMCE) - TinyMCE WYSIWYG editor bindings for Shiny.
 - [sqlquery](https://github.com/dreamRs/sqlquery) - HTML widget for writing SQL queries with autocompletion for SQL keywords and table/field names.
@@ -272,6 +273,7 @@ add packages to the list.
 - [dteditmod](https://github.com/DavidPatShuiFong/DTedit) - A fork of DTedit with a modular implementation and more [documentation](https://rpubs.com/DavidFong/DTedit).
 - [texPreview](https://github.com/yonicd/texPreview) - Preview and save images of rendered snippets of LaTeX in RStudio viewer, R Markdown and Shiny.
 - [basictabler](https://github.com/cbailiss/basictabler) - Construct rich tables for output to HTML/Excel.
+- [tableHTML](https://github.com/LyzandeR/tableHTML) - Create and style HTML tables with CSS.
 - [pivottabler](https://github.com/cbailiss/pivottabler) - Create pivot tables in R.
 - [shinypivottabler](https://github.com/datastorm-open/shinypivottabler) - Shiny module to create, visualize, customize, and export Excel-like pivot tables.
 - [rpivotTable](https://github.com/smartinsightsfromdata/rpivotTable) - Build pivot tables and dynamically slice and dice data using the pivottable JavaScript library.
