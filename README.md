@@ -73,6 +73,7 @@ add packages to the list.
   - [Biological Data](#biological-data)
   - [Chemical Data](#chemical-data)
   - [WebGL](#webgl)
+  - [Animated Visualization](#animated-visualization)
   - [Augmented and Virtual Reality](#augmented-and-virtual-reality)
 - [Frameworks](#frameworks)
   - [Foundational frameworks](#foundational-frameworks)
@@ -335,6 +336,8 @@ add packages to the list.
 
 ### Animation Effects
 
+- [aniview](https://github.com/lgnbhl/aniview) - Animate Shiny and R Markdown content when it comes into view using Animate.css.
+- [aos](https://github.com/lgnbhl/aos) - Animate on scroll elements in Shiny using the AOS (Animate On Scroll) jQuery library.
 - [typedjs](https://github.com/JohnCoene/typedjs) - R htmlwidget for animated typing effect with typed.js.
 - [countup](https://github.com/JohnCoene/countup) - R htmlwidget that animates a numerical value by counting to it with CountUp.js.
 - [textillate](https://github.com/JohnCoene/textillate) - CSS3 text animations with textillate.js.
@@ -343,6 +346,9 @@ add packages to the list.
 - [hover](https://github.com/r4fun/hover) - Add animations to Shiny button elements using Hover.css.
 - [bubblyr](https://github.com/feddelegrand7/bubblyr) - Add animated bubbles to Shiny and R Markdown backgrounds.
 - [shinyEffects](https://github.com/RinteRface/shinyEffects) - Customize shiny apps with CSS effects (Zoom / Pulse / Shadow / Shake).
+- [shinyanimate](https://github.com/Swechhya/shinyanimate) - Add animations to any UI element in Shiny apps using the element ID, built on animate.css.
+- [shinyLottie](https://github.com/camhowitt/shinyLottie) - Integrate and control Lottie animations within Shiny applications, without the need for idiosyncratic expression or use of JavaScript.
+- [vov](https://github.com/tylerlittlefield/vov) - vov.css animations for Shiny.
 
 ### i18n
 
@@ -543,6 +549,11 @@ add packages to the list.
 - [rayshader](https://github.com/tylermorganwall/rayshader) - Create and visualize hillshaded maps from elevation matrices.
 - [rayrender](https://github.com/tylermorganwall/rayrender) - Build and raytrace 3D scenes.
 - [rayimage](https://github.com/tylermorganwall/rayimage) - Render depth of field for images.
+
+### Animated Visualization
+
+- [animate](https://github.com/kcf-jackson/animate) - Web-based graphics device for animated visualization in R.
+- [animint2](https://github.com/animint/animint2) - Generate animated, interactive data visualizations using a similar syntax to ggplot2.
 
 ### Augmented and Virtual Reality
 
