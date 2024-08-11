@@ -470,10 +470,12 @@ add packages to the list.
 
 - [d3heatmap](https://github.com/talgalili/d3heatmap) - D3-based interactive heatmaps (highlight rows/columns, zoom in/out, clustering, dendrograms).
 - [heatmaply](https://github.com/talgalili/heatmaply/) - Interactive heatmaps using plotly.
+- [shinyHeatmaply](https://github.com/yonicd/shinyHeatmaply) - Access functionality of the heatmaply package through Shiny UI.
 - [rChartsCalmap](https://github.com/ramnathv/rChartsCalmap) - An htmlwidgets binding for calendar heatmaps using D3.
 - [calheatmapR](https://github.com/durtal/calheatmapR) - R interface for the cal-heatmap JavaScript charting library to create calendar heatmaps.
 - [nivocal](https://github.com/react-R/nivocal) - HTML widget for drawing calendar heatmaps based on nivo.
 - [supercaliheatmapwidget](https://github.com/hrbrmstr/supercaliheatmapwidget) - Supercalifragilistic HTML calendar heatmaps.
+- [iheatmapr](https://github.com/ropensci/iheatmapr) - Make complex, interactive heatmaps.
 
 ### Maps and Spatial Data
 
