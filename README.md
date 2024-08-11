@@ -310,6 +310,8 @@ add packages to the list.
 ### Icon Font
 
 - [fontawesome](https://github.com/rstudio/fontawesome) - Insert FontAwesome icons into R Markdown documents and Shiny apps.
+- [phosphoricons](https://github.com/dreamRs/phosphoricons) - Use Phosphor icons in Shiny applications or R Markdown documents.
+- [rheroicons](https://github.com/davidruvolo51/rheroicons) - Use Heroicons in Shiny applications.
 - [icongram](https://github.com/r4fun/icongram) - Interface to Icongram, easily fetch svg icons with a single function.
 
 ### Image Comparison
@@ -734,6 +736,7 @@ add packages to the list.
 
 - [Bootstrap Live Customizer](https://www.bootstrap-live-customizer.com/) - Customize Bootswatch themes (Bootstrap 3) to create your own Bootstrap themes.
 - [google-webfonts-helper](https://gwfh.mranftl.com/fonts) - A hassle-free way to self-hosted Google Fonts, useful for air-gapped environments.
+- [gfonts](https://github.com/dreamRs/gfonts) - Download Google Fonts (via google-webfonts-helper) and generate CSS to use in R Markdown documents and Shiny applications.
 - [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen) - Display HTML elements on full screen using 'screenfull.js'.
 
 ### Dependency Resolution
