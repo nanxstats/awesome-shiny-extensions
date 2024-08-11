@@ -273,6 +273,8 @@ add packages to the list.
 - [texPreview](https://github.com/yonicd/texPreview) - Preview and save images of rendered snippets of LaTeX in RStudio viewer, R Markdown and Shiny.
 - [basictabler](https://github.com/cbailiss/basictabler) - Construct rich tables for output to HTML/Excel.
 - [pivottabler](https://github.com/cbailiss/pivottabler) - Create pivot tables in R.
+- [shinypivottabler](https://github.com/datastorm-open/shinypivottabler) - Shiny module to create, visualize, customize, and export Excel-like pivot tables.
+- [rpivotTable](https://github.com/smartinsightsfromdata/rpivotTable) - Build pivot tables and dynamically slice and dice data using the pivottable JavaScript library.
 - [pivta](https://github.com/feddelegrand7/pivta) - R wrapper for WebDataRocks, an interactive pivot table component for data analysis.
 - [excelR](https://github.com/Swechhya/excelR) - R interface to the jExcel.js library.
 - [xSpreadsheet](https://github.com/MichaelHogers/xSpreadsheet) - R wrapper for the JavaScript canvas spreadsheet library x-spreadsheet.
