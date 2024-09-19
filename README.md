@@ -669,6 +669,7 @@ add packages to the list.
 
 ### Static Server Deploy
 
+- [r-shinylive](https://github.com/posit-dev/r-shinylive/) - Run Shiny apps entirely in the browser using WebAssembly via webR.
 - [webR](https://github.com/r-wasm/webr/) - A version of R compiled for the browser and Node.js using WebAssembly via Emscripten.
 
 ## Developer Tools
