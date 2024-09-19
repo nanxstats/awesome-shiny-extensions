@@ -431,7 +431,7 @@ add packages to the list.
 - [jsTreeR](https://github.com/stla/jsTreeR) - A wrapper of the JavaScript library jsTree.
 - [shinyCheckboxTree](https://github.com/stla/shinyCheckboxTree) - Checkbox tree widget for Shiny. Wrapper of the JavaScript library react-checkbox-tree.
 - [listviewer](https://github.com/timelyportfolio/listviewer) - View and modify lists interactively, based on jsoneditor and react-json-view.
-- [trelliscopejs](https://github.com/hafen/trelliscopejs/) - Create interactive Trelliscope displays based on trelliscopejs-lib.
+- [trelliscopejs](https://github.com/hafen/trelliscopejs) - Create interactive Trelliscope displays based on trelliscopejs-lib.
 - [Rmarkmap](https://github.com/seifer08ms/Rmarkmap) - Create interactive mind maps with the markmap JavaScript library.
 
 ### Network and Graph Data
@@ -461,7 +461,7 @@ add packages to the list.
 ### Heatmap
 
 - [d3heatmap](https://github.com/talgalili/d3heatmap) - D3-based interactive heatmaps (highlight rows/columns, zoom in/out, clustering, dendrograms).
-- [heatmaply](https://github.com/talgalili/heatmaply/) - Interactive heatmaps using plotly.
+- [heatmaply](https://github.com/talgalili/heatmaply) - Interactive heatmaps using plotly.
 - [rChartsCalmap](https://github.com/ramnathv/rChartsCalmap) - An htmlwidgets binding for calendar heatmaps using D3.
 - [calheatmapR](https://github.com/durtal/calheatmapR) - R interface for the cal-heatmap JavaScript charting library to create calendar heatmaps.
 - [nivocal](https://github.com/react-R/nivocal) - HTML widget for drawing calendar heatmaps based on nivo.
@@ -553,7 +553,7 @@ add packages to the list.
 
 ### Foundational frameworks
 
-- [Rhino](https://github.com/Appsilon/rhino/) - Build high quality, enterprise-grade Shiny apps at speed.
+- [Rhino](https://github.com/Appsilon/rhino) - Build high quality, enterprise-grade Shiny apps at speed.
 - [golem](https://github.com/ThinkR-open/golem) - Opinionated framework for building production-grade Shiny apps.
 - [teal](https://github.com/insightsengineering/teal) - Interactive exploration framework for analyzing clinical trials data, provides a dynamic filtering facility and different data viewers.
 - [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.
@@ -593,7 +593,7 @@ add packages to the list.
 ### API Frameworks
 
 - [RestRserve](https://github.com/rexyai/RestRserve) - R web API framework for building high-performance and robust microservices and app backends.
-- [plumber](https://github.com/rstudio/plumber/) - Create web APIs by decorating R code with special comments.
+- [plumber](https://github.com/rstudio/plumber) - Create web APIs by decorating R code with special comments.
 - [valve](https://github.com/JosiahParry/valve) - Create multi-threaded Plumber APIs powered by Rust's tokio and axum web frameworks.
 - [opencpu](https://github.com/opencpu/opencpu) - A system for embedded scientific computing and reproducible research with R.
 - [communicate](https://github.com/devOpifex/communicate) - Small framework to communicate between Shiny client and server via HTTP requests.
@@ -669,7 +669,8 @@ add packages to the list.
 
 ### Static Server Deploy
 
-- [webR](https://github.com/r-wasm/webr/) - A version of R compiled for the browser and Node.js using WebAssembly via Emscripten.
+- [r-shinylive](https://github.com/posit-dev/r-shinylive) - Run Shiny apps entirely in the browser using WebAssembly via webR.
+- [webR](https://github.com/r-wasm/webr) - A version of R compiled for the browser and Node.js using WebAssembly via Emscripten.
 
 ## Developer Tools
 
@@ -698,7 +699,7 @@ add packages to the list.
 ### Testing
 
 - [shinytest](https://github.com/rstudio/shinytest) - Automated testing for Shiny apps.
-- [shinytest2](https://github.com/rstudio/shinytest2/) - Automated unit testing of Shiny apps through a headless Chromium browser.
+- [shinytest2](https://github.com/rstudio/shinytest2) - Automated unit testing of Shiny apps through a headless Chromium browser.
 - [shinyloadtest](https://github.com/rstudio/shinyloadtest) - Load testing for Shiny apps.
 - [reactor](https://github.com/yonicd/reactor) - Unit testing for Shiny reactivity.
 - [shinyValidator](https://github.com/Novartis/shinyValidator) - Audit Shiny apps at each commit.
@@ -706,7 +707,7 @@ add packages to the list.
 
 ### Profiling
 
-- [profvis](https://github.com/r-lib/profvis) - Interactive visualizations for profiling R code. [Profiling Shiny apps](https://r-lib.github.io/profvis/examples.html#example-3---profiling-a-shiny-application).
+- [profvis](https://github.com/r-lib/profvis) - Interactive visualizations for profiling R code. [Profiling Shiny apps](https://profvis.r-lib.org/examples.html#example-3---profiling-a-shiny-application).
 - [shiny.benchmark](https://github.com/Appsilon/shiny.benchmark) - Measure and compare the performance of different versions of a Shiny application.
 - [shiny.info](https://github.com/Appsilon/shiny.info) - Displays simple diagnostic information of the Shiny project in the user interface of the app.
 - [shiny.tictoc](https://github.com/Appsilon/shiny.tictoc) - Measure Shiny app performance in the browser.
