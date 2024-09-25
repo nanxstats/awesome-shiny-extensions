@@ -627,6 +627,7 @@ add packages to the list.
 - [cookies](https://github.com/shinyworks/cookies) - Another js-cookie package, with added functionality to handle HttpOnly cookies.
 - [geoloc](https://github.com/ColinFay/geoloc) - Use the Geolocation API to get the location of the user (with user's permission).
 - [shinyStore](https://github.com/trestletech/shinyStore) - Use the Web Storage API to store persistent, synchronized data in the user's browser.
+- [shinyStorePlus](https://github.com/oobianom/shinyStorePlus) - In-browser storage for Shiny persistent, synchronized data from the inputs using IndexedDB.
 
 ### Notification Integration
 
