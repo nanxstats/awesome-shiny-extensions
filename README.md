@@ -266,6 +266,8 @@ add packages to the list.
 - [formattable](https://github.com/renkun-ken/formattable) - Table elements formatting and styling for R Markdown documents and Shiny apps.
 - [flextable](https://github.com/davidgohel/flextable) - Create tables for reporting with format and layout control.
 - [gt](https://github.com/rstudio/gt) - Generate information-rich, publication-quality tables.
+- [gtExtras](https://github.com/jthomasmock/gtExtras) - Extending gt for beautiful HTML tables.
+- [gtsummary](https://github.com/ddsjoberg/gtsummary) - Presentation-ready data summary and analytic result tables.
 - [rhandsontable](https://github.com/jrowen/rhandsontable) - Create Excel-like editable tables in Shiny apps.
 - [DTedit](https://github.com/jbryer/DTedit) - Editable DataTables for Shiny apps.
 - [dteditmod](https://github.com/DavidPatShuiFong/DTedit) - A fork of DTedit with a modular implementation and more [documentation](https://rpubs.com/DavidFong/DTedit).
