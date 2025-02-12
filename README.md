@@ -110,6 +110,7 @@ add packages to the list.
 - [Shiny for Python](#shiny-for-python)
   - [Python - Theming](#python---theming)
   - [Python - UI Components](#python---ui-components)
+  - [Python - Table](#python---table)
   - [Python - Frameworks](#python---frameworks)
   - [Python - Deploy](#python---deploy)
   - [Python - Persistent Data Storage](#python---persistent-data-storage)
@@ -777,6 +778,11 @@ add packages to the list.
 - [py-faicons](https://github.com/posit-dev/py-faicons) - An interface to Font Awesome for use in Shiny for Python.
 - [py-shinywidgets](https://github.com/posit-dev/py-shinywidgets) - Render ipywidgets inside a Shiny app.
 - [py_shiny_semantic](https://github.com/Appsilon/py_shiny_semantic) - Create rich web applications in PyShiny using styles and components from Fomantic UI.
+
+### Python - Table
+
+- [itables](https://github.com/mwouts/itables) - Display pandas and polars data frames as interactive DataTables that you can sort, paginate, scroll, and filter.
+- [reactable-py](https://github.com/machow/reactable-py) - Interactive data tables for Python, port of the R package reactable.
 
 ### Python - Frameworks
 
