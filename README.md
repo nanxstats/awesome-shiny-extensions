@@ -597,6 +597,7 @@ add packages to the list.
 
 - [RestRserve](https://github.com/rexyai/RestRserve) - R web API framework for building high-performance and robust microservices and app backends.
 - [plumber](https://github.com/rstudio/plumber) - Create web APIs by decorating R code with special comments.
+- [plumber2](https://github.com/posit-dev/plumber2) - Easy and powerful webservers in R. A complete rewrite of plumber.
 - [valve](https://github.com/JosiahParry/valve) - Create multi-threaded Plumber APIs powered by Rust's tokio and axum web frameworks.
 - [opencpu](https://github.com/opencpu/opencpu) - A system for embedded scientific computing and reproducible research with R.
 - [communicate](https://github.com/devOpifex/communicate) - Small framework to communicate between Shiny client and server via HTTP requests.
