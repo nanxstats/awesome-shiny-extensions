@@ -420,6 +420,7 @@ add packages to the list.
 - [dygraphs](https://github.com/rstudio/dygraphs) - R interface to the dygraphs JavaScript charting library.
 - [metricsgraphics](https://github.com/hrbrmstr/metricsgraphics) - An htmlwidget interface to the MetricsGraphics.js D3-based charting library.
 - [timevis](https://github.com/daattali/timevis) - Interactive timeline visualizations based on vis.js.
+- [linevis](https://gitlab.com/thomaschln/linevis) - Interactive time-series visualizations based on vis.js, easy to synchronize with timevis.
 - [timelineschart](https://github.com/dreamRs/timelineschart) - R interface to timelines-chart.
 - [streamgraph](https://github.com/hrbrmstr/streamgraph) - HTML widget for creating streamgraph visualizations in R.
 - [eventdropR](https://github.com/timelyportfolio/eventdropR) - HTML widget for EventDrops, time based and event series interactive visualization using D3.
