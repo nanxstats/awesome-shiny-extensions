@@ -278,6 +278,7 @@ add packages to the list.
 - [pivta](https://github.com/feddelegrand7/pivta) - R wrapper for WebDataRocks, an interactive pivot table component for data analysis.
 - [excelR](https://github.com/Swechhya/excelR) - R interface to the jExcel.js library.
 - [xSpreadsheet](https://github.com/MichaelHogers/xSpreadsheet) - R wrapper for the JavaScript canvas spreadsheet library x-spreadsheet.
+- [editbl](https://github.com/openanalytics/editbl) - DT (DataTables) extension to support interactive editing. Easily supports databases.
 
 ### Drawers
 
