@@ -110,6 +110,7 @@ add packages to the list.
 - [Shiny for Python](#shiny-for-python)
   - [Python - Theming](#python---theming)
   - [Python - UI Components](#python---ui-components)
+  - [Python - Chat](#python---chat)
   - [Python - Table](#python---table)
   - [Python - Frameworks](#python---frameworks)
   - [Python - Deploy](#python---deploy)
@@ -253,6 +254,7 @@ add packages to the list.
 
 ### Chat
 
+- [shinychat](https://github.com/posit-dev/shinychat) - Chat UI component for Shiny.
 - [chattr](https://github.com/mlverse/chattr) - Interact with large language models (LLMs) in RStudio through the R console or Shiny gadget.
 - [gptstudio](https://github.com/MichelNivard/gptstudio) - Incorporate use of large language models (LLMs) into project workflows, with Shiny bindings for streamingMessage components.
 - [shinyChatR](https://github.com/julianschmocker/shinyChatR) - Reusable chat module for Shiny apps. Allows sending messages and view messages from other users. Messages can be stored in a database or a `.rds` file.
@@ -781,6 +783,10 @@ add packages to the list.
 - [py-faicons](https://github.com/posit-dev/py-faicons) - An interface to Font Awesome for use in Shiny for Python.
 - [py-shinywidgets](https://github.com/posit-dev/py-shinywidgets) - Render ipywidgets inside a Shiny app.
 - [py_shiny_semantic](https://github.com/Appsilon/py_shiny_semantic) - Create rich web applications in PyShiny using styles and components from Fomantic UI.
+
+### Python - Chat
+
+- [shinychat](https://github.com/posit-dev/shinychat/tree/main/pkg-py) - Chat UI component for Shiny for Python.
 
 ### Python - Table
 
