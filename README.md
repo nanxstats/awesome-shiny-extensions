@@ -785,7 +785,7 @@ add packages to the list.
 
 ### Python - Chat
 
-- [shinychat](https://github.com/posit-dev/shinychat) - Chat UI component for Shiny for Python.
+- [shinychat](https://github.com/posit-dev/shinychat/tree/main/pkg-py) - Chat UI component for Shiny for Python.
 
 ### Python - Table
 
