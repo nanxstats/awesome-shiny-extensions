@@ -110,6 +110,7 @@ add packages to the list.
 - [Shiny for Python](#shiny-for-python)
   - [Python - Theming](#python---theming)
   - [Python - UI Components](#python---ui-components)
+  - [Python - Chat](#python---chat)
   - [Python - Table](#python---table)
   - [Python - Frameworks](#python---frameworks)
   - [Python - Deploy](#python---deploy)
