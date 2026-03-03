@@ -5,6 +5,8 @@
   <br>
 </p>
 
+<!--lint disable awesome-heading-->
+
 # Awesome Shiny Extensions
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -721,10 +723,14 @@ add packages to the list.
 
 ### G Suite Integration
 
+<!--lint disable awesome-spell-check-->
+
 - [googlesheets4](https://github.com/tidyverse/googlesheets4) - R interface to Google Sheets via the Sheets API v4.
 - [googlesheets](https://github.com/jennybc/googlesheets) - R interface to Google Spreadsheets API (no longer under active development).
 - [googledrive](https://github.com/tidyverse/googledrive) - R API client for Google Drive.
 - [gmailr](https://github.com/r-lib/gmailr) - Access the Gmail RESTful API from R.
+
+<!--lint enable awesome-spell-check-->
 
 ## Deploy
 
@@ -808,7 +814,7 @@ add packages to the list.
 - [shinymetrics](https://github.com/devOpifex/shinymetrics) - Track shiny applications with Shinymetrics, providing analytics and telemetry for Shiny applications.
 - [titan](https://github.com/devOpifex/titan) - Prometheus monitoring for Shiny applications, plumber APIs, and other R web services.
 - [openmetrics](https://github.com/atheriel/openmetrics) - An opinionated Prometheus client for R conforming to the OpenMetrics standard.
-- [pRometheus](https://github.com/cfmack/pRometheus) - Prometheus client library for R, Plumber, and Shiny.
+- [pRometheus](https://github.com/cfmack/pRometheus) - A Prometheus client library for R, Plumber, and Shiny.
 - [shinylogs](https://github.com/dreamRs/shinylogs) - Record everything that happens in a Shiny application, including inputs, outputs, errors, and session information.
 
 ## Miscellaneous
