@@ -137,7 +137,7 @@ add packages to the list.
 - [flexlayout](https://github.com/the-y-company/flexlayout) - A responsive three-column layout for Shiny. Creates up-to three-column layout where the left and right columns collapse into offcanvas elements on tablets and mobile devices.
 - [calcite](https://r.esri.com/calcite/) - Bindings to the Calcite Design System JavaScript component library.
 - [muiMaterial](https://github.com/lgnbhl/muiMaterial) - Material UI for Shiny apps and Quarto.
-- [shiny.tailwind](https://github.com/kylebutts/shiny.tailwind) - TailwindCSS for Shiny apps.
+- [shiny.tailwind](https://github.com/kylebutts/shiny.tailwind) - Tailwind CSS for Shiny apps.
 - [shinyGovstyle](https://github.com/dfe-analytical-services/shinyGovstyle) - Custom GOV.UK style inputs for Shiny.
 - [fomantic.plus](https://github.com/ashbaldry/fomantic.plus) - Extra Fomantic UI components for shiny.semantic.
 
@@ -220,7 +220,7 @@ add packages to the list.
 - [shinyKnobs](https://github.com/cotepat/shinyKnobs) - A collection of knob inputs for Shiny.
 - [shinyRadioMatrix](https://cran.r-project.org/package=shinyRadioMatrix) - Matrix of radio buttons input widget for Shiny, useful for Likert-scale and survey-style inputs.
 - [shinyRatings](https://cran.r-project.org/package=shinyRatings) - Star rating input for Shiny apps.
-- [shinySearchbar](https://github.com/jes-n/shiny-searchbar) - An input widget for searching and highlighting text in Shiny apps.
+- [shinySearchbar](https://github.com/jsdnrs/shiny-searchbar) - An input widget for searching and highlighting text in Shiny apps.
 - [shinyXYpad](https://github.com/stla/shinyXYpad) - XY controller input widget for Shiny.
 - [multiActionButton](https://github.com/stla/multiActionButton) - Multi-action button for Shiny applications.
 - [vfinputs](https://github.com/rhenkin/vfinputs) - Visual filter inputs for Shiny.
@@ -320,7 +320,7 @@ add packages to the list.
 - [excelR](https://github.com/Swechhya/excelR) - R interface to the jExcel.js library.
 - [xSpreadsheet](https://github.com/MichaelHogers/xSpreadsheet) - R wrapper for the JavaScript canvas spreadsheet library x-spreadsheet.
 - [editbl](https://github.com/openanalytics/editbl) - DT (DataTables) extension to support interactive editing. Easily supports databases.
-- [rtabulator](https://github.com/eodaGmbH/rtabulator) - R bindings for the Tabulator JS library for interactive tables.
+- [rtabulator](https://github.com/eoda-dev/rtabulator) - R bindings for the Tabulator JS library for interactive tables.
 - [tableHTML](https://github.com/LyzandeR/tableHTML) - Create and style HTML tables with CSS, with Shiny rendering functions.
 - [toastui](https://github.com/dreamRs/toastui) - Interactive tables, calendars, and charts based on the TOAST UI JavaScript library.
 - [shinypivottabler](https://cran.r-project.org/package=shinypivottabler) - Shiny module to create interactive pivot tables.
@@ -374,7 +374,7 @@ add packages to the list.
 
 - [diffviewer](https://github.com/r-lib/diffviewer) - HTML widget to visually compare files (text, images, and data frames).
 - [diffr](https://github.com/muschellij2/diffr) - Create code diff widgets based on codediff.js.
-- [diffRgit](https://github.com/abossi/diffRgit) - Create an HTML git diff widget using the diff2html library.
+- [diffRgit](https://github.com/abossi/diffRgit) - Create an HTML Git diff widget using the diff2html library.
 - [jsondiff](https://github.com/bergant/jsondiff) - R interface to jsondiffpatch for comparing R objects as JSONs.
 
 ### Calendar
@@ -397,7 +397,7 @@ add packages to the list.
 - [shinyEffects](https://github.com/RinteRface/shinyEffects) - Customize shiny apps with CSS effects (Zoom / Pulse / Shadow / Shake).
 - [shinyanimate](https://github.com/Swechhya/shinyanimate) - Animation for Shiny elements using Animate.css.
 - [shinyLottie](https://github.com/camhowitt/shinyLottie) - Seamlessly integrate Lottie animations into Shiny applications.
-- [vov](https://github.com/tyluRp/vov) - CSS animations for Shiny elements.
+- [vov](https://github.com/tylerlittlefield/vov) - CSS animations for Shiny elements.
 - [spoiler](https://github.com/etiennebacher/spoiler) - Blur HTML elements in Shiny applications using Spoiler-Alert.js.
 
 ### i18n
@@ -564,7 +564,7 @@ add packages to the list.
 - [sparkline](https://github.com/htmlwidgets/sparkline) - jQuery Sparkline (tiny inline charts) HTML Widget for R. [Use sparklines in DT](https://github.com/leonawicz/HtmlWidgetExamples).
 - [reactrend](https://github.com/JohnCoene/reactrend) - Simple, elegant spark lines and trend graphs based on react-trend.
 - [trendchart](https://github.com/the-y-company/trendchart) - Small, simple trendchart for R.
-- [peity](https://github.com/JohnCoene/peity) - Peity htmlwidget for R.
+- [peity](https://github.com/JohnCoene/peity) - Inline charts for R.
 - [dataui](https://github.com/timelyportfolio/dataui) - Interactive visualizations of data-ui based on vx.
 
 ### Word Cloud
@@ -649,7 +649,7 @@ add packages to the list.
 
 - [Best Practices in Working with Databases](https://solutions.posit.co/connections/db/) - Packages and tutorials for connecting R and Shiny apps to databases.
 - [pool](https://github.com/rstudio/pool) - Database connection pooling in R.
-- [elastic](https://github.com/ropensci/elastic) - R client for the Elasticsearch HTTP API.
+- [elastic](https://github.com/ropensci-archive/elastic) - R client for the Elasticsearch HTTP API.
 - [sergeant](https://github.com/hrbrmstr/sergeant) - Transform and query data with Apache Drill.
 
 ### Persistent Data Storage
@@ -685,7 +685,7 @@ add packages to the list.
 - [otp](https://github.com/randy3k/otp) - One-Time Password generation and verification.
 - [backendlessr](https://gitlab.com/rresults/backendlessr) - R wrapper for Backendless API to manage users.
 - [cognitoR](https://github.com/chi2labs/cognitoR) - Authentication for Shiny apps with Amazon Cognito.
-- [login](https://github.com/jbryer/login) - Login module for Shiny providing customizable login/logout UI.
+- [login](https://github.com/jbryer/login) - Shiny login module providing customizable login/logout UI.
 - [polished](https://github.com/tychobra/polished) - Authentication, user administration, and hosting for Shiny apps.
 - [shinydbauth](https://github.com/diegoefe/shinydbauth) - Simple authentication for Shiny applications with database-backed credential storage.
 - [shinyOAuth](https://github.com/lukakoning/shinyOAuth) - Provider-agnostic OAuth authentication for Shiny applications.
@@ -867,7 +867,7 @@ add packages to the list.
 
 ### Python - Table
 
-- [itables](https://github.com/mwouts/itables) - Display pandas and polars data frames as interactive DataTables that you can sort, paginate, scroll, and filter.
+- [itables](https://github.com/mwouts/itables) - Display Pandas and Polars data frames as interactive DataTables that you can sort, paginate, scroll, and filter.
 - [reactable-py](https://github.com/machow/reactable-py) - Interactive data tables for Python, port of the R package reactable.
 
 ### Python - Frameworks
