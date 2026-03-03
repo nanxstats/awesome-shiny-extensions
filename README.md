@@ -135,6 +135,11 @@ add packages to the list.
 - [shinyNextUI](https://github.com/RinteRface/shinyNextUI) - NextUI for Shiny.
 - [gridlayout](https://github.com/rstudio/gridlayout) - Build dashboard-style layouts for Shiny and R Markdown using CSS Grid.
 - [flexlayout](https://github.com/the-y-company/flexlayout) - A responsive three-column layout for Shiny. Creates up-to three-column layout where the left and right columns collapse into offcanvas elements on tablets and mobile devices.
+- [calcite](https://r.esri.com/calcite/) - Bindings to the Calcite Design System JavaScript component library.
+- [muiMaterial](https://github.com/lgnbhl/muiMaterial) - Material UI for Shiny apps and Quarto.
+- [shiny.tailwind](https://github.com/kylebutts/shiny.tailwind) - TailwindCSS for Shiny apps.
+- [shinyGovstyle](https://github.com/dfe-analytical-services/shinyGovstyle) - Custom GOV.UK style inputs for Shiny.
+- [fomantic.plus](https://github.com/ashbaldry/fomantic.plus) - Extra Fomantic UI components for shiny.semantic.
 
 ### Dashboard Theming
 
@@ -145,6 +150,8 @@ add packages to the list.
 - [bs4Dash](https://github.com/RinteRface/bs4Dash) - Bootstrap 4 Shiny dashboards using AdminLTE 3.
 - [argonDash](https://github.com/RinteRface/argonDash) - Bootstrap 4 Argon template for Shiny dashboards.
 - [tablerDash](https://github.com/RinteRface/tablerDash) - Tabler dashboard template for Shiny with Bootstrap 4.
+- [shidashi](https://github.com/dipterix/shidashi) - A Shiny dashboard template system using AdminLTE 3 template.
+- [flexdashboard](https://github.com/rstudio/flexdashboard) - R Markdown format for flexible dashboards.
 
 ### Mobile Theming
 
@@ -158,6 +165,7 @@ add packages to the list.
 - [Rnightly](https://github.com/feddelegrand7/Rnightly) - An R wrapper of the JavaScript library Nightly.
 - [linne](https://github.com/JohnCoene/linne) - Write CSS in R.
 - [designer](https://github.com/ashbaldry/designer) - Shiny UI prototype builder allowing drag and drop UI components before saving the equivalent R code.
+- [gfonts](https://github.com/dreamRs/gfonts) - Offline Google Fonts for Markdown and Shiny.
 
 ## UI Components
 
@@ -174,11 +182,18 @@ add packages to the list.
 - [shinypanels](https://github.com/datasketch/shinypanels) - Shiny layout with collapsible panels.
 - [slickR](https://github.com/yonicd/slickR) - Carousels for Shiny apps using slick.js.
 - [spsComps](https://github.com/lz100/spsComps) - Additional Bootstrap 3 custom UI components (gallery, panels, buttons, animation and more) and additional Shiny server components (exception catch, validation, etc.).
+- [card.pro](https://github.com/oobianom/card.pro) - Lightweight modern and responsive card component for Shiny.
+- [inshiny](https://github.com/nicholasdavies/inshiny) - Compact inline widgets for Shiny apps.
+- [shinyGizmo](https://cran.r-project.org/package=shinyGizmo) - Custom UI components and input widgets for Shiny applications.
+- [gridstackeR](https://cran.r-project.org/package=gridstackeR) - R wrapper for gridstack.js to create draggable and resizable grid layouts.
+- [dockViewR](https://github.com/cynkra/dockViewR) - Layout manager widget for R and Shiny apps.
+- [resizableSplitLayout](https://cran.r-project.org/package=resizableSplitLayout) - Resizable split layout module for Shiny.
 
 ### File Input
 
 - [shinyFiles](https://github.com/thomasp85/shinyFiles) - A server-side file system viewer for Shiny.
 - [directoryInput](https://github.com/wleepang/shiny-directory-input) - Shiny input widget for selecting directories.
+- [datamods](https://github.com/dreamRs/datamods) - Shiny modules to import and manipulate data from various sources.
 
 ### Special Input
 
@@ -200,6 +215,23 @@ add packages to the list.
 - [NestedMenu](https://github.com/stla/NestedMenu) - Multi-level dropdown menu selection input.
 - [codeModules](https://github.com/statistikat/codeModules) - Shiny modules to import/manipulate/export tabular data, download plots/tables/widgets, and output code with syntax highlighting using highlight.js.
 - [shiny-highlight-rmarkdown](https://github.com/nanxstats/shiny-highlight-rmarkdown) - R code and R Markdown code output syntax highlighting using highlight.js.
+- [daterangepicker](https://github.com/trafficonese/daterangepicker) - A date-range input widget for Shiny.
+- [jqbr](https://github.com/hfshr/jqbr) - jQuery QueryBuilder input for Shiny, enabling interactive construction of complex filter queries.
+- [shinyKnobs](https://github.com/cotepat/shinyKnobs) - A collection of knob inputs for Shiny.
+- [shinyRadioMatrix](https://cran.r-project.org/package=shinyRadioMatrix) - Matrix of radio buttons input widget for Shiny, useful for Likert-scale and survey-style inputs.
+- [shinyRatings](https://cran.r-project.org/package=shinyRatings) - Star rating input for Shiny apps.
+- [shinySearchbar](https://github.com/jes-n/shiny-searchbar) - An input widget for searching and highlighting text in Shiny apps.
+- [shinyXYpad](https://github.com/stla/shinyXYpad) - XY controller input widget for Shiny.
+- [multiActionButton](https://github.com/stla/multiActionButton) - Multi-action button for Shiny applications.
+- [vfinputs](https://github.com/rhenkin/vfinputs) - Visual filter inputs for Shiny.
+- [shinyfilters](https://github.com/joshwlivingston/shinyfilters) - Create Shiny inputs from vectors, data frames, or any R object.
+- [picClip](https://github.com/deppemj/picClip) - Paste box input for Shiny, allowing users to paste images from the clipboard.
+- [shinyQueryBuilder](https://cran.r-project.org/package=shinyQueryBuilder) - Construct complex filtering queries in Shiny.
+- [shinyCohortBuilder](https://github.com/r-world-devs/shinyCohortBuilder) - Modular cohort-building framework for analytical dashboards.
+- [shinyfilter](https://github.com/jsugarelli/shinyfilter) - Interdependent selectize filters for table columns in Shiny apps.
+- [scoutbaR](https://cran.r-project.org/package=scoutbaR) - A spotlight React widget for Shiny apps, providing a command palette UI.
+- [shinyDTC](https://github.com/sigbertklinke/shinyDTC) - Dynamic timer control widget for Shiny.
+- [shinyTimer](https://cran.r-project.org/package=shinyTimer) - Customizable timer widget for Shiny applications.
 
 ### Loader
 
@@ -212,6 +244,7 @@ add packages to the list.
 - [sever](https://github.com/JohnCoene/sever) - Customize Shiny's disconnected screen.
 - [shiny-fcp-loader](https://github.com/nanxstats/shiny-fcp-loader) - Shiny app template with a loading screen that aims to minimize the time to First Contentful Paint (FCP).
 - [shiny-loading-skeleton](https://github.com/nanxstats/shiny-loading-skeleton) - Shiny app template with an animated, fully customizable skeleton loader.
+- [standby](https://github.com/rsquaredacademy/standby) - Alerts, notifications, and loading screens for Shiny.
 
 ### Feedback / Alert / Notification
 
@@ -233,6 +266,7 @@ add packages to the list.
 - [faq](https://github.com/jienagu/faq) - Accordion-based FAQ component with expand/collapse control.
 - [flashCard](https://github.com/jienagu/flashCard) - HTML widget for creating flippable flash cards.
 - [prompter](https://github.com/etiennebacher/prompter) - Add tooltips in Shiny apps with 'hint.css'.
+- [conductor](https://github.com/etiennebacher/conductor) - Create guided tours in Shiny apps using Shepherd.js.
 
 ### Clipboard
 
@@ -251,6 +285,9 @@ add packages to the list.
 - [shinyMonacoEditor](https://github.com/stla/shinyMonacoEditor) - The Monaco Editor in Shiny.
 - [shinyMCE](https://github.com/mul118/shinyMCE) - TinyMCE WYSIWYG editor bindings for Shiny.
 - [sqlquery](https://github.com/dreamRs/sqlquery) - HTML widget for writing SQL queries with autocompletion for SQL keywords and table/field names.
+- [shinyEditor](https://github.com/zearoby/shinyEditor) - Ace and Monaco editor bindings for Shiny applications.
+- [monaco](https://github.com/stla/monaco) - The Monaco Editor as an HTML widget.
+- [markdownInput](https://github.com/juliendiot42/markdownInput) - Shiny module for a Markdown input with live result preview.
 
 ### Chat
 
@@ -258,6 +295,8 @@ add packages to the list.
 - [chattr](https://github.com/mlverse/chattr) - Interact with large language models (LLMs) in RStudio through the R console or Shiny gadget.
 - [gptstudio](https://github.com/MichelNivard/gptstudio) - Incorporate use of large language models (LLMs) into project workflows, with Shiny bindings for streamingMessage components.
 - [shinyChatR](https://github.com/julianschmocker/shinyChatR) - Reusable chat module for Shiny apps. Allows sending messages and view messages from other users. Messages can be stored in a database or a `.rds` file.
+- [shiny.ollama](https://github.com/ineelhere/shiny.ollama) - Shiny interface for chatting with large language models offline using Ollama.
+- [querychat](https://github.com/posit-dev/querychat) - Filter and query data frames in Shiny using an LLM chat interface.
 
 ### Table
 
@@ -281,6 +320,10 @@ add packages to the list.
 - [excelR](https://github.com/Swechhya/excelR) - R interface to the jExcel.js library.
 - [xSpreadsheet](https://github.com/MichaelHogers/xSpreadsheet) - R wrapper for the JavaScript canvas spreadsheet library x-spreadsheet.
 - [editbl](https://github.com/openanalytics/editbl) - DT (DataTables) extension to support interactive editing. Easily supports databases.
+- [rtabulator](https://github.com/eodaGmbH/rtabulator) - R bindings for the Tabulator JS library for interactive tables.
+- [tableHTML](https://github.com/LyzandeR/tableHTML) - Create and style HTML tables with CSS, with Shiny rendering functions.
+- [toastui](https://github.com/dreamRs/toastui) - Interactive tables, calendars, and charts based on the TOAST UI JavaScript library.
+- [shinypivottabler](https://cran.r-project.org/package=shinypivottabler) - Shiny module to create interactive pivot tables.
 
 ### Drawers
 
@@ -293,10 +336,12 @@ add packages to the list.
 - [dragulaR](https://github.com/zzawadz/dragulaR) - R interface for the dragula JavaScript library for moving around elements in Shiny apps.
 - [dndselectr](https://github.com/serenity-r/dndselectr) - Drag-and-drop Shiny select input.
 - [esquisse](https://github.com/dreamRs/esquisse) - Drag and drop inputs and visual builder for ggplot2.
+- [shinykanban](https://github.com/ugurdar/shinykanban) - Interactive Kanban board with drag-and-drop interface for Shiny.
 
 ### Text
 
 - [marker](https://github.com/JohnCoene/marker) - Highlight text in Shiny with markjs.
+- [circletyper](https://github.com/etiennebacher/circletyper) - Curve text elements in Shiny using CircleType.js.
 
 ### Image / Audio / Video
 
@@ -308,6 +353,8 @@ add packages to the list.
 - [webcamR](https://github.com/ginberg/webcamR) - HTML widget wrapper around the react-webcam library.
 - [drawer](https://github.com/lz100/drawer) - A front-end only image editor for both Shiny and R Markdown.
 - [shinyscreenshot](https://github.com/daattali/shinyscreenshot) - Capture screenshots of entire pages or parts of pages in Shiny apps.
+- [howler](https://github.com/ashbaldry/howler) - Shiny extension for howler.js to add audio playback controls.
+- [video](https://github.com/ashbaldry/video) - Shiny extension for video.js to embed customizable HTML5 video players.
 
 ### PDF
 
@@ -317,6 +364,7 @@ add packages to the list.
 
 - [fontawesome](https://github.com/rstudio/fontawesome) - Insert FontAwesome icons into R Markdown documents and Shiny apps.
 - [icongram](https://github.com/r4fun/icongram) - Interface to Icongram, easily fetch svg icons with a single function.
+- [rheroicons](https://cran.r-project.org/package=rheroicons) - A zero-dependency SVG icon library implementing the Heroicons set for Shiny.
 
 ### Image Comparison
 
@@ -347,6 +395,10 @@ add packages to the list.
 - [hover](https://github.com/r4fun/hover) - Add animations to Shiny button elements using Hover.css.
 - [bubblyr](https://github.com/feddelegrand7/bubblyr) - Add animated bubbles to Shiny and R Markdown backgrounds.
 - [shinyEffects](https://github.com/RinteRface/shinyEffects) - Customize shiny apps with CSS effects (Zoom / Pulse / Shadow / Shake).
+- [shinyanimate](https://github.com/Swechhya/shinyanimate) - Animation for Shiny elements using Animate.css.
+- [shinyLottie](https://github.com/camhowitt/shinyLottie) - Seamlessly integrate Lottie animations into Shiny applications.
+- [vov](https://github.com/tyluRp/vov) - CSS animations for Shiny elements.
+- [spoiler](https://github.com/etiennebacher/spoiler) - Blur HTML elements in Shiny applications using Spoiler-Alert.js.
 
 ### i18n
 
@@ -358,6 +410,7 @@ add packages to the list.
 - [reactR](https://github.com/react-R/reactR) - Use React in R with htmlwidget constructor templates and local JavaScript dependencies.
 - [shinyReactWidgets](https://github.com/pvictor/shinyReactWidgets) - React widgets for Shiny apps.
 - [shiny.react](https://github.com/Appsilon/shiny.react) - Tools for using React in Shiny.
+- [reactRouter](https://github.com/lgnbhl/reactRouter) - React Router for Shiny apps and Quarto.
 
 ### Vue.js
 
@@ -378,6 +431,8 @@ add packages to the list.
 - [keys](https://github.com/r4fun/keys) - Assign and listen to keyboard shortcuts in Shiny using the Mousetrap JavaScript library.
 - [js4shiny](https://github.com/gadenbuie/js4shiny) - Companion package for 'JavaScript for Shiny Users' workshop, with components to enable using R Markdown for literate programming with JavaScript.
 - [flexfilter](https://github.com/the-y-company/flexfilter) - Create a filter from a data frame that enables users to dynamically add filters on each column. The filter dynamically generates the appropriate input for the selected column based on its type.
+- [overshiny](https://github.com/nicholasdavies/overshiny) - Draggable and resizable rectangular overlays on Shiny plots.
+- [r2resize](https://github.com/oobianom/r2resize) - In-text resizable containers for images, tables, and other content in Shiny, R Markdown, and Quarto.
 
 ## Visualization
 
@@ -454,6 +509,7 @@ add packages to the list.
 - [grapher](https://github.com/JohnCoene/grapher) - An R integration of ngraph to create 3D and 2D interactive graphs.
 - [shinyCyJS](https://github.com/jhk0530/shinyCyJS) - Cytoscape.js R binding for Shiny.
 - [cyjShiny](https://github.com/cytoscape/cyjShiny) - R/Shiny widget for Cytoscape.js.
+- [g6R](https://github.com/cynkra/g6R) - Graph visualization engine widget based on AntV G6 for R and Shiny.
 
 ### Categorical Data
 
@@ -501,6 +557,7 @@ add packages to the list.
 - [planetary](https://github.com/jonmcalder/planetary) - HTML widget for the planetary.js library for creating interactive globes.
 - [gior](https://github.com/JohnCoene/gior) - HTML widget for gio.js for declarative 3D globe data visualization.
 - [quickglobe](https://github.com/daranzolin/quickglobe) - View country data via a 3D D3 globe.
+- [mapgl](https://github.com/walkerke/mapgl) - Interactive maps using Mapbox GL JS and MapLibre GL JS.
 
 ### Sparkline
 
@@ -521,6 +578,7 @@ add packages to the list.
 - [igvR](https://github.com/gladkia/igvR) - R package providing interactive connections to igv.js running in a web browser.
 - [igvShiny](https://github.com/gladkia/igvShiny) - HTML widget for igv.js, a JavaScript library for embeddable genomic visualization.
 - [nglShiny](https://github.com/paul-shannon/nglShiny) - NGL Viewer as an htmlwidget for molecular visualization.
+- [NGLVieweR](https://github.com/nvelden/NGLVieweR) - Interactive 3D visualization of molecular structures using the NGL Viewer JavaScript library.
 - [shiny.molstar](https://github.com/Appsilon/shiny.molstar) - Shiny wrapper for Mol*, a visualization toolkit of large scale molecular data.
 - [msaR](https://github.com/zachcp/msaR) - BioJS-based MSA (multiple sequence alignment) viewer.
 - [shiny.gosling](https://github.com/Appsilon/shiny.gosling) - Shiny wrapper for Gosling.js, grammar-based toolkit for scalable and interactive genomics data visualization.
@@ -564,6 +622,7 @@ add packages to the list.
 - [golem](https://github.com/ThinkR-open/golem) - Opinionated framework for building production-grade Shiny apps.
 - [teal](https://github.com/insightsengineering/teal) - Interactive exploration framework for analyzing clinical trials data, provides a dynamic filtering facility and different data viewers.
 - [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.
+- [blockr.core](https://github.com/BristolMyersSquibb/blockr.core) - Graphical web framework for data manipulation and visualization using reusable, composable blocks.
 
 ### Scaffolding
 
@@ -613,6 +672,7 @@ add packages to the list.
 - [brochure](https://github.com/ColinFay/brochure) - Create natively multi-page Shiny applications to serve content from multiple endpoints. See [blog post](https://colinfay.me/post-request-shiny-app-brochure/) on POST requests support.
 - [scenes](https://github.com/shinyworks/scenes) - Switch between alternative UIs based on request properties, such as cookies, paths, query parameters, or HTTP request method.
 - [Accepting POST requests from Shiny](https://gist.github.com/jcheng5/2aaff19e67079840350d08361fe7fb20) - Undocumented feature for handling POST requests that are not associated with any specific Shiny session.
+- [shinypayload](https://github.com/PawanRamaMali/shinypayload) - Accept POST data and URL parameters in Shiny for same-port integration.
 
 ### Authentication
 
@@ -624,6 +684,13 @@ add packages to the list.
 - [firebase](https://github.com/JohnCoene/firebase) - Authenticate Shiny users with Google Firebase.
 - [otp](https://github.com/randy3k/otp) - One-Time Password generation and verification.
 - [backendlessr](https://gitlab.com/rresults/backendlessr) - R wrapper for Backendless API to manage users.
+- [cognitoR](https://github.com/chi2labs/cognitoR) - Authentication for Shiny apps with Amazon Cognito.
+- [login](https://github.com/jbryer/login) - Login module for Shiny providing customizable login/logout UI.
+- [polished](https://github.com/tychobra/polished) - Authentication, user administration, and hosting for Shiny apps.
+- [shinydbauth](https://github.com/diegoefe/shinydbauth) - Simple authentication for Shiny applications with database-backed credential storage.
+- [shinyOAuth](https://github.com/lukakoning/shinyOAuth) - Provider-agnostic OAuth authentication for Shiny applications.
+- [tapLock](https://github.com/ixpantia/tapLock) - Seamless Single Sign-On for Shiny.
+- [rAccess](https://github.com/johnsonandjohnson/rAccess) - Access control module for Shiny applications with hierarchical permission management.
 
 ### Job Scheduling
 
@@ -645,6 +712,8 @@ add packages to the list.
 - [blastula](https://github.com/rstudio/blastula) - Easily send HTML email messages from R.
 - [mjml](https://github.com/JohnCoene/mjml) - Create responsive emails with R and MJML.
 - [mailtoR](https://github.com/feddelegrand7/mailtoR) - Creates a friendly user interface for emails sending in Shiny.
+- [emailjsr](https://cran.r-project.org/package=emailjsr) - EmailJS integration for sending emails from Shiny apps.
+- [r2social](https://github.com/oobianom/r2social) - Social media sharing and connect buttons for Shiny and R Markdown.
 
 ### Cloud Integration
 
@@ -665,6 +734,7 @@ add packages to the list.
 
 - [rsconnect](https://github.com/rstudio/rsconnect) - Deploy Shiny apps to shinyapps.io, or Posit Connect.
 - [connectwidgets](https://github.com/rstudio/connectwidgets) - Query a Posit Connect server for a subset of content items, then organize them within htmlwidget components in R Markdown documents or Shiny applications.
+- [tinyshinyserver](https://github.com/lab1702/tinyshinyserver) - Lightweight multi-app Shiny proxy with WebSocket support and automatic health monitoring.
 
 ### Desktop Deploy
 
@@ -675,6 +745,7 @@ add packages to the list.
 - [Shiny Meets Electron](https://github.com/ksasso/useR_electron_meet_shiny) - Talk at useR! 2018 on turning Shiny app into standalone desktop apps. [Talk video](https://www.youtube.com/watch?v=ARrbbviGvjc).
 - [r-shiny-electron](https://github.com/dirkschumacher/r-shiny-electron) - Template for R Shiny and Electron integration.
 - [nativefier](https://github.com/nativefier/nativefier) - Create Electron wrappers for any websites (including remotely deployed Shiny apps).
+- [shiny.pwa](https://github.com/pedrocoutinhosilva/shiny.pwa) - Progressive Web App (PWA) support for Shiny, enabling installable web apps.
 
 ### Static Server Deploy
 
@@ -700,6 +771,8 @@ add packages to the list.
 - [box](https://github.com/klmr/box) - Organize code into hierarchical, composable, reusable modules, to use across projects.
 - [many](https://github.com/the-y-company/many) - Use multiple directories to build R packages.
 - [component](https://github.com/devOpifex/component) - Create components for Shiny, inspired by Vue.js.
+- [gargoyle](https://cran.r-project.org/package=gargoyle) - An event-based mechanism for Shiny, providing lighter alternatives to standard reactive objects.
+- [shiny.destroy](https://cran.r-project.org/package=shiny.destroy) - Create destroyable modules in Shiny, allowing dynamic creation and removal of module instances.
 
 ### Debugging
 
@@ -727,6 +800,7 @@ add packages to the list.
 - [shinyParallel](https://github.com/jcrodriguez1989/shinyParallel) - Run Shiny applications in a multi-session mode.
 - [FutureManager](https://github.com/Boehringer-Ingelheim/FutureManager) - Background processes for long-running operations in Shiny applications.
 - [shiny.worker](https://github.com/Appsilon/shiny.worker) - Delegate heavy computation tasks to a separate process in a Shiny application.
+- [ipc](https://github.com/fellstat/ipc) - Tools for message passing between processes, with Shiny-specific features for async progress bars and reactive value updates from futures.
 
 ### Monitoring and Analytics
 
@@ -735,6 +809,7 @@ add packages to the list.
 - [titan](https://github.com/devOpifex/titan) - Prometheus monitoring for Shiny applications, plumber APIs, and other R web services.
 - [openmetrics](https://github.com/atheriel/openmetrics) - An opinionated Prometheus client for R conforming to the OpenMetrics standard.
 - [pRometheus](https://github.com/cfmack/pRometheus) - Prometheus client library for R, Plumber, and Shiny.
+- [shinylogs](https://github.com/dreamRs/shinylogs) - Record everything that happens in a Shiny application, including inputs, outputs, errors, and session information.
 
 ## Miscellaneous
 
@@ -745,6 +820,8 @@ add packages to the list.
 - [Bootstrap Live Customizer](https://www.bootstrap-live-customizer.com/) - Customize Bootswatch themes (Bootstrap 3) to create your own Bootstrap themes.
 - [google-webfonts-helper](https://gwfh.mranftl.com/fonts) - A hassle-free way to self-hosted Google Fonts, useful for air-gapped environments.
 - [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen) - Display HTML elements on full screen using 'screenfull.js'.
+- [shinybrowser](https://github.com/daattali/shinybrowser) - Find out information about a user's web browser in Shiny.
+- [shinytitle](https://github.com/ashbaldry/shinytitle) - Update the browser window title dynamically in a Shiny session.
 
 ### Dependency Resolution
 
