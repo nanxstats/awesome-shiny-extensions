@@ -12,6 +12,6 @@ To help you get started, I have prepared the latest list of reverse imports of s
   https://cran.r-project.org/web/packages/shiny/DESCRIPTION
   https://cran.r-project.org/web/packages/shiny/NAMESPACE
 
-Shiny extension packages often have render*() and output*() functions in their NAMESPACE file.
+Shiny extension packages often have render*() and *Output() functions in their NAMESPACE file.
 
 After confirming a package is a Shiny extension, add it to the awesome list in @README.md in the appropriate section with a brief description based on the package title and description from CRAN. Follow the formatting style of the existing entries in the awesome list. If you find a package that does not fit into any existing section, create a new section for it and add it there. Do not create new sections in the awesome list unless absolutely necessary.
