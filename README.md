@@ -142,7 +142,7 @@ add packages to the list.
 - [shiny.tailwind](https://github.com/kylebutts/shiny.tailwind) - Tailwind CSS for Shiny apps.
 - [shinyGovstyle](https://github.com/dfe-analytical-services/shinyGovstyle) - Custom GOV.UK style inputs for Shiny.
 - [fomantic.plus](https://github.com/ashbaldry/fomantic.plus) - Extra Fomantic UI components for shiny.semantic.
-- [lcars](https://github.com/leonawicz/lcars) - LCARS (Star Trek) aesthetic for Shiny with custom UI components.
+- [lcars](https://github.com/leonawicz/lcars) - Star Trek aesthetic for Shiny with custom UI components.
 
 ### Dashboard Theming
 
