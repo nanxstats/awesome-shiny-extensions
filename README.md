@@ -124,12 +124,12 @@ add packages to the list.
 
 ### Generic Theming
 
-- [shiny.webawesome](https://github.com/mbanand/shiny.webawesome) - Web Awesome component library for Shiny.
 - [shinythemes](https://github.com/rstudio/shinythemes) - Bootswatch themes (Bootstrap 3) for Shiny.
 - [shiny.semantic](https://github.com/Appsilon/shiny.semantic) - Fomantic UI (formerly Semantic UI) for Shiny.
 - [shiny.fluent](https://github.com/Appsilon/shiny.fluent) - Fluent UI for Shiny apps.
 - [shiny.blueprint](https://github.com/Appsilon/shiny.blueprint) - Palantir's Blueprint for Shiny apps.
 - [shinymaterial](https://github.com/ericrayanderson/shinymaterial) - Material Design for Shiny with Materialize.css.
+- [shiny.webawesome](https://github.com/mbanand/shiny.webawesome) - Web Awesome component library for Shiny.
 - [shinyUIkit](https://github.com/RinteRface/shinyUIkit) - UIkit API for Shiny.
 - [fullPage](https://github.com/RinteRface/fullPage) - Single page styles for Shiny apps.
 - [shinybulma](https://github.com/RinteRface/shinybulma) - Bulma.io for Shiny.
