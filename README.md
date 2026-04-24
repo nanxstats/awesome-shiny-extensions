@@ -124,6 +124,7 @@ add packages to the list.
 
 ### Generic Theming
 
+- [shiny.webawesome](https://github.com/mbanand/shiny.webawesome) - Web Awesome component library for Shiny.
 - [shinythemes](https://github.com/rstudio/shinythemes) - Bootswatch themes (Bootstrap 3) for Shiny.
 - [shiny.semantic](https://github.com/Appsilon/shiny.semantic) - Fomantic UI (formerly Semantic UI) for Shiny.
 - [shiny.fluent](https://github.com/Appsilon/shiny.fluent) - Fluent UI for Shiny apps.
