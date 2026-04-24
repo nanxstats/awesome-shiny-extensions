@@ -861,7 +861,7 @@ add packages to the list.
 - [shinyfullscreen](https://github.com/etiennebacher/shinyfullscreen) - Display HTML elements on full screen using 'screenfull.js'.
 - [shinybrowser](https://github.com/daattali/shinybrowser) - Find out information about a user's web browser in Shiny.
 - [shinytitle](https://github.com/ashbaldry/shinytitle) - Update the browser window title dynamically in a Shiny session.
-- [a11yShiny](https://gitlab.opencode.de/bmbf/datenlabor/barrierefrei-r) - Accessibility-enhanced replacements for popular Shiny UI functions.
+- [a11yShiny](https://gitlab.opencode.de/bmbf/datenlabor/a11yshiny) - Accessibility-enhanced replacements for popular Shiny UI functions.
 
 ### Dependency Resolution
 
