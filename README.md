@@ -481,6 +481,7 @@ add packages to the list.
 - [fusionchartsR](https://github.com/alexym1/fusionchartsR) - R wrapper for the FusionCharts JavaScript charting library.
 - [rPackedBar](https://github.com/AdamSpannbauer/rPackedBar) - Packed bar charts with plotly as an htmlwidget.
 - [maidr](https://github.com/xability/r-maidr) - Multimodal access and interactive data representation with accessibility features.
+- [GWalkR](https://github.com/Kanaries/GWalkR) - Interactive Tableau-like exploratory data analysis htmlwidget for Shiny.
 
 ### Scatterplot
 
@@ -582,6 +583,7 @@ add packages to the list.
 - [gior](https://github.com/JohnCoene/gior) - HTML widget for gio.js for declarative 3D globe data visualization.
 - [quickglobe](https://github.com/daranzolin/quickglobe) - View country data via a 3D D3 globe.
 - [mapgl](https://github.com/walkerke/mapgl) - Interactive maps using Mapbox GL JS and MapLibre GL JS.
+- [AtlasMaker](https://github.com/rachel-greenlee/AtlasMaker) - Shiny module to create multiple interconnected leaflet maps across tabs.
 
 ### Sparkline
 
@@ -689,6 +691,7 @@ add packages to the list.
 ### Persistent Data Storage
 
 - [pins](https://github.com/rstudio/pins-r) - Publish data sets, models, and other R objects to folders, Posit Connect, Amazon S3, and more.
+- [shinystate](https://github.com/rpodcast/shinystate) - Customize Shiny's bookmarkable state with configurable storage locations via the pins package.
 
 ### API Frameworks
 
@@ -800,6 +803,7 @@ add packages to the list.
 - [shinipsum](https://github.com/ThinkR-open/shinipsum) - Lorem-Ipsum-like helpers for fast Shiny prototyping.
 - [fakir](https://github.com/ThinkR-open/fakir) - Create fake data in R for tutorials.
 - [shinysnippets](https://github.com/ThinkR-open/shinysnippets) - A series of Shiny related RStudio snippets.
+- [midas](https://github.com/shapenaji/midas) - Bootstrap new Shiny functions by turning HTML snippets directly into R tag functions.
 
 ### Modularization
 
