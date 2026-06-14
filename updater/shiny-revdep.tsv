@@ -1,6 +1,7 @@
 X1	X2
 a11yShiny	Accessibility Enhancements to Popular R Shiny Functions
 ABACUS	Apps Based Activities for Communicating and Understanding Statistics
+AbSolution	Interactive Feature-Based Analysis of AIRR-Seq Data
 abstractr	An R-Shiny Application for Creating Visual Abstracts
 activAnalyzer	A 'Shiny' App to Analyze Accelerometer-Measured Daily Physical Behavior Data
 AdaptGauss	Gaussian Mixture Models (GMM)
@@ -61,6 +62,7 @@ bayesMRM	Bayesian Multivariate Receptor Modeling
 BayesPower	Sample Size and Power Calculation for Bayesian Testing with Bayes Factor
 bayesROE	Bayesian Regions of Evidence
 bayMDS	Bayesian Multidimensional Scaling and Choice of Dimension
+bayprior	Bayesian Prior Elicitation and Diagnostics for Clinical Trials
 BBEST	Bayesian Estimation of Incoherent Neutron Scattering Backgrounds
 bdDwC	Darwinizer: Darwin Core (DwC) Field Names Standardization
 bea.R	Bureau of Economic Analysis API
@@ -68,12 +70,12 @@ BEACH	Biometric Exploratory Analysis Creation House
 BED	Biological Entity Dictionary (BED)
 BEMPdata	Access the Bangladesh Environmental Mobility Panel Dataset
 bestSDP	Burden Estimate of Common Communicable Diseases in Settlements of Displaced Populations
-BETS	Brazilian Economic Time Series
 BiasCorrector	A GUI to Correct Measurement Bias in DNA Methylation Analyses
 bibliometrix	Comprehensive Science Mapping Analysis
 biblioverlap	Document-Level Matching Between Bibliographic Datasets
 billboarder	Create Interactive Chart with the JavaScript 'Billboard' Library
 binovisualfields	Depth-Dependent Binocular Visual Fields Simulation
+BioIndex	Biological Indicators and Indices for MEDITS Survey Data
 BioThermR	Standardized Processing and Analysis of Thermal Imaging Data in Animal Studies
 BioVizSeq	Visualizing the Elements Within Bio-Sequences
 BlockmodelingGUI	GUI for the Generalised Blockmodeling of Valued Networks
@@ -91,6 +93,7 @@ bnRep	A Repository of Bayesian Networks from the Academic Literature
 bnviewer	Bayesian Networks Interactive Visualization and Explainable Artificial Intelligence
 boinet	Conduct Simulation Study of Bayesian Optimal Interval Design with BOIN-ET Family
 bootwar	Nonparametric Bootstrap Test with Pooled Resampling Card Game
+bravo	Bayesian Screening and Variable Selection
 bridger2	Genome-Wide RNA Degradation Analysis Using BRIC-Seq Data
 bs4Dash	A 'Bootstrap 4' Version of 'shinydashboard'
 bs4Dashkit	Branding, Theme Application and Navigation Utilities for 'bs4Dash' Dashboards
@@ -107,6 +110,7 @@ CaPO4Sim	A Virtual Patient Simulator in the Context of Calcium and Phosphate Hom
 carbonr	Calculate Carbon-Equivalent Emissions
 card.pro	Lightweight Modern & Responsive Card Component for 'shiny'
 cascadeSelect	A Cascade Select Input for 'Shiny'
+catekappa	Design and Analysis of Consistency Tests Based on Kappa Statistic
 causaloptim	An Interface to Specify Causal Graphs and Compute Bounds on Causal Effects
 CCWeights	Perform Weighted Linear Regression for Calibration Curve
 censuspyrID	Explorer of Indonesian Population Pyramids from Harmonized and Non-Harmonized Census Data
@@ -117,6 +121,7 @@ Certara.R	Easily Install Pharmacometric Packages and Shiny Applications Develope
 Certara.RsNLME.ModelBuilder	Pharmacometric Model Building Using 'shiny'
 Certara.RsNLME.ModelExecutor	Execute Pharmacometric Models Using 'shiny'
 Certara.VPCResults	Generate Visual Predictive Checks (VPC) Using 'shiny'
+CGMissingDataR	Impute Missing Glucose Values in CGM Data
 CGNM	Cluster Gauss-Newton Method
 ChannelAttributionApp	Shiny Web Application for the Multichannel Attribution Problem
 chatgpt	Interface to 'ChatGPT' from R
@@ -178,6 +183,7 @@ dataviewR	An Interactive and Feature-Rich Data Viewer
 daterangepicker	Create a Shiny Date-Range Input
 DateTimeRangePicker	A Datetime Range Picker Widget for Usage in 'Shiny' Applications
 DCEtool	Efficient and Accessible Discrete Choice Experiments
+Dcurvature	Discrete Curvature with 'shiny' Explorer
 ddpcr	Analysis and Visualization of Droplet Digital PCR in R and on the Web
 ddsPLS	Data-Driven Sparse Partial Least Squares
 deBif	Bifurcation Analysis of Ordinary Differential Equation Systems
@@ -206,6 +212,7 @@ dplyrAssist	RStudio Addin for Teaching and Learning Data Manipulation Using 'dpl
 DQAgui	Graphical User Interface for Data Quality Assessment
 drawer	An Interactive HTML Image Editing Tool
 drawsample	Draw Samples with the Desired Properties from a Data Set
+DrData	Interactive Statistical Analysis and Machine Learning Platform
 dropR	Dropout Analysis by Condition
 DTAT	Dose Titration Algorithm Tuning
 DTEAssurance	Assurance Methods for Clinical Trials with a Delayed Treatment Effect
@@ -229,9 +236,9 @@ editbl	'DT' Extension for CRUD (Create, Read, Update, Delete) Applications in 's
 editData	'RStudio' Addin for Editing a 'data.frame'
 EffectLiteR	Average and Conditional Effects
 EgoCor	Simple Presentation of Estimated Exponential Semi-Variograms
-einet	Effective Information and Causal Emergence
 eirm	Explanatory Item Response Modeling for Dichotomous and Polytomous Items
 elaborator	A 'shiny' Application for Exploring Laboratory Data
+ElicitationWizard	LLM-Based Bayesian Prior Elicitation Wizard
 emailjsr	'emailjs' Support
 EMMAgeo	End-Member Modelling of Grain-Size Data
 EMSaov	The Analysis of Variance with EMS
@@ -274,6 +281,7 @@ FielDHub	A Shiny App for Design of Experiments in Life Sciences
 filterNHP	Non-Human Primate Search Filters
 findInFiles	Find Pattern in Files
 findviews	A View Generator for Multidimensional Data
+finlabR	Portfolio Analytics and Simulation Toolkit
 fio	Friendly Input-Output Analysis
 fioRa	Mass-Spectra Prediction Using the FIORA Model
 firebase	Integrates 'Google Firebase' Authentication Storage, and 'Analytics' with 'Shiny'
@@ -282,6 +290,7 @@ fitODBODRshiny	'Shiny' Application for R Package 'fitODBOD'
 fitteR	Fit Hundreds of Theoretical Distributions to Empirical Data
 fitur	Fit Univariate Distributions
 flexdashboard	R Markdown Format for Flexible Dashboards
+FluxSeparator	Separation of Diffusive and Ebullitive Fluxes
 fluxtools	A 'shiny' App for Reproducible QA/QC of Eddy Covariance Data
 fomantic.plus	Add Extra 'Fomantic UI' Components to 'shiny.semantic'
 forecasteR	Time Series Forecast System
@@ -326,6 +335,7 @@ ggThemeAssist	Add-in to Customize 'ggplot2' Themes
 ggvis	Interactive Grammar of Graphics
 ggvolcano	Publication-Ready Volcano Plots
 glasstabs	Animated Glass-Style Tabs and Multi-Select Filter for 'Shiny'
+GLMBasedRaschEstimation	GLM-Based Estimation for Rasch Model Parameters
 GMSE	Generalised Management Strategy Evaluation Simulator
 gofigR	Client for 'GoFigr.io'
 GOFShiny	Interactive Document for Working with Goodness of Fit Analysis
@@ -352,11 +362,11 @@ GWSDAT	GroundWater Spatiotemporal Data Analysis Tool (GWSDAT)
 HaDeX	Analysis and Visualisation of Hydrogen/Deuterium Exchange Mass Spectrometry Data
 handcodeR	Text Annotation App
 handwriterApp	A 'shiny' Application for Handwriting Analysis
-hbsaems	Hierarchical Bayes Small Area Estimation Model using 'Stan'
 healthfinance	Financial Projections and Planning for Health Care Practices
 heiscore	Score and Plot the Healthy Eating Index from NHANES Data
 HH	Statistical Analysis and Data Display: Heiberger and Holland
 hidecan	Create HIDECAN Plots for Visualising Genome-Wide Association Studies and Differential Expression Results
+highdir	Backend-Agnostic Figure Builder for 'highcharter' and 'ggplot2'
 hipecR	Tools for Analysing HIPEC Patient Data
 histoslider	A Histogram Slider Input for 'Shiny'
 HIViz	Interactive Dashboard for 'HIV' Data Visualization
@@ -369,11 +379,14 @@ htetree	Causal Inference with Tree-Based Machine Learning Algorithms
 html2R	Convert 'HTML' to 'R' with a 'Shiny' App
 htsr	Hydro-Meteorology Time-Series
 hwordcloud	Rendering Word Clouds
+ICCDesign	Intraclass Correlation Coefficient (ICC) Design, Calculation and Interactive 'shiny' Toolkit
 iCellR	Analyzing High-Throughput Single Cell Sequencing Data
 icertool	Calculate and Plot ICER
 IceSat2R	'ICESat-2' Altimeter Data using R
+ichimoku	Visualization and Tools for Ichimoku Kinko Hyo Strategies
 idcnrba	Interactive Application for Analyzing Representativeness and Nonresponse Bias
 IDEAFilter	Agnostic, Idiomatic Data Filter Module for Shiny
+idealstan	Robust Measurement with 'Stan'
 ideanet	Integrating Data Exchange and Analysis for Networks ('ideanet')
 IDEATools	Individual and Group Farm Sustainability Assessments using the IDEA4 Method
 iglu	Interpreting Glucose Data from Continuous Glucose Monitors
@@ -424,6 +437,7 @@ lavaangui	Graphical User Interface with Integrated 'Diagrammer' for 'Lavaan'
 LBSPR	Length-Based Spawning Potential Ratio
 lcars	LCARS Aesthetic for Shiny
 LCMSQA	Liquid Chromatography/Mass Spectrometry (LC/MS) Quality Assessment
+LDAShiny	Interactive Topic Modeling and Bibliometric Analysis via Shiny
 leafdown	Provides Drill Down Functionality for 'leaflet' Choropleths
 LearnPCA	Functions, Data Sets and Vignettes to Aid in Learning Principal Components Analysis (PCA)
 learnr	Interactive Tutorials for R
@@ -440,6 +454,7 @@ linkspotter	Bivariate Correlations Calculation and Visualization
 linne	Convenient 'CSS'
 listviewer	'htmlwidget' for Interactive Views of R Lists
 live	Local Interpretable (Model-Agnostic) Visual Explanations
+llmcoder	LLM-Powered Code Generation, Error Fixing, and Chat for 'RStudio'
 LLMTranslate	'shiny' App for TRAPD/ISPOR Survey Translation with LLMs
 LMD	A Self-Adaptive Approach for Demodulating Multi-Component Signal
 lmviz	A Package to Visualize Linear Models Features and Play with Them
@@ -447,8 +462,6 @@ loadeR	Load Data for Analysis System
 login	'shiny' Login Module
 logrxaddin	Addin for the 'logrx' Package
 lrstat	Power and Sample Size Calculation for Non-Proportional Hazards and Beyond
-MadanText	Persian Text Mining Tool for Frequency Analysis, Statistical Analysis, and Word Clouds
-MadanTextNetwork	Persian Text Mining Tool for Co-Occurrence Network
 maidr	Multimodal Access and Interactive Data Representation
 mailmerge	Mail Merge Using R Markdown Documents and 'gmailr'
 MainExistingDatasets	Main Existing Human Datasets
@@ -470,12 +483,12 @@ meltt	Matching Event Data by Location, Time and Type
 memapp	The Moving Epidemic Method Web Application
 memery	Internet Memes for Data Analysts
 mergenstudio	'Mergen' Studio: An 'RStudio' Addin Wrapper for the 'Mergen' Package
-merTools	Tools for Analyzing Mixed Effect Regression Models
 metaconfoundr	Visualize 'Confounder' Control in Meta-Analyses
 MethodOpt	Advanced Method Optimization for Spectra-Generating Sampling and Analysis Instrumentation
 MetSizeR	A Shiny App for Sample Size Estimation in Metabolomic Experiments
 MHQoL	Mental Health Quality of Life Toolkit
 midas	Turn HTML 'Shiny'
+MIMSunit	Algorithm to Compute Monitor Independent Movement Summary Unit (MIMS-Unit)
 min2HalfFFD	Minimally Changed Two-Level Half-Fractional Factorial Designs
 miniMeta	Web Application to Run Meta-Analyses
 miniUI	Shiny UI Widgets for Small Screens
@@ -492,7 +505,6 @@ mmirestriktor	Informative Hypothesis Testing Web Applications
 mmstat4	Access to Teaching Materials from a ZIP File or GitHub
 MNLR	Interactive Shiny Presentation for Working with Multinomial Logistic Regression
 modest	Model-Based Dose-Escalation Trials
-modgetxl	A 'shiny' Module for Reading Excel Sheets
 monaco	The 'Monaco' Editor as a HTML Widget
 monitOS	Monitoring Overall Survival in Pivotal Trials in Indolent Cancers
 monographaR	Taxonomic Monographs Tools
@@ -516,6 +528,7 @@ nbc4va	Bayes Classifier for Verbal Autopsy Data
 NBShiny	Interactive Document for Working with Naive Bayes Classification
 NBShiny2	Interactive Document for Working with Naive Bayes Classification
 NBShiny3	Interactive Document for Working with Naive Bayes Classification
+ncmR	Fit Neutral Community Model to Microbiome or Ecological Data
 NDP	Interactive Presentation for Working with Normal Distribution
 neo4r	A 'Neo4J' Driver
 neodistr	Neo-Normal Distribution
@@ -526,7 +539,6 @@ nextGenShinyApps	Craft Exceptional 'R Shiny' Applications and Dashboards with No
 NGLVieweR	Interactive 3D Visualization of Molecular Structures
 NiLeDAM	Monazite Dating for the NiLeDAM Team
 NormalityAssessment	A Graphical User Interface for Testing Normality Visually
-normalr	Normalisation of Multiple Variables in Large-Scale Datasets
 normfluodbf	Cleans and Normalizes FLUOstar DBF and DAT Files from 'Liposome' Flux Assays
 npboottprm	Nonparametric Bootstrap Test with Pooled Resampling
 npboottprmFBar	Informative Nonparametric Bootstrap Test with Pooled Resampling
@@ -561,6 +573,7 @@ pannotator	Visualisation and Annotation of 360 Degree Imagery
 paramGUI	A Shiny GUI for some Parameter Estimation Examples
 ParCC	Parameter Converter and Calculator for Health Technology Assessment
 pargasite	Pollution-Associated Risk Geospatial Analysis Site
+PatientGenerator	Generator of Synthetic Patient Data for the OMOP Common Data Model
 PCRedux	Quantitative Polymerase Chain Reaction (qPCR) Data Mining and Machine Learning Toolkit as Described in Burdukiewicz (2022) <doi:10.21105/Joss.04407>
 pdfcombiner	Graphical User Interface for Manipulating PDF and Image Files
 PDShiny	'Probability Distribution Shiny'
@@ -606,7 +619,6 @@ projectLSA	Shiny Application for Latent Structure Analysis with a Graphical User
 prompter	Add Tooltips in 'Shiny' Apps with 'Hint.css'
 protein8k	Perform Analysis and Create Visualizations of Proteins
 protoshiny	Interactive Dendrograms for Visualizing Hierarchical Clusters with Prototypes
-PSS.Health	Power and Sample Size for Health Researchers via Shiny
 PupilPre	Preprocessing Pupil Size Data
 pushbar	Create Sliders for 'Shiny'
 qbrms	Quick Bayesian Regression Models Using 'INLA' with 'brms' Syntax
@@ -626,6 +638,7 @@ quarks	Simple Methods for Calculating and Backtesting Value at Risk and Expected
 quartify	Convert R Scripts to 'Quarto' Markdown Documents
 querychat	Filter and Query Data Frames in 'shiny' Using an LLM Chat Interface
 questionr	Functions to Make Surveys Processing Easier
+QuickExplore	Interactive Dataset Explorer for 'R' and 'SAS' and Other Data Formats
 QurvE	Robust and User-Friendly Analysis of Growth and Fluorescence Curves
 r2fireworks	Enhance Your 'Rmarkdown' and 'shiny' Apps with Dazzling Fireworks Celebrations
 r2resize	In-Text Resize for Images, Tables and Fancy Resize Containers in 'shiny', 'rmarkdown' and 'quarto' Documents
@@ -658,6 +671,7 @@ rclipboard	Shiny/R Wrapper for 'clipboard.js'
 rcrossref	Client for Various 'CrossRef' 'APIs'
 RCTrep	Validation of Estimates of Treatment Effects in Observational Data
 rddapp	Regression Discontinuity Design Application
+rDeckgl	R Bindings to 'Deck.gl'
 reactable.extras	Extra Features for 'reactable' Package
 reactRouter	'React Router' for 'shiny' Apps and 'Quarto'
 ReDaMoR	Relational Data Modeler
@@ -671,16 +685,18 @@ resizableSplitLayout	Resizable Split Layout Module for 'shiny'
 retistruct	Retinal Reconstruction Program
 ReviewR	A Light-Weight, Portable Tool for Reviewing Individual Patient Records
 revtools	Tools to Support Evidence Synthesis
-Rfssa	Functional Singular Spectrum Analysis
 rheroicons	A Zero Dependency 'SVG' Icon Library for 'Shiny'
 rhino	A Framework for Enterprise Shiny Applications
 rintrojs	Wrapper for the 'Intro.js' Library
+rjd3production	Prepare for Production of Seasonal Adjustment with 'JDemetra+'
 RLumShiny	'Shiny' Applications for the R Package 'Luminescence'
 Rmfrac	Simulation and Statistical Analysis of Multifractional Processes
 Rmoji	Interactively Insert Emojis in 'R' Documents
 roadoi	Find Free Versions of Scholarly Publications via Unpaywall
 robmedExtra	Extra Functionality for (Robust) Mediation Analysis
+RobustFlow	Robustness and Drift Auditing for Longitudinal Decision Systems
 robustT2	Robust Hotelling-Type T² Control Chart Based on the Dual STATIS Approach
+RoME	Multiple Checks on MEDITS Trawl Survey Data
 romic	R for High-Dimensional Molecular Data
 rPackedBar	Packed Bar Charts with 'plotly'
 rrtable	Reproducible Research with a Table of R Codes
@@ -715,7 +731,6 @@ shidashi	A Shiny Dashboard Template Modular System with Chat Bot Support
 shiny.blueprint	Palantir's 'Blueprint' for 'Shiny' Apps
 shiny.destroy	Create Destroyable Modules in 'Shiny'
 shiny.emptystate	Empty State Components for 'Shiny'
-shiny.fluent	Microsoft Fluent UI for Shiny Apps
 shiny.i18n	Shiny Applications Internationalization
 shiny.ollama	R 'shiny' Interface for Chatting with Large Language Models Offline on Local with 'ollama'
 shiny.react	Tools for Using React in Shiny
@@ -723,11 +738,13 @@ shiny.router	Basic Routing for Shiny Web Applications
 shiny.semantic	Semantic UI Support for Shiny
 shiny.tailwind	'TailwindCSS' for Shiny Apps
 shiny.telemetry	'Shiny' App Usage Telemetry
+shiny.webawesome	'shiny' Bindings for 'Web Awesome' Components
 shinyAce	Ace Editor Bindings for Shiny
 shinyaframe	'WebVR' Data Visualizations with 'RStudio Shiny' and 'Mozilla A-Frame'
 shinyalert	Easily Create Pretty Popup Messages (Modals) in 'Shiny'
 shinyanimate	Animation for 'shiny' Elements
 shinyauthr	'Shiny' Authentication Modules
+ShinyBlock	Multi-Protocol Blockchain Simulator and Enterprise Ledger Framework
 shinybrms	Graphical User Interface ('shiny' App) for 'brms'
 shinybrowser	Find Out Information About a User's Web Browser in 'Shiny'
 shinyBS	Extra Twitter Bootstrap Components for Shiny
@@ -749,6 +766,7 @@ shinydbauth	Simple Authentification for 'shiny' Applications
 shinydisconnect	Show a Nice Message When a 'Shiny' App Disconnects or Errors
 shinyDND	Shiny Drag-n-Drop
 shinydrive	File Sharing Shiny Module
+shinyds	'Shiny' Bindings for Designsystemet Components
 shinyDTC	Simple Dynamic Timer Control
 shinyEditor	'Ace' and 'Monaco' Editors Bindings for 'shiny' Application
 shinyEffects	Customize Your Web Apps with Fancy Effects
@@ -790,6 +808,7 @@ shinyOAuth	Provider-Agnostic OAuth Authentication for 'shiny' Applications
 shinyobjects	Access Reactive Data Interactively
 shinypanel	Shiny Control Panel
 shinypayload	Accept POST Data and URL Parameters in 'shiny' (Same-Port Integration)
+shinyphaser	An Interface to the 'Phaser.js' Game Framework
 shinypivottabler	Shiny Module to Create Pivot Tables
 shinyQueryBuilder	Construct Complex Filtering Queries in 'Shiny'
 ShinyQuickStarter	'RStudio' Addin for Building Shiny Apps per Drag & Drop
@@ -802,8 +821,9 @@ shinyRGL	Shiny Wrappers for RGL
 shinySbm	'shiny' Application to Use the Stochastic Block Model
 shinyscreenshot	Capture Screenshots of Entire Pages or Parts of Pages in 'Shiny'
 shinySearchbar	Shiny Searchbar - An Input Widget for Highlighting Text and More
-shinyservicebot	Servicebot 'Shiny' Integration
+shinyseo	Search Engine Optimization, Social Metadata, and Site Verification Helpers for 'Shiny' Apps
 shinystate	Customization of Shiny Bookmarkable State
+shinyStep	User-Editable R Functions in 'Shiny' Apps with a Step Debugger
 shinyStorePlus	Secure in-Browser and Database Storage for 'shiny' Inputs, Outputs, Views and User Likes
 shinyTempSignal	Explore Temporal and Other Phylogenetic Signals
 shinytest	Test Shiny Apps
@@ -828,6 +848,7 @@ simrel	Simulation of Multivariate Linear Model Data
 simRestore	Simulate the Effect of Management Policies on Restoration Efforts
 SINRELEF.LD	Reliability and Relative Efficiency in Locally-Dependent Measures
 sistec	Tools to Analyze 'Sistec' Datasets
+SKBD	Shared Keyboard Designs for Phase I Dose-Finding Trials
 SkeletalVis	Exploration and Visualisation of Skeletal Transcriptomics Data
 sketch	Interactive Sketches
 Slick	Interactive Visualization of MSE Results
@@ -841,6 +862,7 @@ sortable	Drag-and-Drop in 'shiny' Apps with 'SortableJS'
 soundClass	Sound Classification Using Convolutional Neural Networks
 soundgen	Sound Synthesis and Acoustic Analysis
 SouthParkRshiny	Data and 'Shiny' Application for the Show 'SouthPark'
+spada	A 'shiny' Package for Data Analysis
 SPARTAAS	Statistical Pattern Recognition and daTing using Archaeological Artefacts assemblageS
 spatialCatalogueViewer	A 'Shiny' Tool to Create Interactive Catalogues for Geospatial Data
 Spectran	Visual and Non-Visual Spectral Analysis of Light
@@ -852,13 +874,16 @@ SqueakR	An Experiment Interface for 'DeepSqueak' Bioacoustics Research
 squid	Statistical Quantification of Individual Differences
 ssd4mosaic	Web Application for the SSD Module of the MOSAIC Platform
 SSDM	Stacked Species Distribution Modelling
+staat1cho	Study Indicators Based on Dutch Higher Education Data (1CHO)
 StabilityApp	Stability Analysis App for GEI in Multi-Environment Trials
 standby	Alerts, Notifications and Loading Screen in 'Shiny'
 starry	Explore Data with Plots and Tables
+StatisticTeach1	Interactive Tool for Statistics and Probability
 statsr	Companion Software for the Coursera Statistics with R Specialization
 StatTeacherAssistant	An App that Assists Intro Statistics Instructors with Data Sets
 stCEG	Fully Customizable Chain Event Graphs over Spatial Areas
 StepRegShiny	Graphical User Interface for 'StepReg'
+stepssurvey	Analyse WHO STEPS Survey Data
 StereoMorph	Stereo Camera Calibration and Reconstruction
 stmgui	Shiny Application for Creating STM Models
 StratigrapheR	Integrated Stratigraphy
@@ -883,6 +908,7 @@ TBA	Collection of 'shiny' Apps for Tree Breeding Analysis
 tcgaViz	Visualization Tool for the Cancer Genome Atlas Program (TCGA)
 teal.logger	Logging Setup for the 'teal' Family of Packages
 teal.modules.clinical	'teal' Modules for Standard Clinical Outputs
+teal.picks	Dataset and Variable Picker and Merge Module for 'teal' Applications
 teal.reporter	Reporting Tools for 'shiny' Modules
 teal.slice	Filter Module for 'teal' Applications
 teal.transform	Functions for Extracting and Merging Data in the 'teal' Framework
@@ -899,6 +925,7 @@ tinyshinyserver	Tiny 'shiny' Server - Lightweight Multi-App 'shiny' Proxy
 tippy	Add Tooltips to 'R markdown' Documents or 'Shiny' Apps
 TKCat	Tailored Knowledge Catalog
 toastui	Interactive Tables, Calendars and Charts for the Web
+toro	Interactive & Customisable Maps using the 'MapLibre GL JS' Library
 toxEval	Exploring Biological Relevance of Environmental Chemistry Observations
 toxSummary	Visualize and Summarize Repeat-Dose Toxicology Study Results
 tr.iatgen	Translate 'iatgen' Generated QSF Files
@@ -934,12 +961,12 @@ vibass	Materials for Introductory Course on Bayesian Learning
 vici	Vaccine Induced Cellular Immunogenicity with Bivariate Modeling
 video	'Shiny' Extension of 'video.js'
 viewpoly	A Shiny App to Visualize Genetic Maps and QTL Analysis in Polyploid Species
+ViewR	Advanced Interactive Data Tables and Data Explorer
 ViSe	Visualizing Sensitivity
 visualFields	Statistical Methods for Visual Fields
 visvaR	Shiny-Based Statistical Solutions for Agricultural Research
 visvow	Visible Vowels: Visualization of Vowel Variation
 visxhclust	A Shiny App for Visual Exploration of Hierarchical Clustering
-voiceR	Voice Analytics for Social Scientists
 volcanoPlot	Volcano Plot for Clinical Trial Adverse Events
 voronoiTreemap	Voronoi Treemaps with Added Interactivity by Shiny
 VOSONDash	User Interface for Collecting and Analysing Social Networks
