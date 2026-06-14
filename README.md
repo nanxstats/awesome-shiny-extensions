@@ -144,6 +144,7 @@ add packages to the list.
 - [shinyGovstyle](https://github.com/dfe-analytical-services/shinyGovstyle) - Custom GOV.UK style inputs for Shiny.
 - [fomantic.plus](https://github.com/ashbaldry/fomantic.plus) - Extra Fomantic UI components for shiny.semantic.
 - [lcars](https://github.com/leonawicz/lcars) - Star Trek aesthetic for Shiny with custom UI components.
+- [shinyds](https://github.com/novica/shinyds) - Shiny bindings for the Designsystemet component library.
 
 ### Dashboard Theming
 
@@ -338,6 +339,7 @@ add packages to the list.
 - [toastui](https://github.com/dreamRs/toastui) - Interactive tables, calendars, and charts based on the TOAST UI JavaScript library.
 - [shinypivottabler](https://cran.r-project.org/package=shinypivottabler) - Shiny module to create interactive pivot tables.
 - [shinydataviewer](https://github.com/Ryan-W-Harrison/shinydataviewer) - Reusable data viewer module for Shiny.
+- [ViewR](https://github.com/itsmdivakaran/viewR) - Interactive data table and data explorer with a virtualized grid, spark histograms, hover metadata, visual query builder, and code generation.
 
 ### Drawers
 
@@ -584,6 +586,8 @@ add packages to the list.
 - [quickglobe](https://github.com/daranzolin/quickglobe) - View country data via a 3D D3 globe.
 - [mapgl](https://github.com/walkerke/mapgl) - Interactive maps using Mapbox GL JS and MapLibre GL JS.
 - [AtlasMaker](https://github.com/rachel-greenlee/AtlasMaker) - Shiny module to create multiple interconnected leaflet maps across tabs.
+- [rDeckgl](https://github.com/TiRizvanov/rDeckgl) - R bindings to Deck.gl.
+- [toro](https://github.com/Epi-interactive-Ltd/toro) - Interactive and customizable maps using the MapLibre GL JS library.
 
 ### Sparkline
 
@@ -666,10 +670,12 @@ add packages to the list.
 - [teal.logger](https://github.com/insightsengineering/teal.logger) - Logging setup for the teal family of packages.
 - [teal.modules.clinical](https://github.com/insightsengineering/teal.modules.clinical) - A set of teal modules for standard clinical outputs.
 - [teal.modules.general](https://github.com/insightsengineering/teal.modules.general) - General modules for teal applications.
+- [teal.picks](https://github.com/insightsengineering/teal.picks) - Dataset and variable picker and merge module for teal applications.
 - [teal.reporter](https://github.com/insightsengineering/teal.reporter) - Reporting tools for Shiny modules.
 - [teal.slice](https://github.com/insightsengineering/teal.slice) - Filter module for teal applications.
 - [teal.transform](https://github.com/insightsengineering/teal.transform) - Functions and Shiny modules for extracting and merging data within the teal framework.
 - [teal.widgets](https://github.com/insightsengineering/teal.widgets) - Shiny widgets for teal applications.
+- [uteals](https://github.com/phuse-org/uteals) - Shared decorators, transformators, and utility functions that extend teal modules.
 - [blockr.dag](https://github.com/BristolMyersSquibb/blockr.dag) - A directed acyclic graph extension for blockr.
 - [blockr.dock](https://github.com/BristolMyersSquibb/blockr.dock) - A docking layout manager for blockr.
 - [blockr.dplyr](https://github.com/BristolMyersSquibb/blockr.dplyr) - Interactive dplyr data transformation blocks for blockr.
