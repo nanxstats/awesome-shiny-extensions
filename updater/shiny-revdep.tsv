@@ -158,6 +158,7 @@ corporaexplorer	A 'Shiny' App for Exploration of Text Collections
 corrViz	Visualise Correlations
 cosinor	Tools for Estimating and Predicting the Cosinor Model
 countfitteR	Comprehensive Automatized Evaluation of Distribution Models for Count Data
+courieR	Migrate Installed R Packages Between R Versions
 coveffectsplot	Produce Forest Plots to Visualize Covariate Effects
 covid19.analytics	Load and Analyze Live Data from the COVID-19 Pandemic
 cpam	Changepoint Additive Models for Time Series Omics Data
