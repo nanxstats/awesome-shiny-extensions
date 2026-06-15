@@ -302,7 +302,6 @@ add packages to the list.
 - [markdownInput](https://github.com/juliendiot42/markdownInput) - Shiny module for a Markdown input with live result preview.
 - [shinyNotes](https://github.com/danielkovtun/shinyNotes) - Shiny module for taking free-form notes.
 - [DataEditR](https://github.com/DillonHammill/DataEditR) - Interactive data editor for Shiny with modules for editing, filtering, and syncing data.
-- [shinyStep](https://github.com/zhangh12/shinyStep) - Shiny modules for user-editable R functions with an Ace code editor, R console, and step debugger.
 
 ### Chat
 
@@ -658,6 +657,7 @@ add packages to the list.
 - [teal](https://github.com/insightsengineering/teal) - Interactive exploration framework for analyzing clinical trials data, provides a dynamic filtering facility and different data viewers.
 - [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.
 - [blockr.core](https://github.com/BristolMyersSquibb/blockr.core) - Graphical web framework for data manipulation and visualization using reusable, composable blocks.
+- [learnr](https://github.com/rstudio/learnr) - Interactive R Markdown tutorials with Shiny-powered exercises, quizzes, and question widgets.
 - [surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-based programmable surveys using Quarto and Shiny, with skip logic, multiple question types, and database storage.
 
 ### Scaffolding
@@ -832,6 +832,7 @@ add packages to the list.
 
 - [reactlog](https://github.com/rstudio/reactlog) - Visual debugger for Shiny reactivity.
 - [shinyobjects](https://github.com/rjake/shinyobjects) - Access reactive data interactively to help debug reactive data frames and load assigned objects into local environment.
+- [shinyStep](https://github.com/zhangh12/shinyStep) - Shiny modules for user-editable R functions with an Ace code editor, R console, and step debugger.
 
 ### Testing
 
