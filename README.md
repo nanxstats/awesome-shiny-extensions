@@ -302,6 +302,7 @@ add packages to the list.
 - [markdownInput](https://github.com/juliendiot42/markdownInput) - Shiny module for a Markdown input with live result preview.
 - [shinyNotes](https://github.com/danielkovtun/shinyNotes) - Shiny module for taking free-form notes.
 - [DataEditR](https://github.com/DillonHammill/DataEditR) - Interactive data editor for Shiny with modules for editing, filtering, and syncing data.
+- [findInFiles](https://github.com/stla/findInFiles) - Search files and display grep results in an HTML widget with Shiny bindings.
 
 ### Chat
 
@@ -340,6 +341,7 @@ add packages to the list.
 - [shinypivottabler](https://cran.r-project.org/package=shinypivottabler) - Shiny module to create interactive pivot tables.
 - [shinydataviewer](https://github.com/Ryan-W-Harrison/shinydataviewer) - Reusable data viewer module for Shiny.
 - [ViewR](https://github.com/itsmdivakaran/viewR) - Interactive data table and data explorer with a virtualized grid, spark histograms, hover metadata, visual query builder, and code generation.
+- [dataviewR](https://github.com/madhankumarnagaraji/dataviewR) - Interactive data frame viewer with filtering, column selection, and code generation.
 
 ### Drawers
 
@@ -666,6 +668,7 @@ add packages to the list.
 - [windy](https://github.com/devOpifex/windy) - Sets up basic scaffold to use Tailwind CSS within an R package for a Shiny application.
 - [periscope](https://github.com/cb4ds/periscope) - Enterprise streamlined Shiny application framework with reusable downloadable modules.
 - [periscope2](https://github.com/Aggregate-Genius/periscope2) - Enterprise streamlined Shiny application framework using bs4Dash.
+- [autoshiny](https://github.com/alekrutkowski/autoshiny) - Automatically transform an R function into a Shiny app object or app files.
 
 ### Framework extensions
 
