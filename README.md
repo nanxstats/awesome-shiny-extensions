@@ -302,6 +302,7 @@ add packages to the list.
 - [markdownInput](https://github.com/juliendiot42/markdownInput) - Shiny module for a Markdown input with live result preview.
 - [shinyNotes](https://github.com/danielkovtun/shinyNotes) - Shiny module for taking free-form notes.
 - [DataEditR](https://github.com/DillonHammill/DataEditR) - Interactive data editor for Shiny with modules for editing, filtering, and syncing data.
+- [shinyStep](https://github.com/zhangh12/shinyStep) - Shiny modules for user-editable R functions with an Ace code editor, R console, and step debugger.
 
 ### Chat
 
@@ -358,6 +359,7 @@ add packages to the list.
 
 - [marker](https://github.com/JohnCoene/marker) - Highlight text in Shiny with markjs.
 - [circletyper](https://github.com/etiennebacher/circletyper) - Curve text elements in Shiny using CircleType.js.
+- [equatiomatic](https://github.com/datalorax/equatiomatic) - Transform fitted statistical models into LaTeX equations, with Shiny output and render bindings.
 
 ### Image / Audio / Video
 
@@ -453,6 +455,7 @@ add packages to the list.
 - [r2resize](https://github.com/oobianom/r2resize) - In-text resizable containers for images, tables, and other content in Shiny, R Markdown, and Quarto.
 - [manipulateWidget](https://github.com/rte-antares-rpackage/manipulateWidget) - Add interactivity to htmlwidgets with combine and filter controls for Shiny.
 - [linkeR](https://github.com/EpiForeSITE/linkeR) - Link interactive plots and tables in Shiny applications for coordinated views.
+- [shinyphaser](https://github.com/maciekbanas/shinyphaser) - Interface to the Phaser.js game framework for constructing and managing 2D games in Shiny apps.
 
 ## Visualization
 
@@ -655,6 +658,7 @@ add packages to the list.
 - [teal](https://github.com/insightsengineering/teal) - Interactive exploration framework for analyzing clinical trials data, provides a dynamic filtering facility and different data viewers.
 - [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.
 - [blockr.core](https://github.com/BristolMyersSquibb/blockr.core) - Graphical web framework for data manipulation and visualization using reusable, composable blocks.
+- [surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-based programmable surveys using Quarto and Shiny, with skip logic, multiple question types, and database storage.
 
 ### Scaffolding
 
@@ -682,6 +686,7 @@ add packages to the list.
 - [blockr.ggplot](https://github.com/BristolMyersSquibb/blockr.ggplot) - Interactive ggplot2 visualization blocks for blockr.
 - [blockr.io](https://github.com/BristolMyersSquibb/blockr.io) - Interactive file import and export blocks for blockr.
 - [formods](https://github.com/john-harrold/formods) - Shiny modules for general tasks including data wrangling, figure generation, and app state management.
+- [tutorial.helpers](https://github.com/PPBDS/tutorial.helpers) - Helper functions and Shiny modules for creating, editing, and testing tutorials with learnr, including collecting student submissions.
 
 ## Backend
 
@@ -810,6 +815,7 @@ add packages to the list.
 - [fakir](https://github.com/ThinkR-open/fakir) - Create fake data in R for tutorials.
 - [shinysnippets](https://github.com/ThinkR-open/shinysnippets) - A series of Shiny related RStudio snippets.
 - [midas](https://github.com/shapenaji/midas) - Bootstrap new Shiny functions by turning HTML snippets directly into R tag functions.
+- [html2R](https://github.com/stla/html2R) - Converts HTML markup into R tag code for building Shiny UIs.
 
 ### Modularization
 
@@ -825,6 +831,7 @@ add packages to the list.
 ### Debugging
 
 - [reactlog](https://github.com/rstudio/reactlog) - Visual debugger for Shiny reactivity.
+- [shinyobjects](https://github.com/rjake/shinyobjects) - Access reactive data interactively to help debug reactive data frames and load assigned objects into local environment.
 
 ### Testing
 
@@ -872,6 +879,7 @@ add packages to the list.
 - [shinybrowser](https://github.com/daattali/shinybrowser) - Find out information about a user's web browser in Shiny.
 - [shinytitle](https://github.com/ashbaldry/shinytitle) - Update the browser window title dynamically in a Shiny session.
 - [a11yShiny](https://gitlab.opencode.de/bmbf/datenlabor/a11yshiny) - Accessibility-enhanced replacements for popular Shiny UI functions.
+- [shinyseo](https://github.com/rolfmblindgren/shinyseo) - Inject SEO, Open Graph, Twitter, site verification, and schema.org metadata into Shiny apps.
 
 ### Dependency Resolution
 
