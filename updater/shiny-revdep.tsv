@@ -217,6 +217,7 @@ DrData	Interactive Statistical Analysis and Machine Learning Platform
 dropR	Dropout Analysis by Condition
 DTAT	Dose Titration Algorithm Tuning
 DTEAssurance	Assurance Methods for Clinical Trials with a Delayed Treatment Effect
+dtsmartr	Interactive Virtualized Data Explorer Grid Widget
 dtwclust	Time Series Clustering Along with Optimizations for the Dynamic Time Warping Distance
 DVHmetrics	Analyze Dose-Volume Histograms and Check Constraints
 dynafluxr	Retrieve Reaction Rate Dynamics from Metabolite Concentration Time Courses
@@ -485,6 +486,7 @@ memapp	The Moving Epidemic Method Web Application
 memery	Internet Memes for Data Analysts
 mergenstudio	'Mergen' Studio: An 'RStudio' Addin Wrapper for the 'Mergen' Package
 metaconfoundr	Visualize 'Confounder' Control in Meta-Analyses
+metainsight	A 'shiny' Application for Network Meta-Analysis
 MethodOpt	Advanced Method Optimization for Spectra-Generating Sampling and Analysis Instrumentation
 MetSizeR	A Shiny App for Sample Size Estimation in Metabolomic Experiments
 MHQoL	Mental Health Quality of Life Toolkit

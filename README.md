@@ -342,6 +342,7 @@ add packages to the list.
 - [shinydataviewer](https://github.com/Ryan-W-Harrison/shinydataviewer) - Reusable data viewer module for Shiny.
 - [ViewR](https://github.com/itsmdivakaran/viewR) - Interactive data table and data explorer with a virtualized grid, spark histograms, hover metadata, visual query builder, and code generation.
 - [dataviewR](https://github.com/madhankumarnagaraji/dataviewR) - Interactive data frame viewer with filtering, column selection, and code generation.
+- [dtsmartr](https://github.com/wagh-nikhil/dtsmartr) - Interactive virtualized data explorer grid htmlwidget with column-type detection, multi-value filtering, sorting, and virtual scrolling.
 
 ### Drawers
 
