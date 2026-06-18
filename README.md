@@ -820,6 +820,7 @@ add packages to the list.
 - [shinysnippets](https://github.com/ThinkR-open/shinysnippets) - A series of Shiny related RStudio snippets.
 - [midas](https://github.com/shapenaji/midas) - Bootstrap new Shiny functions by turning HTML snippets directly into R tag functions.
 - [html2R](https://github.com/stla/html2R) - Converts HTML markup into R tag code for building Shiny UIs.
+- [ShinyQuickStarter](https://github.com/cran/ShinyQuickStarter) - RStudio addin for drag-and-drop creation of Shiny apps, dashboards, and modules.
 
 ### Modularization
 
