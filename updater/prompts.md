@@ -15,3 +15,5 @@ To help you get started, I have prepared the latest list of reverse imports of s
 Shiny extension packages often have render*() and *Output() functions in their NAMESPACE file.
 
 After confirming a package is a Shiny extension, add it to the awesome list in @README.md in the appropriate section with a brief description based on the package title and description from CRAN. Follow the formatting style of the existing entries in the awesome list. If you find a package that does not fit into any existing section, create a new section for it and add it there. Do not create new sections in the awesome list unless absolutely necessary. Fan out subagents to handle the tasks of checking the packages.
+
+Exclude the packages listed in @updater/exclude.txt from consideration. These have already been reviewed and set aside to keep the list focused. For example, some haven't seen updates in a long time, some have newer alternatives that now cover similar ground, and some fall outside the scope of Shiny extensions. This is a curation choice for this list, not a judgment on the quality or value of the work behind these packages.
