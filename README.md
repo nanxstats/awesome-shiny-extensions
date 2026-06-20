@@ -182,7 +182,7 @@ add packages to the list.
 - [bsplus](https://github.com/ijlyttle/bsplus) - Bootstrap 3 addons for Shiny and R Markdown (collapsible elements, accordion panels, accordion-sidebar sets, tooltips, popovers, modals, carousels).
 - [bsutils](https://github.com/the-y-company/bsutils) - UI utilities for Bootstrap 5 and Shiny.
 - [litter](https://github.com/devOpifex/litter) - Lit components for Shiny.
-- [ShinyWidgets](https://github.com/dreamRs/shinyWidgets) - Bootstrap 3 custom widgets for Shiny (switches, checkboxes, sweet alerts, slider text, knob inputs, select pickers, search bar, dropdown buttons).
+- [shinyWidgets](https://github.com/dreamRs/shinyWidgets) - Bootstrap 3 custom widgets for Shiny (switches, checkboxes, sweet alerts, slider text, knob inputs, select pickers, search bar, dropdown buttons).
 - [shinyBS](https://github.com/ebailey78/shinyBS) - Bootstrap 3 components for Shiny (alerts, tooltips, popovers, modals, collapsible panels, button upgrades).
 - [shinyLP](https://github.com/jasdumas/shinyLP) - Bootstrap 3 landing pages for Shiny apps.
 - [shinypanels](https://github.com/datasketch/shinypanels) - Shiny layout with collapsible panels.
