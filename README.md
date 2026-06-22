@@ -351,7 +351,7 @@ add packages to the list.
 - [dataviewR](https://github.com/madhankumarnagaraji/dataviewR) - Interactive data frame viewer with filtering, column selection, and code generation.
 - [dtsmartr](https://github.com/wagh-nikhil/dtsmartr) - Interactive virtualized data explorer grid htmlwidget with column-type detection, multi-value filtering, sorting, and virtual scrolling.
 - [DT2](https://github.com/StrategicProjects/DT2) - DataTables 2.x htmlwidget with Shiny rendering, proxy, and event helpers.
-- [RagGrid](https://github.com/no-types/RagGrid) - ag-Grid htmlwidget for interactive tables in R Markdown and Shiny.
+- [RagGrid](https://github.com/no-types/RagGrid) - AG Grid htmlwidget for interactive tables in R Markdown and Shiny.
 - [htmlTable](https://github.com/gforge/htmlTable) - Advanced HTML tables with Shiny output and render bindings.
 - [nestable](https://github.com/derekunderwood/nestable) - Collapsible hierarchical HTML tables with Shiny bindings.
 
@@ -388,7 +388,7 @@ add packages to the list.
 - [annotator](https://github.com/valcu/annotator) - Image annotation and polygon outlining htmlwidget using free drawing.
 - [video](https://github.com/ashbaldry/video) - Shiny extension for video.js to embed customizable HTML5 video players.
 - [freewall](https://github.com/stla/freewall) - Dynamic image grid layouts for Shiny and R Markdown.
-- [swipeR](https://github.com/stla/swipeR) - Swiper-based carousel widget with Shiny output and render bindings.
+- [swipeR](https://github.com/stla/swipeR) - Carousels using the JavaScript library Swiper.
 - [rintimg](https://github.com/feddelegrand7/rintimg) - View an image in full screen by clicking on it.
 
 ### PDF
@@ -439,7 +439,7 @@ add packages to the list.
 - [r2fireworks](https://github.com/oobianom/r2fireworks) - Add fireworks celebration effects to Shiny apps and R Markdown.
 - [aos](https://github.com/lgnbhl/aos) - Apply scroll-triggered animations to Shiny and R Markdown elements using the AOS (Animate On Scroll) library.
 - [aniview](https://github.com/lgnbhl/aniview) - Animate Shiny and R Markdown elements when they scroll into view, powered by AniView and Animate.css.
-- [countdown](https://github.com/gadenbuie/countdown) - Countdown timers for Shiny apps, R Markdown, and Quarto.
+- [countdown](https://github.com/gadenbuie/countdown) - A countdown timer for Shiny apps, R Markdown, and Quarto.
 - [flipdownr](https://github.com/feddelegrand7/flipdownr) - Flipdown.js countdown component for R Markdown documents and Shiny apps.
 - [flipdownWidgets](https://github.com/fanggong/flipdownWidgets) - Flipdown.js countdown htmlwidget with Shiny bindings.
 
@@ -515,13 +515,13 @@ add packages to the list.
 - [maidr](https://github.com/xability/r-maidr) - Multimodal access and interactive data representation with accessibility features.
 - [GWalkR](https://github.com/Kanaries/GWalkR) - Interactive Tableau-like exploratory data analysis htmlwidget for Shiny.
 - [AutoPlots](https://github.com/AdrianAntico/AutoPlots) - High-level ECharts visualization helpers for common chart types and model evaluation plots.
-- [canvasXpress](https://github.com/neuhausi/canvasXpress) - CanvasXpress htmlwidget for broad interactive scientific and statistical visualizations.
+- [canvasXpress](https://github.com/neuhausi/canvasXpress) - Interactive visualization for scientific and biomedical research using CanvasXpress.
 - [echarty](https://github.com/helgasoft/echarty) - Minimal Shiny and htmlwidget interface to Apache ECharts.
 - [flourishcharts](https://github.com/canva-public/flourishcharts) - Flourish htmlwidget for interactive data storytelling charts.
 - [lineupjs](https://github.com/lineupjs/lineup_htmlwidget) - LineUp.js htmlwidget for interactive visual analysis of multi-attribute rankings.
 - [plotscaper](https://github.com/bartonicek/plotscaper) - Linked interactive exploratory figures with selection, zooming, and panning.
-- [rAmCharts](https://github.com/datastorm-open/rAmCharts) - htmlwidgets interface to the amCharts JavaScript charting library.
-- [Rnvd3](https://github.com/stla/Rnvd3) - htmlwidget wrapper for selected nvd3 JavaScript charts.
+- [rAmCharts](https://github.com/datastorm-open/rAmCharts) - Interface to the amCharts JavaScript charting library.
+- [Rnvd3](https://github.com/stla/Rnvd3) - Wrapper for selected nvd3 JavaScript charts.
 - [detourr](https://github.com/casperhart/detourr) - Interactive 2D and 3D scatterplot display.
 - [shinyHugePlot](https://cran.r-project.org/package=shinyHugePlot) - Efficient Plotly/Shiny plotting for very large datasets using downsampling.
 - [SveltePlots](https://github.com/Pascal-Schmidt/SveltePlots) - Svelte and D3 charting htmlwidget designed to simplify Shiny interactivity.
