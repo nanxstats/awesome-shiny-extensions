@@ -4,13 +4,16 @@ PRISMA2020
 SIAtools
 bnviewer
 cppcheckR
+dashboardthemes
 editData
 ggvis
+highdir
 jsmodule
 lareshiny
 mmints
 nextGenShinyApps
 plotROC
+r2symbols
 romic
 shinyRGL
 symbol.equation.gpt
