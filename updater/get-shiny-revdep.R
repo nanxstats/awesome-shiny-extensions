@@ -1,10 +1,10 @@
 revdeps <- tools::package_dependencies(
-  "shiny",
+  c("shiny", "htmltools", "htmlwidgets"),
   db = available.packages(repos = "https://cloud.r-project.org/"),
   which = "Imports",
   recursive = FALSE,
   reverse = TRUE
-)$"shiny"
+) |> Reduce(union, x = _)
 
 pkgs <- rvest::read_html("https://cloud.r-project.org/web/packages/available_packages_by_name.html") |>
   rvest::html_table() |>
