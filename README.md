@@ -336,6 +336,7 @@ add packages to the list.
 - [xSpreadsheet](https://github.com/MichaelHogers/xSpreadsheet) - R wrapper for the JavaScript canvas spreadsheet library x-spreadsheet.
 - [editbl](https://github.com/openanalytics/editbl) - DT (DataTables) extension to support interactive editing. Easily supports databases.
 - [rtabulator](https://github.com/eoda-dev/rtabulator) - R bindings for the Tabulator JS library for interactive tables.
+- [muiDataGrid](https://github.com/lgnbhl/muiDataGrid) - MUI X Data Grid for Shiny apps and Quarto, a fast and extensible React data table with filtering, sorting, and pagination.
 - [tableHTML](https://github.com/LyzandeR/tableHTML) - Create and style HTML tables with CSS, with Shiny rendering functions.
 - [toastui](https://github.com/dreamRs/toastui) - Interactive tables, calendars, and charts based on the TOAST UI JavaScript library.
 - [shinypivottabler](https://cran.r-project.org/package=shinypivottabler) - Shiny module to create interactive pivot tables.
@@ -421,6 +422,8 @@ add packages to the list.
 - [vov](https://github.com/tylerlittlefield/vov) - CSS animations for Shiny elements.
 - [spoiler](https://github.com/etiennebacher/spoiler) - Blur HTML elements in Shiny applications using Spoiler-Alert.js.
 - [r2fireworks](https://github.com/oobianom/r2fireworks) - Add fireworks celebration effects to Shiny apps and R Markdown.
+- [aos](https://github.com/lgnbhl/aos) - Apply scroll-triggered animations to Shiny and R Markdown elements using the AOS (Animate On Scroll) library.
+- [aniview](https://github.com/lgnbhl/aniview) - Animate Shiny and R Markdown elements when they scroll into view, powered by AniView and Animate.css.
 
 ### i18n
 
@@ -449,6 +452,8 @@ add packages to the list.
 - [shinyCanvas](https://github.com/yonicd/shinyCanvas) - Create and customize an interactive canvas using the D3 JavaScript library and the htmlwidgets package.
 - [shinymeta](https://github.com/rstudio/shinymeta) - Record and expose Shiny app logic using metaprogramming.
 - [shinyscroll](https://github.com/JohnCoene/shinyscroll) - Scroll to an element in Shiny.
+- [scroller](https://github.com/lgnbhl/scroller) - Smooth scroll to any element in Shiny apps and R Markdown documents using the Arbitrary Anchor jQuery plugin.
+- [gotop](https://github.com/lgnbhl/gotop) - Add a scroll back to top Font Awesome icon to Shiny apps and R Markdown documents using jQuery GoTop.
 - [pagemapR](https://github.com/swsoyee/pagemapR) - Create a mini map for Shiny apps and R Markdown documents.
 - [keys](https://github.com/r4fun/keys) - Assign and listen to keyboard shortcuts in Shiny using the Mousetrap JavaScript library.
 - [js4shiny](https://github.com/gadenbuie/js4shiny) - Companion package for 'JavaScript for Shiny Users' workshop, with components to enable using R Markdown for literate programming with JavaScript.
@@ -522,6 +527,7 @@ add packages to the list.
 - [shinyTree](https://github.com/shinyTree/shinyTree) - jsTree bindings for creating interactive trees in Shiny.
 - [jsTreeR](https://github.com/stla/jsTreeR) - A wrapper of the JavaScript library jsTree.
 - [shinyCheckboxTree](https://github.com/stla/shinyCheckboxTree) - Checkbox tree widget for Shiny. Wrapper of the JavaScript library react-checkbox-tree.
+- [muiTreeView](https://github.com/lgnbhl/muiTreeView) - MUI X Tree View for Shiny apps and Quarto, a React component for navigating expandable, collapsible hierarchical lists.
 - [listviewer](https://github.com/timelyportfolio/listviewer) - View and modify lists interactively, based on jsoneditor and react-json-view.
 - [trelliscopejs](https://github.com/hafen/trelliscopejs) - Create interactive Trelliscope displays based on trelliscopejs-lib.
 - [Rmarkmap](https://github.com/seifer08ms/Rmarkmap) - Create interactive mind maps with the markmap JavaScript library.
@@ -714,6 +720,7 @@ add packages to the list.
 - [plumber](https://github.com/rstudio/plumber) - Create web APIs by decorating R code with special comments.
 - [plumber2](https://github.com/posit-dev/plumber2) - Easy and powerful webservers in R. A complete rewrite of plumber.
 - [valve](https://github.com/JosiahParry/valve) - Create multi-threaded Plumber APIs powered by Rust's tokio and axum web frameworks.
+- [htmxr](https://github.com/hyperverse-r/htmxr) - Build server-driven web applications in R with htmx for partial page updates and plumber2 for non-blocking HTTP endpoints.
 - [opencpu](https://github.com/opencpu/opencpu) - A system for embedded scientific computing and reproducible research with R.
 - [communicate](https://github.com/devOpifex/communicate) - Small framework to communicate between Shiny client and server via HTTP requests.
 
