@@ -518,6 +518,7 @@ movedesign	Study Design Toolbox for Movement Ecology Studies
 mplot	Graphical Model Stability and Variable Selection Procedures
 MSMGOptimizer	Mine Sustainability Modeling Group (MSMG) 'SimaPro' CSV Optimizer
 MuChPoint	Multiple Change Point
+muiDataGrid	'MUI X Data Grid' for 'shiny' Apps and 'Quarto'
 muiMaterial	'Material UI' for 'shiny' Apps and 'Quarto'
 multiActionButton	Multi Action Button for 'Shiny' Applications
 multiDEGGs	Multi-Omic Differentially Expressed Gene-Gene Pairs
@@ -899,6 +900,7 @@ SurprisalAnalysis	Information Theoretic Analysis of Gene Expression Data
 surveydown	Markdown-Based Programmable Surveys Using 'Quarto' and 'shiny'
 surveySimR	Estimation of Population Total under Complex Sampling Design
 survivoR	Data from all Seasons of Survivor (US) TV Series in Tidy Format
+survSampleSize	Sample Size Calculator for Survival Endpoint Clinical Trials
 swirlify	A Toolbox for Writing 'swirl' Courses
 symbol.equation.gpt	Simple User Interface to Build Equations and Add Symbols
 T2Qv	Control Qualitative Variables
@@ -981,7 +983,6 @@ VTShiny	Interactive Document for Working with Variance Analysis
 vvdoctor	Statistical Test App with R 'shiny'
 VWPre	Tools for Preprocessing Visual World Data
 waiter	Loading Screen for 'Shiny'
-webr	Data and Functions for Web-Based Analysis
 wilson	Web-Based Interactive Omics Visualization
 wppExplorer	Explorer of World Population Prospects
 xplorerr	Tools for Interactive Data Exploration
