@@ -145,6 +145,7 @@ add packages to the list.
 - [fomantic.plus](https://github.com/ashbaldry/fomantic.plus) - Extra Fomantic UI components for shiny.semantic.
 - [lcars](https://github.com/leonawicz/lcars) - Star Trek aesthetic for Shiny with custom UI components.
 - [shinyds](https://github.com/novica/shinyds) - Shiny bindings for the Designsystemet component library.
+- [argonR](https://github.com/RinteRface/argonR) - Argon Bootstrap 4 UI components for Shiny apps.
 
 ### Dashboard Theming
 
@@ -172,6 +173,8 @@ add packages to the list.
 - [linne](https://github.com/JohnCoene/linne) - Write CSS in R.
 - [designer](https://github.com/ashbaldry/designer) - Shiny UI prototype builder allowing drag and drop UI components before saving the equivalent R code.
 - [gfonts](https://github.com/dreamRs/gfonts) - Offline Google Fonts for Markdown and Shiny.
+- [cascadess](https://github.com/nteetor/cascadess) - Style-pronoun utilities for applying CSS to htmltools and Shiny tags.
+- [corazon](https://github.com/feddelegrand7/corazon) - Apply colorffy gradients to Shiny elements.
 
 ## UI Components
 
@@ -244,6 +247,8 @@ add packages to the list.
 - [scoutbaR](https://cran.r-project.org/package=scoutbaR) - A spotlight React widget for Shiny apps, providing a command palette UI.
 - [shinyDTC](https://github.com/sigbertklinke/shinyDTC) - Dynamic timer control widget for Shiny.
 - [shinyTimer](https://cran.r-project.org/package=shinyTimer) - Customizable timer widget for Shiny applications.
+- [shinycroneditor](https://github.com/DatalabFabriek/shinycroneditor) - Cron expression input widget for Shiny apps.
+- [rquiz](https://github.com/saskiaotto/rquiz) - Interactive quiz widgets for Shiny, R Markdown, and Quarto.
 
 ### Loader
 
@@ -267,6 +272,7 @@ add packages to the list.
 - [shinypop](https://github.com/dreamRs/shinypop) - Collection of notifications, confirm dialogs, and alerts for Shiny apps based on noty, notie, push.js, and notiflix.
 - [shinyvalidate](https://github.com/rstudio/shinyvalidate) - Add input validation capabilities to Shiny.
 - [awn](https://github.com/JohnCoene/awn) - Awesome Notifications for Shiny.
+- [micromodal](https://github.com/kennedymwavu/micromodal) - Simple modal dialogs for Shiny based on Micromodal.js.
 
 ### Walkthrough / Tooltip / Help
 
@@ -344,6 +350,10 @@ add packages to the list.
 - [ViewR](https://github.com/itsmdivakaran/viewR) - Interactive data table and data explorer with a virtualized grid, spark histograms, hover metadata, visual query builder, and code generation.
 - [dataviewR](https://github.com/madhankumarnagaraji/dataviewR) - Interactive data frame viewer with filtering, column selection, and code generation.
 - [dtsmartr](https://github.com/wagh-nikhil/dtsmartr) - Interactive virtualized data explorer grid htmlwidget with column-type detection, multi-value filtering, sorting, and virtual scrolling.
+- [DT2](https://github.com/StrategicProjects/DT2) - DataTables 2.x htmlwidget with Shiny rendering, proxy, and event helpers.
+- [RagGrid](https://github.com/no-types/RagGrid) - ag-Grid htmlwidget for interactive tables in R Markdown and Shiny.
+- [htmlTable](https://github.com/gforge/htmlTable) - Advanced HTML tables with Shiny output and render bindings.
+- [nestable](https://github.com/derekunderwood/nestable) - Collapsible hierarchical HTML tables with Shiny bindings.
 
 ### Drawers
 
@@ -377,6 +387,9 @@ add packages to the list.
 - [howler](https://github.com/ashbaldry/howler) - Shiny extension for howler.js to add audio playback controls.
 - [annotator](https://github.com/valcu/annotator) - Image annotation and polygon outlining htmlwidget using free drawing.
 - [video](https://github.com/ashbaldry/video) - Shiny extension for video.js to embed customizable HTML5 video players.
+- [freewall](https://github.com/stla/freewall) - Dynamic image grid layouts for Shiny and R Markdown.
+- [swipeR](https://github.com/stla/swipeR) - Swiper-based carousel widget with Shiny output and render bindings.
+- [rintimg](https://github.com/feddelegrand7/rintimg) - View an image in full screen by clicking on it.
 
 ### PDF
 
@@ -387,6 +400,8 @@ add packages to the list.
 - [fontawesome](https://github.com/rstudio/fontawesome) - Insert FontAwesome icons into R Markdown documents and Shiny apps.
 - [icongram](https://github.com/r4fun/icongram) - Interface to Icongram, easily fetch svg icons with a single function.
 - [rheroicons](https://cran.r-project.org/package=rheroicons) - A zero-dependency SVG icon library implementing the Heroicons set for Shiny.
+- [bsicons](https://github.com/rstudio/bsicons) - Bootstrap Icons helpers for Shiny, R Markdown, and htmltools.
+- [phosphoricons](https://github.com/dreamRs/phosphoricons) - Phosphor icon set for Shiny and R Markdown.
 
 ### Image Comparison
 
@@ -424,6 +439,9 @@ add packages to the list.
 - [r2fireworks](https://github.com/oobianom/r2fireworks) - Add fireworks celebration effects to Shiny apps and R Markdown.
 - [aos](https://github.com/lgnbhl/aos) - Apply scroll-triggered animations to Shiny and R Markdown elements using the AOS (Animate On Scroll) library.
 - [aniview](https://github.com/lgnbhl/aniview) - Animate Shiny and R Markdown elements when they scroll into view, powered by AniView and Animate.css.
+- [countdown](https://github.com/gadenbuie/countdown) - Countdown timers for Shiny apps, R Markdown, and Quarto.
+- [flipdownr](https://github.com/feddelegrand7/flipdownr) - Flipdown.js countdown component for R Markdown documents and Shiny apps.
+- [flipdownWidgets](https://github.com/fanggong/flipdownWidgets) - Flipdown.js countdown htmlwidget with Shiny bindings.
 
 ### i18n
 
@@ -463,6 +481,8 @@ add packages to the list.
 - [manipulateWidget](https://github.com/rte-antares-rpackage/manipulateWidget) - Add interactivity to htmlwidgets with combine and filter controls for Shiny.
 - [linkeR](https://github.com/EpiForeSITE/linkeR) - Link interactive plots and tables in Shiny applications for coordinated views.
 - [shinyphaser](https://github.com/maciekbanas/shinyphaser) - Interface to the Phaser.js game framework for constructing and managing 2D games in Shiny apps.
+- [bscui](https://github.com/patzaw/bscui) - Interactive SVG custom interfaces with Shiny bindings and proxy updates.
+- [svgPanZoom](https://github.com/timelyportfolio/svgPanZoom) - Add pan and zoom interactivity to SVG graphics as an htmlwidget.
 
 ## Visualization
 
@@ -494,6 +514,20 @@ add packages to the list.
 - [rPackedBar](https://github.com/AdamSpannbauer/rPackedBar) - Packed bar charts with plotly as an htmlwidget.
 - [maidr](https://github.com/xability/r-maidr) - Multimodal access and interactive data representation with accessibility features.
 - [GWalkR](https://github.com/Kanaries/GWalkR) - Interactive Tableau-like exploratory data analysis htmlwidget for Shiny.
+- [AutoPlots](https://github.com/AdrianAntico/AutoPlots) - High-level ECharts visualization helpers for common chart types and model evaluation plots.
+- [canvasXpress](https://github.com/neuhausi/canvasXpress) - CanvasXpress htmlwidget for broad interactive scientific and statistical visualizations.
+- [echarty](https://github.com/helgasoft/echarty) - Minimal Shiny and htmlwidget interface to Apache ECharts.
+- [flourishcharts](https://github.com/canva-public/flourishcharts) - Flourish htmlwidget for interactive data storytelling charts.
+- [lineupjs](https://github.com/lineupjs/lineup_htmlwidget) - LineUp.js htmlwidget for interactive visual analysis of multi-attribute rankings.
+- [plotscaper](https://github.com/bartonicek/plotscaper) - Linked interactive exploratory figures with selection, zooming, and panning.
+- [rAmCharts](https://github.com/datastorm-open/rAmCharts) - htmlwidgets interface to the amCharts JavaScript charting library.
+- [Rnvd3](https://github.com/stla/Rnvd3) - htmlwidget wrapper for selected nvd3 JavaScript charts.
+- [detourr](https://github.com/casperhart/detourr) - Interactive 2D and 3D scatterplot display.
+- [shinyHugePlot](https://cran.r-project.org/package=shinyHugePlot) - Efficient Plotly/Shiny plotting for very large datasets using downsampling.
+- [SveltePlots](https://github.com/Pascal-Schmidt/SveltePlots) - Svelte and D3 charting htmlwidget designed to simplify Shiny interactivity.
+- [upsetjs](https://github.com/upsetjs/upsetjs_r) - UpSet.js htmlwidget for interactive set intersection visualizations.
+- [vchartr](https://github.com/dreamRs/vchartr) - Interactive charts with the VChart JavaScript library.
+- [visachartR](https://github.com/visa/visa-chart-components/tree/main/packages/charts-R) - Accessibility-focused htmlwidget wrappers for Visa Chart Components.
 
 ### Scatterplot
 
@@ -502,10 +536,13 @@ add packages to the list.
 - [rthreejs](https://github.com/bwlewis/rthreejs) - Interactive 3D scatterplots, networks, and globes based on three.js.
 - [graph3d](https://github.com/stla/graph3d) - R wrapper of the JavaScript library vis-graph3d.
 - [hpackedbubble](https://cran.r-project.org/package=hpackedbubble) - Split packed bubble charts with highcharts.
+- [scatterPlotMatrix](https://cran.r-project.org/package=scatterPlotMatrix) - D3 scatter plot matrix htmlwidget with Shiny bindings.
+- [picker](https://github.com/hms-dbmi/picker) - High-performance deck.gl scatterplot widget with Shiny bindings.
 
 ### Parallel Coordinates
 
 - [parcoords](https://github.com/timelyportfolio/parcoords) - HTML widget for D3 parallel coordinates chart.
+- [parallelPlot](https://gitlab.com/drti/parallelplot) - D3 parallel coordinates htmlwidget with Shiny bindings.
 
 ### Time Series
 
@@ -517,6 +554,7 @@ add packages to the list.
 - [streamgraph](https://github.com/hrbrmstr/streamgraph) - HTML widget for creating streamgraph visualizations in R.
 - [eventdropR](https://github.com/timelyportfolio/eventdropR) - HTML widget for EventDrops, time based and event series interactive visualization using D3.
 - [tsibbletalk](https://github.com/earowang/tsibbletalk) - Interactive graphics for tsibble objects with Shiny modules for exploring temporal patterns.
+- [cronologia](https://github.com/feddelegrand7/cronologia) - HTML vertical timeline component for R Markdown and Shiny.
 
 ### Tree and Hierarchical Data
 
@@ -533,6 +571,8 @@ add packages to the list.
 - [Rmarkmap](https://github.com/seifer08ms/Rmarkmap) - Create interactive mind maps with the markmap JavaScript library.
 - [voronoiTreemap](https://github.com/uRosConf/voronoiTreemap) - Interactive Voronoi treemaps as htmlwidgets.
 - [vtree](https://github.com/nbarrowman/vtree) - Display information about nested subsets of a data frame as htmlwidgets.
+- [nivo.bubblechart](https://github.com/DataRacerEdu/nivo.bubblechart) - Nivo circle packing htmlwidget for hierarchical bubble charts in Shiny.
+- [sunburstShinyWidget](https://github.com/Tazovsky/sunburstShinyWidget) - D3-based sunburst htmlwidget for hierarchical data in Shiny.
 
 ### Network and Graph Data
 
@@ -568,6 +608,7 @@ add packages to the list.
 - [calheatmapR](https://github.com/durtal/calheatmapR) - R interface for the cal-heatmap JavaScript charting library to create calendar heatmaps.
 - [nivocal](https://github.com/react-R/nivocal) - HTML widget for drawing calendar heatmaps based on nivo.
 - [supercaliheatmapwidget](https://github.com/hrbrmstr/supercaliheatmapwidget) - Supercalifragilistic HTML calendar heatmaps.
+- [iheatmapr](https://github.com/ropensci/iheatmapr) - Modular interactive complex heatmaps as htmlwidgets.
 
 ### Maps and Spatial Data
 
@@ -599,6 +640,18 @@ add packages to the list.
 - [AtlasMaker](https://github.com/rachel-greenlee/AtlasMaker) - Shiny module to create multiple interconnected leaflet maps across tabs.
 - [rDeckgl](https://github.com/TiRizvanov/rDeckgl) - R bindings to Deck.gl.
 - [toro](https://github.com/Epi-interactive-Ltd/toro) - Interactive and customizable maps using the MapLibre GL JS library.
+- [bivariateLeaflet](https://github.com/maduprey/bivariateleaflet) - Create bivariate choropleth maps with Leaflet.
+- [leafem](https://github.com/r-spatial/leafem) - Leaflet and mapdeck extensions for mouse coordinates, image queries, zoom controls, and feature layers.
+- [leaflegend](https://github.com/tomroh/leaflegend) - Custom legends and symbols for leaflet maps.
+- [leaflet.providers](https://github.com/rstudio/leaflet.providers) - Third-party map tile provider definitions for the leaflet package.
+- [leafpm](https://github.com/r-spatial/leafpm) - Leaflet plugin for drawing and editing spatial features.
+- [leafpop](https://github.com/r-spatial/leafpop) - Embed tables, images, and graphs in leaflet popups.
+- [leafsync](https://github.com/r-spatial/leafsync) - Small multiples of synchronized leaflet web maps.
+- [flowmapblue](https://github.com/FlowmapBlue/flowmapblue.R) - Interactive flow map htmlwidget for movement flows between geographic locations.
+- [maplamina](https://github.com/jhumbl/maplamina) - High-performance WebGL mapping widgets based on MapLibre GL and deck.gl.
+- [plainview](https://github.com/r-spatial/plainview) - Interactive raster image viewer on a plain HTML canvas.
+- [geoarrowWidget](https://github.com/r-spatial/geoarrowWidget) - Attach GeoArrow and GeoParquet data to interactive htmlwidgets.
+- [tmap.mapgl](https://github.com/r-tmap/tmap.mapgl) - Mapbox GL JS and MapLibre GL JS modes for tmap.
 
 ### Sparkline
 
@@ -627,7 +680,7 @@ add packages to the list.
 - [mutsneedle](https://github.com/freezecoder/mutsneedle) - Interactive mutation lollipop diagrams.
 - [g3viz](https://github.com/G3viz/g3viz) - D3-based interactive lollipop plots.
 - [BioCircos.R](https://github.com/lvulliard/BioCircos.R) - Interactive circular visualization of genomic data using htmlwidgets and BioCircos.js.
-- [chromoMap](https://github.com/cran/chromoMap) - Interactive visualization and mapping of human chromosomes.
+- [chromoMap](https://cran.r-project.org/package=chromoMap) - Interactive visualization and mapping of human chromosomes.
 - [ideogRam](https://github.com/freestatman/ideogRam) - HTML widget for chromosome visualization with ideogram.js.
 - [flowDashboard](https://github.com/laderast/flowDashboard) - Shiny Modules for visualizing flow cytometry data.
 - [qtlcharts](https://github.com/kbroman/qtlcharts) - Interactive graphics for QTL experiments.
@@ -645,14 +698,17 @@ add packages to the list.
 
 ### WebGL
 
-- [rgl](https://github.com/cran/rgl) - Render WebGL scenes created with the rgl package ([vignette](https://cran.r-project.org/web/packages/rgl/vignettes/WebGL.html)).
+- [rgl](https://github.com/dmurdoch/rgl) - Render WebGL scenes created with the rgl package ([vignette](https://cran.r-project.org/web/packages/rgl/vignettes/WebGL.html)).
 - [rayshader](https://github.com/tylermorganwall/rayshader) - Create and visualize hillshaded maps from elevation matrices.
 - [rayrender](https://github.com/tylermorganwall/rayrender) - Build and raytrace 3D scenes.
 - [rayimage](https://github.com/tylermorganwall/rayimage) - Render depth of field for images.
+- [ggWebGL](https://github.com/fbertran/ggWebGL) - Browser-native WebGL rendering for R graphics.
+- [r3js](https://github.com/shwilks/r3js) - WebGL-based 3D plotting with three.js and Shiny bindings.
+- [thorn](https://github.com/stla/thorn) - WebGL shader htmlwidgets that can be used as Shiny app backgrounds.
 
 ### Augmented and Virtual Reality
 
-- [shinyaframe](https://github.com/cran/shinyaframe) - WebVR data visualizations with Shiny and Mozilla A-Frame.
+- [shinyaframe](https://cran.r-project.org/package=shinyaframe) - WebVR data visualizations with Shiny and Mozilla A-Frame.
 - [arframer](https://github.com/JohnCoene/arframer) - Augmented Reality in R based on AR.js.
 
 ## Frameworks
@@ -697,6 +753,7 @@ add packages to the list.
 - [blockr.io](https://github.com/BristolMyersSquibb/blockr.io) - Interactive file import and export blocks for blockr.
 - [formods](https://github.com/john-harrold/formods) - Shiny modules for general tasks including data wrangling, figure generation, and app state management.
 - [tutorial.helpers](https://github.com/PPBDS/tutorial.helpers) - Helper functions and Shiny modules for creating, editing, and testing tutorials with learnr, including collecting student submissions.
+- [mwshiny](https://github.com/delosh653/mwshiny) - Run a Shiny app across multiple connected browser windows.
 
 ## Backend
 
@@ -827,7 +884,7 @@ add packages to the list.
 - [shinysnippets](https://github.com/ThinkR-open/shinysnippets) - A series of Shiny related RStudio snippets.
 - [midas](https://github.com/shapenaji/midas) - Bootstrap new Shiny functions by turning HTML snippets directly into R tag functions.
 - [html2R](https://github.com/stla/html2R) - Converts HTML markup into R tag code for building Shiny UIs.
-- [ShinyQuickStarter](https://github.com/cran/ShinyQuickStarter) - RStudio addin for drag-and-drop creation of Shiny apps, dashboards, and modules.
+- [ShinyQuickStarter](https://cran.r-project.org/package=ShinyQuickStarter) - RStudio addin for drag-and-drop creation of Shiny apps, dashboards, and modules.
 
 ### Modularization
 
@@ -893,6 +950,8 @@ add packages to the list.
 - [shinytitle](https://github.com/ashbaldry/shinytitle) - Update the browser window title dynamically in a Shiny session.
 - [a11yShiny](https://gitlab.opencode.de/bmbf/datenlabor/a11yshiny) - Accessibility-enhanced replacements for popular Shiny UI functions.
 - [shinyseo](https://github.com/rolfmblindgren/shinyseo) - Inject SEO, Open Graph, Twitter, site verification, and schema.org metadata into Shiny apps.
+- [favawesome](https://github.com/shinyworks/favawesome) - Use Font Awesome Icons as Shiny favicons.
+- [metathis](https://github.com/gadenbuie/metathis) - Add HTML metadata tags for Shiny apps and R Markdown documents.
 
 ### Dependency Resolution
 
