@@ -595,7 +595,7 @@ add packages to the list.
 - [sunburstShinyWidget](https://github.com/Tazovsky/sunburstShinyWidget) - D3-based sunburst htmlwidget for hierarchical data in Shiny.
 - [sunburstR](https://github.com/timelyportfolio/sunburstR) - D3 sunburst charts for hierarchical data.
 - [heattree](https://github.com/grunwaldlab/heattree) - Interactive phylogenetic tree visualization.
-- [treemap](https://github.com/mtennekes/treemap) - Treemap visualizations for hierarchical data.
+- [treemap](https://github.com/mtennekes/treemap) - Hierarchical data visualization with treemaps.
 
 ### Network and Graph Data
 
