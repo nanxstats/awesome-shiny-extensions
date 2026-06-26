@@ -598,7 +598,7 @@ add packages to the list.
 - [shinyCyJS](https://github.com/jhk0530/shinyCyJS) - Cytoscape.js R binding for Shiny.
 - [cyjShiny](https://github.com/cytoscape/cyjShiny) - R/Shiny widget for Cytoscape.js.
 - [g6R](https://github.com/cynkra/g6R) - Graph visualization engine widget based on AntV G6 for R and Shiny.
-- [sgraph](https://gitlab.com/thomaschln/sgraph) - sigma.js v2 network htmlwidget for large igraph graphs.
+- [sgraph](https://gitlab.com/thomaschln/sgraph) - Network visualization for large igraph graphs with sigma.js v2.
 
 ### Categorical Data
 
