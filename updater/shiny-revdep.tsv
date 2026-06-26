@@ -22,6 +22,7 @@ airGRteaching	Teaching Hydrological Modelling with the GR Rainfall-Runoff Models
 AIscreenR	AI Screening Tools in R for Systematic Reviewing
 akiFlagger	Flags Acute Kidney Injury (AKI)
 algo	Implement an Address Search Auto Completion Menu on 'Shiny' Text Inputs Using the 'Algolia Places' 'Javascript' Library
+alphavantagepf	Comprehensive R Wrapper and Shiny Interface for 'Alphavantage Financial Data' API
 altair	Interface to 'Altair'
 amapro	Thin Wrapper for Mapping Library 'AMap'('Gaode')
 AmpGram	Prediction of Antimicrobial Peptides
@@ -760,6 +761,7 @@ NGCHM	Next Generation Clustered Heat Maps
 NGLVieweR	Interactive 3D Visualization of Molecular Structures
 NiLeDAM	Monazite Dating for the NiLeDAM Team
 nivo.bubblechart	Interactive Bubble Charts for 'Shiny' Using 'Nivo'
+nocturn	Sleep Data Filtering and Visualisation
 nomnoml	Sassy 'UML' Diagrams
 NormalityAssessment	A Graphical User Interface for Testing Normality Visually
 normfluodbf	Cleans and Normalizes FLUOstar DBF and DAT Files from 'Liposome' Flux Assays
@@ -786,7 +788,7 @@ openeo	Client Interface for 'openEO' Servers
 OpenImageR	An Image Processing Toolkit
 OpenRepGrid.ic	Interpretive Clustering for Repertory Grids
 OpenSpecy	Analyze, Process, Identify, and Share Raman and (FT)IR Spectra
-optedr	Calculating Optimal and D-Augmented Designs
+optedr	Calculating Optimal and D-Augmented Designs for Single- and Multi-Factor Models
 ordinalsimr	Compare Ordinal Endpoints Using Simulations
 overshiny	Interactive Overlays on 'shiny' Plots
 OWEA	Optimal Weight Exchange Algorithm for Optimal Designs for Three Models
