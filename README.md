@@ -175,6 +175,7 @@ add packages to the list.
 - [gfonts](https://github.com/dreamRs/gfonts) - Offline Google Fonts for Markdown and Shiny.
 - [cascadess](https://github.com/nteetor/cascadess) - Style-pronoun utilities for applying CSS to htmltools and Shiny tags.
 - [corazon](https://github.com/feddelegrand7/corazon) - Apply colorffy gradients to Shiny elements.
+- [sass](https://github.com/rstudio/sass) - Compile Sass for dynamic style sheets.
 
 ## UI Components
 
@@ -199,6 +200,7 @@ add packages to the list.
 - [resizableSplitLayout](https://cran.r-project.org/package=resizableSplitLayout) - Resizable split layout module for Shiny.
 - [glasstabs](https://github.com/PrigasG/glasstabs) - Animated glass-style tabs and multi-select filter for Shiny.
 - [dipsaus](https://github.com/dipterix/dipsaus) - Custom Shiny input widgets including styled buttons, compound inputs, file/directory inputs, alerts, and progress indicators.
+- [bs4cards](https://github.com/djnavarro/bs4cards) - Generate Bootstrap 4 cards for Shiny and R Markdown.
 
 ### File Input
 
@@ -309,6 +311,7 @@ add packages to the list.
 - [shinyNotes](https://github.com/danielkovtun/shinyNotes) - Shiny module for taking free-form notes.
 - [DataEditR](https://github.com/DillonHammill/DataEditR) - Interactive data editor for Shiny with modules for editing, filtering, and syncing data.
 - [findInFiles](https://github.com/stla/findInFiles) - Search files and display grep results in an HTML widget with Shiny bindings.
+- [highlighter](https://github.com/federiva/highlighter) - Prism.js syntax highlighting for code snippets and complete files.
 
 ### Chat
 
@@ -356,6 +359,9 @@ add packages to the list.
 - [nestable](https://github.com/derekunderwood/nestable) - Collapsible hierarchical HTML tables with Shiny bindings.
 - [cheetahR](https://github.com/cynkra/cheetahR) - High-performance Cheetah Grid htmlwidget for large interactive tables.
 - [QuickExplore](https://github.com/ramsas88/QuickExplore) - Shiny modules for browsing, filtering, summarizing, and converting tabular datasets.
+- [perspectiveR](https://github.com/EydlinIlya/perspectiveR) - Perspective htmlwidget for interactive pivot tables and browser-side analytics, with Shiny proxy support.
+- [condformat](https://github.com/zeehio/condformat) - Conditional formatting for data frames.
+- [tangram](https://github.com/spgarbet/tangram) - Formula grammar for creating tables.
 
 ### Drawers
 
@@ -406,6 +412,7 @@ add packages to the list.
 - [rheroicons](https://cran.r-project.org/package=rheroicons) - A zero-dependency SVG icon library implementing the Heroicons set for Shiny.
 - [bsicons](https://github.com/rstudio/bsicons) - Bootstrap Icons helpers for Shiny, R Markdown, and htmltools.
 - [phosphoricons](https://github.com/dreamRs/phosphoricons) - Phosphor icon set for Shiny and R Markdown.
+- [lucidr](https://github.com/hyperverse-r/lucidr) - Lucide SVG icons for R.
 
 ### Image Comparison
 
@@ -537,6 +544,8 @@ add packages to the list.
 - [upsetjs](https://github.com/upsetjs/upsetjs_r) - UpSet.js htmlwidget for interactive set intersection visualizations.
 - [vchartr](https://github.com/dreamRs/vchartr) - Interactive charts with the VChart JavaScript library.
 - [visachartR](https://github.com/visa/visa-chart-components/tree/main/packages/charts-R) - Accessibility-focused htmlwidget wrappers for Visa Chart Components.
+- [myIO](https://github.com/mortonanalytics/myIO) - Composable D3 htmlwidget chart system.
+- [vizdraws](https://github.com/ignacio82/vizdraws) - Interactive visualization of Bayesian prior and posterior distribution draws.
 
 ### Scatterplot
 
@@ -547,11 +556,13 @@ add packages to the list.
 - [hpackedbubble](https://cran.r-project.org/package=hpackedbubble) - Split packed bubble charts with highcharts.
 - [scatterPlotMatrix](https://cran.r-project.org/package=scatterPlotMatrix) - D3 scatter plot matrix htmlwidget with Shiny bindings.
 - [picker](https://github.com/hms-dbmi/picker) - High-performance deck.gl scatterplot widget with Shiny bindings.
+- [langevitour](https://github.com/pfh/langevitour) - Interactive tours of 2D projections of high-dimensional data.
 
 ### Parallel Coordinates
 
 - [parcoords](https://github.com/timelyportfolio/parcoords) - HTML widget for D3 parallel coordinates chart.
 - [parallelPlot](https://gitlab.com/drti/parallelplot) - D3 parallel coordinates htmlwidget with Shiny bindings.
+- [klustR](https://github.com/McKayMDavis/klustR) - D3 visualizations for interactive parallel coordinate and principal component plots.
 
 ### Time Series
 
@@ -583,6 +594,8 @@ add packages to the list.
 - [nivo.bubblechart](https://github.com/DataRacerEdu/nivo.bubblechart) - Nivo circle packing htmlwidget for hierarchical bubble charts in Shiny.
 - [sunburstShinyWidget](https://github.com/Tazovsky/sunburstShinyWidget) - D3-based sunburst htmlwidget for hierarchical data in Shiny.
 - [sunburstR](https://github.com/timelyportfolio/sunburstR) - D3 sunburst charts for hierarchical data.
+- [heattree](https://github.com/grunwaldlab/heattree) - Interactive phylogenetic tree visualization.
+- [treemap](https://github.com/mtennekes/treemap) - Hierarchical data visualization with treemaps.
 
 ### Network and Graph Data
 
@@ -599,10 +612,12 @@ add packages to the list.
 - [cyjShiny](https://github.com/cytoscape/cyjShiny) - R/Shiny widget for Cytoscape.js.
 - [g6R](https://github.com/cynkra/g6R) - Graph visualization engine widget based on AntV G6 for R and Shiny.
 - [sgraph](https://gitlab.com/thomaschln/sgraph) - Network visualization for large igraph graphs with sigma.js v2.
+- [ndtv](https://github.com/statnet/ndtv) - Animated visualizations for dynamic network data.
 
 ### Categorical Data
 
 - [bar](https://github.com/dreamRs/bar) - Interactive one-dimensional proportions chart for representing categorical data.
+- [parcats](https://github.com/erblast/parcats) - Interactive parallel categories diagrams using plotly.js.
 
 ### Diagrams
 
@@ -668,6 +683,7 @@ add packages to the list.
 - [tmap.mapgl](https://github.com/r-tmap/tmap.mapgl) - Mapbox GL JS and MapLibre GL JS modes for tmap.
 - [amapro](https://github.com/helgasoft/amapro) - Build and control interactive 2D and 3D AMap/Gaode maps in R and Shiny.
 - [explodemap](https://github.com/PrigasG/explodemap) - Hierarchical exploded-view cartography with an interactive focus map widget for Shiny.
+- [webmap](https://code.usgs.gov/inl/webmap) - Interactive Leaflet web maps using The National Map services, with map controls and widgets.
 
 ### Sparkline
 
