@@ -758,6 +758,7 @@ add packages to the list.
 - [golem](https://github.com/ThinkR-open/golem) - Opinionated framework for building production-grade Shiny apps.
 - [teal](https://github.com/insightsengineering/teal) - Interactive exploration framework for analyzing clinical trials data, provides a dynamic filtering facility and different data viewers.
 - [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.
+- [aurora](https://github.com/aurora-govpe/aurora-rpkg) - Build stateless web apps in R with plumber2 and bslib.
 - [blockr.core](https://github.com/BristolMyersSquibb/blockr.core) - Graphical web framework for data manipulation and visualization using reusable, composable blocks.
 - [learnr](https://github.com/rstudio/learnr) - Interactive R Markdown tutorials with Shiny-powered exercises, quizzes, and question widgets.
 - [surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-based programmable surveys using Quarto and Shiny, with skip logic, multiple question types, and database storage.
