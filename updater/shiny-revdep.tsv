@@ -56,6 +56,7 @@ AssociationExplorer2	A User-Friendly 'shiny' Application for Exploring Associati
 AssumpSure	'shiny' Application for Statistical Test Assumption Checking and Guidance
 AtlasMaker	Make Multiple 'leaflet' Maps in 'Shiny'
 AtmChile	Download Air Quality and Meteorological Information of Chile
+aurora	Build Stateless Web Apps with 'plumber2'
 auth0	Authentication in Shiny with Auth0
 AutoDeskR	An Interface to the 'AutoDesk' 'API' Platform
 autoharp	Semi-Automatic Grading of R and Rmd Scripts
@@ -238,6 +239,7 @@ dashboardthemes	Customise the Appearance of 'shinydashboard' Applications using 
 data.validator	Automatic Data Validation and Reporting
 datacleanr	Interactive and Reproducible Data Cleaning
 dataCompare	A 'shiny' App to Compare Two Data Frames
+DataCraftR	Create Datasets Interactively Using 'shiny'
 DataDNA	Data Frame Fingerprints and Lineage Figures
 DataEditR	An Interactive Editor for Viewing, Entering, Filtering & Editing Data
 DataExplorer	Automate Data Exploration and Treatment
@@ -293,6 +295,7 @@ dPCP	Automated Analysis of Multiplex Digital PCR Data
 dpcR	Digital PCR Analysis
 dplyrAssist	RStudio Addin for Teaching and Learning Data Manipulation Using 'dplyr'
 DQAgui	Graphical User Interface for Data Quality Assessment
+dqcheckrGUI	Point-and-Click GUI Client for 'dqcheckr'
 drawer	An Interactive HTML Image Editing Tool
 drawsample	Draw Samples with the Desired Properties from a Data Set
 DrData	Interactive Statistical Analysis and Machine Learning Platform
@@ -452,6 +455,7 @@ geoarrowWidget	Attach '(Geo)Arrow' and/or '(Geo)Parquet' Data to a Widget
 geocmeans	Implementing Methods for Spatial Fuzzy Unsupervised Classification
 geodrawr	Making Geospatial Objects
 geospatialsuite	Comprehensive Geospatiotemporal Analysis and Multimodal Integration Toolkit
+geovizr	Interactive Cartography
 GeoWeightedModel	User-Friendly Interface for Geographically-Weighted Models
 gestate	Generalised Survival Trial Assessment Tool Environment
 GetDFPData2	Reading Annual and Quarterly Financial Reports from B3
@@ -460,6 +464,7 @@ GFDrmst	Multiple RMST-Based Tests in General Factorial Designs
 GFDrmtl	Multiple RMTL-Based Tests for Competing Risks Data in General Factorial Designs
 GFDsurv	Tests for Survival Data in General Factorial Designs
 gfonts	Offline 'Google' Fonts for 'Markdown' and 'Shiny'
+ggbond	Interactive Layout Editor for 'R' Plots
 ggExtra	Add Marginal Histograms to 'ggplot2', and More 'ggplot2' Enhancements
 ggiraph	Make 'ggplot2' Graphics Interactive
 ggpca	Publication-Ready PCA, t-SNE, and UMAP Plots
@@ -682,6 +687,7 @@ MedianaDesigner	Power and Sample Size Calculations for Clinical Trials
 meltt	Matching Event Data by Location, Time and Type
 memapp	The Moving Epidemic Method Web Application
 memery	Internet Memes for Data Analysts
+mergeGridR	Grid-Based Number Merge Puzzle Simulation
 mergenstudio	'Mergen' Studio: An 'RStudio' Addin Wrapper for the 'Mergen' Package
 metaconfoundr	Visualize 'Confounder' Control in Meta-Analyses
 metainsight	A 'shiny' Application for Network Meta-Analysis
@@ -794,7 +800,7 @@ overshiny	Interactive Overlays on 'shiny' Plots
 OWEA	Optimal Weight Exchange Algorithm for Optimal Designs for Three Models
 packageDiff	Compare R Package Differences
 packagefinder	Comfortable Search for R Packages on CRAN, Either Directly from the R Console or with an R Studio Add-in
-PacketLLM	Interactive 'OpenAI' Model Integration in 'RStudio'
+PacketLLM	AI Assistant Gadget for 'RStudio'
 pagedown	Paginate the HTML Output of R Markdown with CSS for Print
 pagemap	Create Mini Map for Web Pages
 pairsD3	D3 Scatterplot Matrices
@@ -875,6 +881,7 @@ protein8k	Perform Analysis and Create Visualizations of Proteins
 protoshiny	Interactive Dendrograms for Visualizing Hierarchical Clusters with Prototypes
 puff	Simulate and Visualize the Gaussian Puff Forward Atmospheric Model
 PupilPre	Preprocessing Pupil Size Data
+purgeR	Inbreeding-Purging Estimation in Pedigreed Populations
 pushbar	Create Sliders for 'Shiny'
 pylintR	Lint 'Python' Files with a R Command or a 'RStudio' Addin
 qbrms	Quick Bayesian Regression Models Using 'INLA' with 'brms' Syntax
@@ -971,6 +978,7 @@ rmarkdown	Dynamic Documents for R
 rmdformats	HTML Output Formats and Templates for 'rmarkdown' Documents
 Rmfrac	Simulation and Statistical Analysis of Multifractional Processes
 Rmoji	Interactively Insert Emojis in 'R' Documents
+rMosaic	R Bindings to the 'Mosaic' Visualization Framework
 rms	Regression Modeling Strategies
 Rnightly	A Wrapper of the 'JavaScript' Library 'Nightly'
 Rnvd3	An Incomplete Wrapper of the 'nvd3' JavaScript Library
