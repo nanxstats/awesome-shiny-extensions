@@ -546,6 +546,7 @@ add packages to the list.
 - [visachartR](https://github.com/visa/visa-chart-components/tree/main/packages/charts-R) - Accessibility-focused htmlwidget wrappers for Visa Chart Components.
 - [myIO](https://github.com/mortonanalytics/myIO) - Composable D3 htmlwidget chart system.
 - [vizdraws](https://github.com/ignacio82/vizdraws) - Interactive visualization of Bayesian prior and posterior distribution draws.
+- [rMosaic](https://github.com/TiRizvanov/rMosaic) - R bindings to the Mosaic declarative visualization framework with linked, interactive plots backed by DuckDB.
 
 ### Scatterplot
 
@@ -757,6 +758,7 @@ add packages to the list.
 - [golem](https://github.com/ThinkR-open/golem) - Opinionated framework for building production-grade Shiny apps.
 - [teal](https://github.com/insightsengineering/teal) - Interactive exploration framework for analyzing clinical trials data, provides a dynamic filtering facility and different data viewers.
 - [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.
+- [aurora](https://github.com/aurora-govpe/aurora-rpkg) - Build stateless web apps in R with plumber2 and bslib.
 - [blockr.core](https://github.com/BristolMyersSquibb/blockr.core) - Graphical web framework for data manipulation and visualization using reusable, composable blocks.
 - [learnr](https://github.com/rstudio/learnr) - Interactive R Markdown tutorials with Shiny-powered exercises, quizzes, and question widgets.
 - [surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-based programmable surveys using Quarto and Shiny, with skip logic, multiple question types, and database storage.
@@ -856,6 +858,7 @@ add packages to the list.
 - [geoloc](https://github.com/ColinFay/geoloc) - Use the Geolocation API to get the location of the user (with user's permission).
 - [shinyStore](https://github.com/trestletech/shinyStore) - Use the Web Storage API to store persistent, synchronized data in the user's browser.
 - [shinyStorePlus](https://github.com/oobianom/shinyStorePlus) - In-browser storage for Shiny persistent, synchronized data from the inputs using IndexedDB.
+- [AutoDeskR](https://github.com/paulgovan/AutoDeskR) - Interface to Autodesk Platform Services APIs with Shiny viewers for 2D and 3D design models.
 
 ### Notification Integration
 
