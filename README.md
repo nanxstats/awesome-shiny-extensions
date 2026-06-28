@@ -546,6 +546,7 @@ add packages to the list.
 - [visachartR](https://github.com/visa/visa-chart-components/tree/main/packages/charts-R) - Accessibility-focused htmlwidget wrappers for Visa Chart Components.
 - [myIO](https://github.com/mortonanalytics/myIO) - Composable D3 htmlwidget chart system.
 - [vizdraws](https://github.com/ignacio82/vizdraws) - Interactive visualization of Bayesian prior and posterior distribution draws.
+- [rMosaic](https://github.com/TiRizvanov/rMosaic) - R bindings to the Mosaic declarative visualization framework with linked, interactive plots backed by DuckDB.
 
 ### Scatterplot
 
@@ -856,6 +857,7 @@ add packages to the list.
 - [geoloc](https://github.com/ColinFay/geoloc) - Use the Geolocation API to get the location of the user (with user's permission).
 - [shinyStore](https://github.com/trestletech/shinyStore) - Use the Web Storage API to store persistent, synchronized data in the user's browser.
 - [shinyStorePlus](https://github.com/oobianom/shinyStorePlus) - In-browser storage for Shiny persistent, synchronized data from the inputs using IndexedDB.
+- [AutoDeskR](https://github.com/paulgovan/AutoDeskR) - Interface to Autodesk Platform Services APIs with Shiny viewers for 2D and 3D design models.
 
 ### Notification Integration
 
