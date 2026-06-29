@@ -1024,6 +1024,7 @@ add packages to the list.
 
 ### Python - Theming
 
+- [brand-yml](https://github.com/posit-dev/brand-yml) - Unified branding with `_brand.yml` files.
 - [py-shinyswatch](https://github.com/posit-dev/py-shinyswatch) - Bootswatch themes for py-shiny.
 
 ### Python - UI Components
@@ -1031,14 +1032,19 @@ add packages to the list.
 - [py-htmltools](https://github.com/posit-dev/py-htmltools) - Tools for creating, manipulating, and writing HTML from Python.
 - [py-faicons](https://github.com/posit-dev/py-faicons) - An interface to Font Awesome for use in Shiny for Python.
 - [py-shinywidgets](https://github.com/posit-dev/py-shinywidgets) - Render ipywidgets inside a Shiny app.
+- [py-shiny-validate](https://github.com/posit-dev/py-shiny-validate) - Input validation for Shiny for Python applications.
+- [shinymedia](https://github.com/posit-dev/shinymedia) - UI controls for recording video clips and playing audio media.
 - [py_shiny_semantic](https://github.com/Appsilon/py_shiny_semantic) - Create rich web applications in PyShiny using styles and components from Fomantic UI.
 
 ### Python - Chat
 
 - [shinychat](https://github.com/posit-dev/shinychat/tree/main/pkg-py) - Chat UI component for Shiny for Python.
+- [shinyrealtime](https://github.com/posit-dev/shinyrealtime) - Integrate OpenAI's Realtime API.
 
 ### Python - Table
 
+- [great-tables](https://github.com/posit-dev/great-tables) - Create styled display tables in Python.
+- [gt-extras](https://github.com/posit-dev/gt-extras) - Additional helper functions for enhancing great-tables tables.
 - [itables](https://github.com/mwouts/itables) - Display Pandas and Polars data frames as interactive DataTables that you can sort, paginate, scroll, and filter.
 - [reactable-py](https://github.com/machow/reactable-py) - Interactive data tables for Python, port of the R package reactable.
 
