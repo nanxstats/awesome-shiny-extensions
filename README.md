@@ -727,6 +727,7 @@ add packages to the list.
 - [geneviewer](https://github.com/nvelden/geneviewer) - Interactive gene cluster visualization.
 - [ggseg3d](https://github.com/ggsegverse/ggseg3d) - Interactive Three.js brain atlas meshes visualization.
 - [shinybody](https://github.com/robert-norberg/shinybody) - Interactive anatomography widget for Shiny.
+- [jellyfisher](https://github.com/HautaniemiLab/jellyfisher) - Interactive jellyfish plots combining sample and phylogenetic trees to visualize spatiotemporal tumor evolution.
 
 ### Chemical Data
 
@@ -994,6 +995,7 @@ add packages to the list.
 - [shinyseo](https://github.com/rolfmblindgren/shinyseo) - Inject SEO, Open Graph, Twitter, site verification, and schema.org metadata into Shiny apps.
 - [favawesome](https://github.com/shinyworks/favawesome) - Use Font Awesome Icons as Shiny favicons.
 - [metathis](https://github.com/gadenbuie/metathis) - Add HTML metadata tags for Shiny apps and R Markdown documents.
+- [hypothesis](https://github.com/r-world-devs/hypothesis) - Add, share, and manage hypothes.is annotations in Shiny apps and R Markdown documents.
 
 ### Dependency Resolution
 
