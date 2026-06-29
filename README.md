@@ -497,6 +497,7 @@ add packages to the list.
 - [shinyphaser](https://github.com/maciekbanas/shinyphaser) - Interface to the Phaser.js game framework for constructing and managing 2D games in Shiny apps.
 - [bscui](https://github.com/patzaw/bscui) - Interactive SVG custom interfaces with Shiny bindings and proxy updates.
 - [svgPanZoom](https://github.com/timelyportfolio/svgPanZoom) - Add pan and zoom interactivity to SVG graphics as an htmlwidget.
+- [shinyReports](https://github.com/aes21/shinyReports) - Render R Markdown reports to HTML and open them in a new browser tab.
 
 ## Visualization
 
