@@ -12,6 +12,7 @@ focusedMDS
 ganttify
 ggvis
 highdir
+ibmsunburst
 jsmodule
 kpiwidget
 lareshiny
