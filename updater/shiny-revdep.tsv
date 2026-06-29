@@ -674,6 +674,7 @@ mapgl	Interactive Maps with 'Mapbox GL JS' and 'MapLibre GL JS'
 maplamina	High-Performance 'WebGL' Mapping Widgets for R
 MapperAlgo	Topological Data Analysis: Mapper Algorithm
 MappingCalc	Mapping Calculator for EQ-5D Utility Scores
+mapsf.gui	Create Thematic Maps Interactively
 mapview	Interactive Viewing of Spatial Data in R
 markdownInput	Shiny Module for a Markdown Input with Result Preview
 MCPModPack	Simulation-Based Design and Analysis of Dose-Finding Trials
@@ -777,6 +778,7 @@ NPCDTools	The Nonparametric Classification Methods for Cognitive Diagnosis
 npregfast	Nonparametric Estimation of Regression Models with Factor-by-Curve Interactions
 NutrienTrackeR	Food Composition Information and Dietary Assessment
 objectremover	'RStudio' Addin for Removing Objects from the Global Environment Based on Patterns and Object Type
+occCite	Querying and Managing Large Biodiversity Occurrence Datasets
 occupationMeasurement	Interactively Measure Occupations in Interviews and Beyond
 oceanexplorer	Explore Our Planet's Oceans with NOAA
 octopus	A Database Management Tool
@@ -1135,6 +1137,7 @@ shinyr	Data Insights Through Inbuilt R Shiny App
 shinyRadioMatrix	Create a Matrix with Radio Buttons
 shinyRatings	An Intuitive Way of Providing Star Rating in a 'shiny' App
 shinyrecipes	Gadget to Use the Data Preprocessing 'recipes' Package Interactively
+shinyReports	R Markdown HTML Tab Rendering for Shiny
 shinyRGL	Shiny Wrappers for RGL
 shinySbm	'shiny' Application to Use the Stochastic Block Model
 shinyscreenshot	Capture Screenshots of Entire Pages or Parts of Pages in 'Shiny'

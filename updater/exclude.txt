@@ -1,5 +1,6 @@
 bnviewer
 cppcheckR
+d3r
 dashboardthemes
 DonutMap
 DrivePlotR
@@ -12,6 +13,7 @@ ganttify
 ggvis
 highdir
 jsmodule
+kpiwidget
 lareshiny
 LifemapR
 MapperAlgo
@@ -31,6 +33,7 @@ SIAtools
 symbol.equation.gpt
 table1
 tabler
+taskqueue
 tidycharts
 tidygate
 twitterwidget
