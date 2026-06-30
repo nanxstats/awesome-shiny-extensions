@@ -97,6 +97,7 @@ bioacoustics	Analyse Audio Recordings and Automatically Extract Animal Vocalizat
 BioIndex	Biological Indicators and Indices for MEDITS Survey Data
 BioM2	Biologically Explainable Machine Learning Framework
 BioThermR	Standardized Processing and Analysis of Thermal Imaging Data in Animal Studies
+BioTooltipR	Add Bio Tooltips to HTML Reports
 BioVizSeq	Visualizing the Elements Within Bio-Sequences
 bipl5	Construct Reactive Calibrated Axes Biplots
 bivariateLeaflet	Create Bivariate Choropleth Maps with 'Leaflet'
