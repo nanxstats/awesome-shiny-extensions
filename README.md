@@ -728,6 +728,7 @@ add packages to the list.
 - [ggseg3d](https://github.com/ggsegverse/ggseg3d) - Interactive Three.js brain atlas meshes visualization.
 - [shinybody](https://github.com/robert-norberg/shinybody) - Interactive anatomography widget for Shiny.
 - [jellyfisher](https://github.com/HautaniemiLab/jellyfisher) - Interactive jellyfish plots combining sample and phylogenetic trees to visualize spatiotemporal tumor evolution.
+- [Racmacs](https://github.com/acorg/Racmacs) - Make antigenic maps from immunological assay data.
 
 ### Chemical Data
 
