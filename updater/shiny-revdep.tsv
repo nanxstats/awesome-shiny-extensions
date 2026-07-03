@@ -351,7 +351,6 @@ epiflows	Predicting Disease Spread from Flow Data
 EpiSignalDetection	Signal Detection Analysis
 episomer	Early Detection of Public Health Threats from Social Media Data
 epiviz	Data Visualisation Functions for Epidemiological Data Science Products
-epoxy	String Interpolation for Documents, Reports and Apps
 epts	Educational Platform Trials Simulator
 equatiomatic	Transform Models into 'LaTeX' Equations
 ErlangC	Solve Erlang-C Model
@@ -1205,6 +1204,7 @@ staat1cho	Study Indicators Based on Dutch Higher Education Data (1CHO)
 StabilityApp	Stability Analysis App for GEI in Multi-Environment Trials
 standby	Alerts, Notifications and Loading Screen in 'Shiny'
 starry	Explore Data with Plots and Tables
+statease	Simplified Statistical Analysis with Plain-English Interpretation
 StatisticTeach1	Interactive Tool for Statistics and Probability
 statsr	Companion Software for the Coursera Statistics with R Specialization
 StatTeacherAssistant	An App that Assists Intro Statistics Instructors with Data Sets
