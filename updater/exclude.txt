@@ -1,3 +1,4 @@
+BioTooltipR
 bnviewer
 cppcheckR
 d3r
@@ -18,7 +19,9 @@ kpiwidget
 lareshiny
 LifemapR
 MapperAlgo
+mindr
 mmints
+neo4r
 nextGenShinyApps
 NGCHM
 omsvg
@@ -38,5 +41,6 @@ taskqueue
 tidycharts
 tidygate
 twitterwidget
+valuemap
 widgetframe
 wilson
