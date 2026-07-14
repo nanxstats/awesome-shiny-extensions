@@ -19,3 +19,9 @@ Or with Codex CLI:
 ```bash
 codex "$(cat updater/prompts.md)"
 ```
+
+To sort the exclusion list alphabetically, run:
+
+```bash
+sort -o updater/exclude.txt updater/exclude.txt
+```
