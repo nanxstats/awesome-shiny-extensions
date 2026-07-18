@@ -349,9 +349,10 @@ add packages to the list.
 - [tableHTML](https://github.com/LyzandeR/tableHTML) - Create and style HTML tables with CSS, with Shiny rendering functions.
 - [toastui](https://github.com/dreamRs/toastui) - Interactive tables, calendars, and charts based on the TOAST UI JavaScript library.
 - [shinypivottabler](https://cran.r-project.org/package=shinypivottabler) - Shiny module to create interactive pivot tables.
-- [shinydataviewer](https://github.com/Ryan-W-Harrison/shinydataviewer) - Reusable data viewer module for Shiny.
 - [ViewR](https://github.com/itsmdivakaran/viewR) - Interactive data table and data explorer with a virtualized grid, spark histograms, hover metadata, visual query builder, and code generation.
 - [dataviewR](https://github.com/madhankumarnagaraji/dataviewR) - Interactive data frame viewer with filtering, column selection, and code generation.
+- [datasetviewer](https://github.com/vthanik/datasetviewer) - SAS Studio style dataset viewer with browser-side filtering, sorting, metadata inspection, CSV export, and DuckDB-WASM queries.
+- [shinydataviewer](https://github.com/Ryan-W-Harrison/shinydataviewer) - Reusable data viewer module for Shiny.
 - [dtsmartr](https://github.com/wagh-nikhil/dtsmartr) - Interactive virtualized data explorer grid htmlwidget with column-type detection, multi-value filtering, sorting, and virtual scrolling.
 - [DT2](https://github.com/StrategicProjects/DT2) - DataTables 2.x htmlwidget with Shiny rendering, proxy, and event helpers.
 - [RagGrid](https://github.com/no-types/RagGrid) - AG Grid htmlwidget for interactive tables in R Markdown and Shiny.
@@ -773,6 +774,7 @@ add packages to the list.
 - [periscope](https://github.com/cb4ds/periscope) - Enterprise streamlined Shiny application framework with reusable downloadable modules.
 - [periscope2](https://github.com/Aggregate-Genius/periscope2) - Enterprise streamlined Shiny application framework using bs4Dash.
 - [autoshiny](https://github.com/alekrutkowski/autoshiny) - Automatically transform an R function into a Shiny app object or app files.
+- [ggpaintr](https://github.com/willju-wangqian/ggpaintr) - Build formula-driven Shiny apps for ggplot2 with automatically generated controls, live plots, and reproducible code.
 
 ### Framework extensions
 
@@ -970,6 +972,7 @@ add packages to the list.
 - [FutureManager](https://github.com/Boehringer-Ingelheim/FutureManager) - Background processes for long-running operations in Shiny applications.
 - [shiny.worker](https://github.com/Appsilon/shiny.worker) - Delegate heavy computation tasks to a separate process in a Shiny application.
 - [ipc](https://github.com/fellstat/ipc) - Tools for message passing between processes, with Shiny-specific features for async progress bars and reactive value updates from futures.
+- [jsplyr](https://github.com/r-world-devs/jsplyr) - dplyr backend for Shiny that lazily translates data wrangling verbs into client-side JavaScript and returns results asynchronously as promises.
 
 ### Monitoring and Analytics
 
