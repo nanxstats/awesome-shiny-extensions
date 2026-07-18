@@ -569,6 +569,7 @@ iglu	Interpreting Glucose Data from Continuous Glucose Monitors
 igraphinshiny	Use 'shiny' to Demo 'igraph'
 iheatmapr	Interactive, Complex Heatmaps
 IMP	Interactive Model Performance Evaluation
+imputeCGM	Impute Missing Glucose Values in CGM Data
 imuf	Estimate Orientation of an Inertial Measurement Unit
 inDAGO	A GUI for Dual and Bulk RNA-Sequencing Analysis
 insane	INsulin Secretion ANalysEr
@@ -601,6 +602,7 @@ jqbr	'jQuery QueryBuilder' Input for 'Shiny'
 jquerylib	Obtain 'jQuery' as an HTML Dependency Object
 jshintr	Lint 'JavaScript' Files
 jsmodule	'RStudio' Addins and 'Shiny' Modules for Medical Research
+jsplyr	Manipulate 'JSON' Data in the Browser with a 'dplyr' Interface
 jsTree	Create Interactive Trees with the 'jQuery' 'jsTree' Plugin
 jsTreeR	A Wrapper of the JavaScript Library 'jsTree'
 JustifyAlpha	Justifying Alpha Levels for Hypothesis Tests
@@ -685,6 +687,7 @@ MapperAlgo	Topological Data Analysis: Mapper Algorithm
 MappingCalc	Mapping Calculator for EQ-5D Utility Scores
 mapsf.gui	Create Thematic Maps Interactively
 mapview	Interactive Viewing of Spatial Data in R
+MarineChain	Blockchain-Enabled Maritime Transportation System Simulator
 markdownInput	Shiny Module for a Markdown Input with Result Preview
 MBGapp	Interactive 'shiny' Application for Model-Based Geostatistics
 MCPModPack	Simulation-Based Design and Analysis of Dose-Finding Trials
@@ -1026,6 +1029,7 @@ santaR	Short Asynchronous Time-Series Analysis
 sasquatch	Use 'SAS', R, and 'quarto' Together
 sass	Syntactically Awesome Style Sheets ('Sass')
 savonliquide	Accessibility Toolbox for 'R' Users
+Saylac	Spatial Analysis of Yearly, Longitudinal, and Areal Change
 scatterD3	D3 JavaScript Scatterplot from R
 scatterPlotMatrix	'htmlwidget' for a Scatter Plot Matrix
 scdtb	Single Case Design Tools
@@ -1034,6 +1038,7 @@ scientific	Two Highly Customizable 'rmarkdown' Themes for Scientific Reports
 scoutbaR	A Spotlight 'React' Widget for 'shiny' Apps
 scrollrevealR	Animate 'shiny' Elements when They Scroll into View using the 'scrollrevealjs' Library
 sd2R	Stable Diffusion Image Generation
+sdbuildR	An Accessible Interface for Stock-and-Flow Modelling
 sdcHierarchies	Create and (Interactively) Modify Nested Hierarchies
 sdcMicro	Statistical Disclosure Control Methods for Anonymization of Data and Risk Estimation
 sdstudio	Companion Application for the 'surveydown' Survey Platform
@@ -1366,7 +1371,6 @@ waiter	Loading Screen for 'Shiny'
 wallace	A Modular Platform for Reproducible Modeling of Species Niches and Distributions
 webmap	Create Interactive Web Maps Using 'The National Map' Services
 widgetframe	'Htmlwidgets' in Responsive 'iframes'
-wilson	Web-Based Interactive Omics Visualization
 WMFM	Explore Fitted Linear and Generalised Linear Models with 'shiny'
 wordcloud2	Create Word Cloud by 'htmlwidget'
 wpa	Tools for Analysing and Visualising Viva Insights Data
