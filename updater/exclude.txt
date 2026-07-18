@@ -20,8 +20,10 @@ forestly
 ganttify
 geovizr
 ggvis
+glyph
 highdir
 ibmsunburst
+ivolcano
 jsmodule
 kpiwidget
 lareshiny
