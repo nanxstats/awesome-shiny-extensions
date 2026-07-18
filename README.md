@@ -200,7 +200,7 @@ add packages to the list.
 - [resizableSplitLayout](https://cran.r-project.org/package=resizableSplitLayout) - Resizable split layout module for Shiny.
 - [glasstabs](https://github.com/PrigasG/glasstabs) - Animated glass-style tabs and multi-select filter for Shiny.
 - [dipsaus](https://github.com/dipterix/dipsaus) - Custom Shiny input widgets including styled buttons, compound inputs, file/directory inputs, alerts, and progress indicators.
-- [bs4cards](https://github.com/djnavarro/bs4cards) - Generate Bootstrap 4 cards for Shiny and R Markdown.
+- [bs4cards](https://cran.r-project.org/package=bs4cards) - Generate Bootstrap 4 cards for Shiny and R Markdown.
 
 ### File Input
 
