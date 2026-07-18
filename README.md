@@ -972,7 +972,7 @@ add packages to the list.
 - [FutureManager](https://github.com/Boehringer-Ingelheim/FutureManager) - Background processes for long-running operations in Shiny applications.
 - [shiny.worker](https://github.com/Appsilon/shiny.worker) - Delegate heavy computation tasks to a separate process in a Shiny application.
 - [ipc](https://github.com/fellstat/ipc) - Tools for message passing between processes, with Shiny-specific features for async progress bars and reactive value updates from futures.
-- [jsplyr](https://github.com/r-world-devs/jsplyr) - dplyr backend for Shiny that lazily translates data wrangling verbs into client-side JavaScript and returns results asynchronously as promises.
+- [jsplyr](https://github.com/r-world-devs/jsplyr) - Dplyr backend for Shiny that lazily translates data wrangling verbs into client-side JavaScript and returns results asynchronously as promises.
 
 ### Monitoring and Analytics
 
