@@ -321,6 +321,7 @@ add packages to the list.
 - [shinyChatR](https://github.com/julianschmocker/shinyChatR) - Reusable chat module for Shiny apps. Allows sending messages and view messages from other users. Messages can be stored in a database or a `.rds` file.
 - [shiny.ollama](https://github.com/ineelhere/shiny.ollama) - Shiny interface for chatting with large language models offline using Ollama.
 - [querychat](https://github.com/posit-dev/querychat) - Filter and query data frames in Shiny using an LLM chat interface.
+- [LLMR.shiny](https://github.com/asanaei/LLMR.shiny) - Shiny modules for LLM-powered GUIs, including provider and model selection, API-key handling, session cost tracking, and error and report displays.
 
 ### Table
 
@@ -549,6 +550,7 @@ add packages to the list.
 - [myIO](https://github.com/mortonanalytics/myIO) - Composable D3 htmlwidget chart system.
 - [vizdraws](https://github.com/ignacio82/vizdraws) - Interactive visualization of Bayesian prior and posterior distribution draws.
 - [rMosaic](https://github.com/TiRizvanov/rMosaic) - R bindings to the Mosaic declarative visualization framework with linked, interactive plots backed by DuckDB.
+- [ggcube](https://github.com/matthewkling/ggcube) - Create layered 3D figures with ggplot2, including drag-to-rotate htmlwidgets with Shiny output bindings.
 
 ### Scatterplot
 

@@ -470,6 +470,7 @@ GFDrmtl	Multiple RMTL-Based Tests for Competing Risks Data in General Factorial 
 GFDsurv	Tests for Survival Data in General Factorial Designs
 gfonts	Offline 'Google' Fonts for 'Markdown' and 'Shiny'
 ggbond	Interactive Layout Editor for 'R' Plots
+ggcube	3D Plotting with 'ggplot2'
 ggExtra	Add Marginal Histograms to 'ggplot2', and More 'ggplot2' Enhancements
 ggiraph	Make 'ggplot2' Graphics Interactive
 ggpaintr	Build Formula-Driven 'shiny' Apps for 'ggplot2'
@@ -587,6 +588,7 @@ irtGUI	Item Response Theory Analysis with a Graphic User Interface
 IRTShiny	Item Response Theory via Shiny
 Isinglandr	Landscape Construction and Simulation for Ising Networks
 IsoCor	Analyze Isotope Ratios in a 'Shiny'-App
+isoexplorer	GUI Components to Explore Stable Isotope Data Files
 istat	Download and Manipulate Data from Istat
 iSTATS	A Graphical Interface to Perform STOCSY Analyses on NMR Data
 itol.toolkit	Helper Functions for 'Interactive Tree Of Life'
@@ -662,6 +664,7 @@ linne	Convenient 'CSS'
 listviewer	'htmlwidget' for Interactive Views of R Lists
 live	Local Interpretable (Model-Agnostic) Visual Explanations
 llmcoder	LLM-Powered Code Generation, Error Fixing, and Chat for 'RStudio'
+LLMR.shiny	Shared 'Shiny' Substrate for 'LLMR' Family GUIs
 LLMTranslate	'shiny' App for TRAPD/ISPOR Survey Translation with LLMs
 LMD	A Self-Adaptive Approach for Demodulating Multi-Component Signal
 lmviz	A Package to Visualize Linear Models Features and Play with Them
@@ -754,6 +757,7 @@ multigroup.vaccine	Analyze Outbreak Models of Multi-Group Populations with Vacci
 multilevelcoda	Estimate Bayesian Multilevel Models for Compositional Data
 MultiscaleDTM	Multi-Scale Geomorphometric Terrain Attributes
 MuPETFlow	Multiple Ploidy Estimation Tool for all Species Compatible with Flow Cytometry
+muttest	Mutation Testing
 mwshiny	'Shiny' for Multiple Windows
 mycaas	My Computerized Adaptive Assessment
 myIO	Interactive Data Visualizations Using 'd3.js'
@@ -1203,7 +1207,6 @@ soundgen	Sound Synthesis and Acoustic Analysis
 SouthParkRshiny	Data and 'Shiny' Application for the Show 'SouthPark'
 spada	A 'shiny' Package for Data Analysis
 sparkline	'jQuery' Sparkline 'htmlwidget'
-SPARTAAS	Statistical Pattern Recognition and daTing using Archaeological Artefacts assemblageS
 spatialCatalogueViewer	A 'Shiny' Tool to Create Interactive Catalogues for Geospatial Data
 Spectran	Visual and Non-Visual Spectral Analysis of Light
 spectrolab	Class and Methods for Spectral Data
