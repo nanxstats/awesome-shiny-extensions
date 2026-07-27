@@ -18,7 +18,9 @@ flexsiteboard
 focusedMDS
 forestly
 ganttify
+geodrawr
 geovizr
+ggbond
 ggvis
 glyph
 highdir
@@ -43,6 +45,7 @@ r2symbols
 romic
 roughnet
 roughsf
+savonliquide
 semantic.assets
 shinyRGL
 SIAmodules
@@ -50,10 +53,12 @@ SIAtools
 symbol.equation.gpt
 table1
 tabler
+taipan
 taskqueue
 tidycharts
 tidygate
 twitterwidget
 valuemap
+verifyr2
 widgetframe
 wilson
