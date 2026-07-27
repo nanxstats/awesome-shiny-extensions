@@ -251,6 +251,7 @@ add packages to the list.
 - [shinyTimer](https://cran.r-project.org/package=shinyTimer) - Customizable timer widget for Shiny applications.
 - [shinycroneditor](https://github.com/DatalabFabriek/shinycroneditor) - Cron expression input widget for Shiny apps.
 - [rquiz](https://github.com/saskiaotto/rquiz) - Interactive quiz widgets for Shiny, R Markdown, and Quarto.
+- [sillysplines](https://github.com/janithwanni/sillysplines) - Draw linear splines to define classification decision boundaries and generate synthetic 2D datasets.
 
 ### Loader
 
