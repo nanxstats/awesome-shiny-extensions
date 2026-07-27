@@ -135,6 +135,7 @@ bubblyr	Beautiful Bubbles for 'shiny' and 'rmarkdown' Backgrounds
 bullwhipgame	Bullwhip Effect Demo in Shiny
 bunchr	Analyze Bunching in a Kink or Notch Setting
 bupaR	Business Process Analysis in R
+burakDiagrams	Interactive Burak Diagrams for Model Performance Evaluation
 c3	'C3.js' Chart Library
 caffsim	Simulation of Plasma Caffeine Concentrations by Using Population Pharmacokinetic Model
 CALANGO	Comparative Analysis with Annotation-Based Genomic Components
@@ -215,7 +216,6 @@ corrViz	Visualise Correlations
 cosinor	Tools for Estimating and Predicting the Cosinor Model
 countdown	A Countdown Timer for HTML Presentations, Documents, and Web Apps
 countfitteR	Comprehensive Automatized Evaluation of Distribution Models for Count Data
-couplr	Optimal Pairing and Matching via Linear Assignment
 courieR	Migrate Installed R Packages Between R Versions
 coveffectsplot	Produce Forest Plots to Visualize Covariate Effects
 covid19.analytics	Load and Analyze Live Data from the COVID-19 Pandemic
@@ -524,6 +524,7 @@ GWSDAT	GroundWater Spatiotemporal Data Analysis Tool (GWSDAT)
 HaDeX	Analysis and Visualisation of Hydrogen/Deuterium Exchange Mass Spectrometry Data
 handcodeR	Text Annotation App
 handwriterApp	A 'shiny' Application for Handwriting Analysis
+HawaSpatial	Holistic and Areal Weighted Analysis for Global Development
 hchinamap	Mapping China and Its Provinces
 hdar	'REST' API Client for Accessing Data on 'WEkEO HDA V2'
 healthfinance	Financial Projections and Planning for Health Care Practices
@@ -792,6 +793,7 @@ normfluodbf	Cleans and Normalizes FLUOstar DBF and DAT Files from 'Liposome' Flu
 npboottprm	Nonparametric Bootstrap Test with Pooled Resampling
 npboottprmFBar	Informative Nonparametric Bootstrap Test with Pooled Resampling
 NPCDTools	The Nonparametric Classification Methods for Cognitive Diagnosis
+nprcgenekeepr	Genetic Tools for Colony Management
 npregfast	Nonparametric Estimation of Regression Models with Factor-by-Curve Interactions
 NutrienTrackeR	Food Composition Information and Dietary Assessment
 objectremover	'RStudio' Addin for Removing Objects from the Global Environment Based on Patterns and Object Type
@@ -985,6 +987,7 @@ resizableSplitLayout	Resizable Split Layout Module for 'shiny'
 retistruct	Retinal Reconstruction Program
 ReviewR	A Light-Weight, Portable Tool for Reviewing Individual Patient Records
 revtools	Tools to Support Evidence Synthesis
+rgexf	Build, Import, and Export GEXF Graph Files
 rgl	3D Visualization Using OpenGL
 rhandsontable	Interface to the 'Handsontable.js' Library
 rheroicons	A Zero Dependency 'SVG' Icon Library for 'Shiny'
@@ -1184,6 +1187,7 @@ SIAmodules	Modules for 'ShinyItemAnalysis'
 SIAtools	'ShinyItemAnalysis' Modules Development Toolkit
 sigmajs	Interface to 'Sigma.js' Graph Visualization Library
 signalHsmm	Predict Presence of Signal Peptides
+sillysplines	Linear Splines to Generate Decision Boundaries
 simCAT	Implements Computerized Adaptive Testing Simulations
 simlandr	Simulation-Based Landscape Construction for Dynamical Systems
 simrel	Simulation of Multivariate Linear Model Data
@@ -1207,6 +1211,7 @@ soundgen	Sound Synthesis and Acoustic Analysis
 SouthParkRshiny	Data and 'Shiny' Application for the Show 'SouthPark'
 spada	A 'shiny' Package for Data Analysis
 sparkline	'jQuery' Sparkline 'htmlwidget'
+SPARTAAS	Statistical Pattern Recognition and daTing using Archaeological Artefacts assemblageS
 spatialCatalogueViewer	A 'Shiny' Tool to Create Interactive Catalogues for Geospatial Data
 Spectran	Visual and Non-Visual Spectral Analysis of Light
 spectrolab	Class and Methods for Spectral Data
@@ -1224,6 +1229,7 @@ standby	Alerts, Notifications and Loading Screen in 'Shiny'
 starry	Explore Data with Plots and Tables
 statease	Simplified Statistical Analysis with Plain-English Interpretation
 StatisticTeach1	Interactive Tool for Statistics and Probability
+statsapps	Interactive 'Shiny' Apps for Building Statistical Intuition
 statsr	Companion Software for the Coursera Statistics with R Specialization
 StatTeacherAssistant	An App that Assists Intro Statistics Instructors with Data Sets
 stCEG	Fully Customizable Chain Event Graphs over Spatial Areas
