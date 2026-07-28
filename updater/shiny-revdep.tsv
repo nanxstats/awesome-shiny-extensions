@@ -317,6 +317,7 @@ dtrackr	Track your Data Pipelines
 dtsmartr	Interactive Virtualized Data Explorer Grid Widget
 dtwclust	Time Series Clustering Along with Optimizations for the Dynamic Time Warping Distance
 DVHmetrics	Analyze Dose-Volume Histograms and Check Constraints
+DWBmodelUN	Dynamic Water Balance a Hydrological Model
 dygraphs	Interface to 'Dygraphs' Interactive Time Series Charting Library
 dynafluxr	Retrieve Reaction Rate Dynamics from Metabolite Concentration Time Courses
 DynNom	Visualising Statistical Models using Dynamic Nomograms
@@ -392,6 +393,7 @@ fasterRaster	Faster Raster and Spatial Vector Processing Using 'GRASS'
 FastRet	Retention Time Prediction in Liquid Chromatography
 fastTopics	Fast Algorithms for Fitting Topic Models and Non-Negative Matrix Factorizations to Count Data
 favawesome	'Font Awesome' Icons as 'shiny' 'favicons'
+fcaR	Formal Concept Analysis
 fdapaceShiny	A Shiny App for the 'fdapace' Package
 FedIRT	Federated Item Response Theory Models
 felp	Functional Help for Functions, Objects, and Packages
@@ -454,7 +456,7 @@ gdtools	Font Metrics and Font Management Utilities for R Graphics
 genBaRcode	Analysis and Visualization Tools for Genetic Barcode Data
 GenEst	Generalized Mortality Estimator
 geneviewer	Gene Cluster Visualizations
-GenoTriplo	Genotyping Triploids (or Diploids) from Luminescence Data
+GenoTriplo	Genotyping Triploids/Tetraploids (or Diploids) from Luminescence Data
 genTS	R Shiny App for Creating Simplified Trial Summary (TS) Domain
 geoarrowWidget	Attach '(Geo)Arrow' and/or '(Geo)Parquet' Data to a Widget
 geocmeans	Implementing Methods for Spatial Fuzzy Unsupervised Classification
@@ -749,6 +751,7 @@ mschart	Chart Generation for 'Microsoft Word', 'Microsoft Excel' and 'Microsoft 
 MSMGOptimizer	Mine Sustainability Modeling Group (MSMG) 'SimaPro' CSV Optimizer
 mtb	My Toolbox for Assisting Document Editing and Data Presenting
 MuChPoint	Multiple Change Point
+muiCharts	'MUI X Charts' for 'shiny' Apps and 'Quarto'
 muiDataGrid	'MUI X Data Grid' for 'shiny' Apps and 'Quarto'
 muiMaterial	'Material UI' for 'shiny' Apps and 'Quarto'
 muiTreeView	'MUI X Tree View' for 'shiny' Apps and 'Quarto'
@@ -759,6 +762,7 @@ multilevelcoda	Estimate Bayesian Multilevel Models for Compositional Data
 MultiscaleDTM	Multi-Scale Geomorphometric Terrain Attributes
 MuPETFlow	Multiple Ploidy Estimation Tool for all Species Compatible with Flow Cytometry
 muttest	Mutation Testing
+MVLs	Model Validation Levels
 mwshiny	'Shiny' for Multiple Windows
 mycaas	My Computerized Adaptive Assessment
 myIO	Interactive Data Visualizations Using 'd3.js'
@@ -1118,6 +1122,7 @@ shinyfilter	Use Interdependent Filters on Table Columns in Shiny Apps
 shinyfilters	Create 'shiny' Inputs from Vectors, 'data.frames', or any R Object
 shinyfullscreen	Display 'HTML' Elements on Full Screen in 'Shiny' Apps
 shinyGizmo	Custom Components for Shiny Applications
+shinyglass	Liquid Glass Design Themes for 'shiny' Applications
 shinyglide	Glide Component for Shiny Applications
 shinyGovstyle	Custom Gov Style Inputs for Shiny
 shinyHeatmaply	Deploy 'heatmaply' using 'shiny'
@@ -1280,6 +1285,7 @@ teal.transform	Functions for Extracting and Merging Data in the 'teal' Framework
 teal.widgets	'shiny' Widgets for 'teal' Applications
 Ternary	Create Ternary and Holdridge Plots
 texPreview	Compile and Preview Snippets of 'LaTeX'
+TextAnalysisR	A Text Mining Workflow Tool
 textAnnotatoR	Interactive Text Annotation Tool with 'shiny' GUI
 tfrmtbuilder	'shiny' App Companion to the 'tfrmt' Package
 thorn	'HTMLwidgets' Displaying Some 'WebGL' Shaders
@@ -1380,6 +1386,7 @@ waiter	Loading Screen for 'Shiny'
 wallace	A Modular Platform for Reproducible Modeling of Species Niches and Distributions
 webmap	Create Interactive Web Maps Using 'The National Map' Services
 widgetframe	'Htmlwidgets' in Responsive 'iframes'
+wilson	Web-Based Interactive Omics Visualization
 WMFM	Explore Fitted Linear and Generalised Linear Models with 'shiny'
 wordcloud2	Create Word Cloud by 'htmlwidget'
 wpa	Tools for Analysing and Visualising Viva Insights Data
