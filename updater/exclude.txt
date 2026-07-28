@@ -1,4 +1,5 @@
 BioTooltipR
+bipl5
 bnviewer
 boxly
 checkdown
@@ -60,5 +61,6 @@ tidygate
 twitterwidget
 valuemap
 verifyr2
+volcano3D
 widgetframe
 wilson
