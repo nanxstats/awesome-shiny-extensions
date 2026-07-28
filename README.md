@@ -146,6 +146,7 @@ add packages to the list.
 - [lcars](https://github.com/leonawicz/lcars) - Star Trek aesthetic for Shiny with custom UI components.
 - [shinyds](https://github.com/novica/shinyds) - Shiny bindings for the Designsystemet component library.
 - [argonR](https://github.com/RinteRface/argonR) - Argon Bootstrap 4 UI components for Shiny apps.
+- [shinyglass](https://github.com/ericrayanderson/shinyglass) - Liquid Glass design themes for Shiny, adding translucent surfaces, backdrop blur, and system typography to Bootstrap components via bslib.
 
 ### Dashboard Theming
 
@@ -552,6 +553,7 @@ add packages to the list.
 - [vizdraws](https://github.com/ignacio82/vizdraws) - Interactive visualization of Bayesian prior and posterior distribution draws.
 - [rMosaic](https://github.com/TiRizvanov/rMosaic) - R bindings to the Mosaic declarative visualization framework with linked, interactive plots backed by DuckDB.
 - [ggcube](https://github.com/matthewkling/ggcube) - Create layered 3D figures with ggplot2, including drag-to-rotate htmlwidgets with Shiny output bindings.
+- [muiCharts](https://github.com/lgnbhl/muiCharts) - MUI X Charts for Shiny apps and Quarto, a set of React chart components including bar, line, pie, scatter, gauge, radar, and sparkline charts.
 
 ### Scatterplot
 
