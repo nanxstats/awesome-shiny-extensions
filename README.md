@@ -554,6 +554,7 @@ add packages to the list.
 - [rMosaic](https://github.com/TiRizvanov/rMosaic) - R bindings to the Mosaic declarative visualization framework with linked, interactive plots backed by DuckDB.
 - [ggcube](https://github.com/matthewkling/ggcube) - Create layered 3D figures with ggplot2, including drag-to-rotate htmlwidgets with Shiny output bindings.
 - [muiCharts](https://github.com/lgnbhl/muiCharts) - MUI X Charts for Shiny apps and Quarto, a set of React chart components including bar, line, pie, scatter, gauge, radar, and sparkline charts.
+- [controlcharts](https://github.com/aus-doh-safety-and-quality/controlcharts) - Interactive funnel plots and statistical process control charts.
 
 ### Scatterplot
 
@@ -768,6 +769,7 @@ add packages to the list.
 - [teal](https://github.com/insightsengineering/teal) - Interactive exploration framework for analyzing clinical trials data, provides a dynamic filtering facility and different data viewers.
 - [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.
 - [aurora](https://github.com/aurora-govpe/aurora-rpkg) - Build stateless web apps in R with plumber2 and bslib.
+- [irid](https://github.com/khusmann/irid) - Component-based reactive UI framework for Shiny with fine-grained DOM updates that avoid full re-rendering and update callbacks.
 - [blockr.core](https://github.com/BristolMyersSquibb/blockr.core) - Graphical web framework for data manipulation and visualization using reusable, composable blocks.
 - [learnr](https://github.com/rstudio/learnr) - Interactive R Markdown tutorials with Shiny-powered exercises, quizzes, and question widgets.
 - [surveydown](https://github.com/surveydown-dev/surveydown) - Markdown-based programmable surveys using Quarto and Shiny, with skip logic, multiple question types, and database storage.
@@ -799,6 +801,7 @@ add packages to the list.
 - [blockr.dplyr](https://github.com/BristolMyersSquibb/blockr.dplyr) - Interactive dplyr data transformation blocks for blockr.
 - [blockr.ggplot](https://github.com/BristolMyersSquibb/blockr.ggplot) - Interactive ggplot2 visualization blocks for blockr.
 - [blockr.io](https://github.com/BristolMyersSquibb/blockr.io) - Interactive file import and export blocks for blockr.
+- [blockr.session](https://github.com/BristolMyersSquibb/blockr.session) - Persist, restore, share, and manage blockr boards with pins-backed storage, including Posit Connect user accounts and version history.
 - [formods](https://github.com/john-harrold/formods) - Shiny modules for general tasks including data wrangling, figure generation, and app state management.
 - [tutorial.helpers](https://github.com/PPBDS/tutorial.helpers) - Helper functions and Shiny modules for creating, editing, and testing tutorials with learnr, including collecting student submissions.
 - [mwshiny](https://github.com/delosh653/mwshiny) - Run a Shiny app across multiple connected browser windows.

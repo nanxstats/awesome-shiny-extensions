@@ -94,6 +94,7 @@ BIGL	Biochemically Intuitive Generalized Loewe Model
 billboarder	Create Interactive Chart with the JavaScript 'Billboard' Library
 binovisualfields	Depth-Dependent Binocular Visual Fields Simulation
 bioacoustics	Analyse Audio Recordings and Automatically Extract Animal Vocalizations
+biocharkitgui	'Shiny' GUI for the 'biocharkit' Biochar Analysis Toolkit
 BioIndex	Biological Indicators and Indices for MEDITS Survey Data
 BioM2	Biologically Explainable Machine Learning Framework
 BioThermR	Standardized Processing and Analysis of Thermal Imaging Data in Animal Studies
@@ -109,6 +110,7 @@ blockr.dock	A Docking Layout Manager for 'blockr'
 blockr.dplyr	Interactive 'dplyr' Data Transformation Blocks
 blockr.ggplot	Interactive 'ggplot2' Visualization Blocks
 blockr.io	Interactive File Import and Export Blocks
+blockr.session	Session Management for 'blockr'
 blogdown	Create Blogs and Websites with R Markdown
 blrm	Dose Escalation Design in Phase I Oncology Trial Using Bayesian Logistic Regression Modeling
 BLRShiny	Interactive Document for Working with Binary Logistic Regression Analysis
@@ -151,6 +153,7 @@ carbonr	Calculate Carbon-Equivalent Emissions
 card.pro	Lightweight Modern & Responsive Card Component for 'shiny'
 cascadeSelect	A Cascade Select Input for 'Shiny'
 cascadess	A Style Pronoun for 'htmltools' Tags
+cataScience	Interactive Training App for Data Science and AI Skills
 catekappa	Design and Analysis of Consistency Tests Based on Kappa Statistic
 causaloptim	An Interface to Specify Causal Graphs and Compute Bounds on Causal Effects
 CCWeights	Perform Weighted Linear Regression for Calibration Curve
@@ -207,6 +210,7 @@ connectwidgets	Organize and Curate Your Content Within 'Posit Connect'
 ConSciR	Tools for Conservation Science
 consortr	Interactive Consort Flow Diagrams
 contextFind	Find Code Snippets with Context and Click to Navigate Directly to Results
+controlcharts	Interactive Plotting for Funnel Plots and Statistical Process Control Charts
 convdistr	Convolute Probabilistic Distributions
 convertr	Convert Between Units
 cookies	Use Browser Cookies with 'shiny'
@@ -294,6 +298,7 @@ dlmtree	Bayesian Treed Distributed Lag Models
 dlookr	Tools for Data Diagnosis, Exploration, Transformation
 dockViewR	Layout Manager Widget for R and 'shiny' Apps
 documenter	Documents Files
+DOEpro	Analysis of Designed Agricultural Experiments
 DonutMap	Donut Maps with 'sf', 'ggplot2', and 'leaflet'
 dosedesignR	Interactive Designing of Dose Finding Studies
 downloadthis	Implement Download Buttons in 'rmarkdown'
@@ -376,6 +381,7 @@ eventPred	Event Prediction
 exactamente	Explore the Exact Bootstrap Method
 examly	Statistical Metrics and Reporting Tool
 excelR	A Wrapper of the 'JavaScript' Library 'jExcel'
+exmort	All-Cause and Excess Mortality Calculator
 ExPanDaR	Explore Your Data Interactively
 explodemap	Hierarchical Exploded-View Cartography
 explor	Interactive Interfaces for Results Exploration
@@ -386,6 +392,7 @@ ezTrack	Tools for Exploring Animal Movement Data
 fabricerin	Create Easily Canvas in 'shiny' and 'RMarkdown' Documents
 FactEff	Efficiencies of Block Designs for Factorial and Fractional Factorial Experiments
 FAfA	Factor Analysis for All
+Familia	'shiny' Application for Population Structure and Ancestry Assessments
 faq	Create FAQ Page
 farrell	Interactive Interface to Data Envelopment Analysis Modeling
 FAST.R	Analyze and Visualize FAST-Generated Data
@@ -487,7 +494,7 @@ ggThemeAssist	Add-in to Customize 'ggplot2' Themes
 ggvis	Interactive Grammar of Graphics
 ggvolcano	Publication-Ready Volcano Plots
 ggWebGL	Browser-Native 'WebGL' Rendering for R Graphics
-glasstabs	Animated Glass-Style Tabs and Multi-Select Filter for 'Shiny'
+glasstabs	Animated Glass-Style Tabs and Select Inputs for 'Shiny'
 GLMBasedRaschEstimation	GLM-Based Estimation for Rasch Model Parameters
 glossa	User-Friendly 'shiny' App for Bayesian Species Distribution Models
 glyph	A Next-Generation Grammar of Interactive Graphics
@@ -495,6 +502,7 @@ gm	Create Music with Ease
 GMSE	Generalised Management Strategy Evaluation Simulator
 gofigR	Client for 'GoFigr.io'
 GOFShiny	Interactive Document for Working with Goodness of Fit Analysis
+GoldenVizR	Rule-Based Quality Checks for 'ggplot2' Visualizations Based on the 25 Golden Rules of Data Visualization
 golem	A Framework for Robust Shiny Applications
 GomoGomonoMi	Animate Text using the 'Animate.css' Library
 googletraffic	Google Traffic
@@ -537,7 +545,7 @@ hexsession	Create a Tile of Logos for Loaded Packages
 HH	Statistical Analysis and Data Display: Heiberger and Holland
 hidecan	Create HIDECAN Plots for Visualising Genome-Wide Association Studies and Differential Expression Results
 highcharter	A Wrapper for the 'Highcharts' Library
-highdir	Backend-Agnostic Figure Builder for 'highcharter' and 'ggplot2'
+highdir	Unified Data Visualization Framework for Dynamic and Static Graphics
 highlighter	Code Syntax Highlighting using the 'Prism.js' Library
 hipecR	Tools for Analysing HIPEC Patient Data
 histoslider	A Histogram Slider Input for 'Shiny'
@@ -584,6 +592,7 @@ interca	Multiple Correspondence Analysis Based on Interpretive Coordinates
 ioncopy	Calling Copy Number Alterations in Amplicon Sequencing Data
 ipc	Tools for Message Passing Between Processes
 iRfcb	Tools for Managing Imaging FlowCytobot (IFCB) Data
+irid	Component-Based 'Shiny' UI with Fine-Grained Reactivity
 IRR2FPR	Computing False Positive Rate from Inter-Rater Reliability
 irtawsi	Items Response Theory Analysis with Steps and Interpretation
 irtDemo	Item Response Theory Demo Collection
@@ -667,7 +676,7 @@ linne	Convenient 'CSS'
 listviewer	'htmlwidget' for Interactive Views of R Lists
 live	Local Interpretable (Model-Agnostic) Visual Explanations
 llmcoder	LLM-Powered Code Generation, Error Fixing, and Chat for 'RStudio'
-LLMR.shiny	Shared 'Shiny' Substrate for 'LLMR' Family GUIs
+LLMR.shiny	Shared 'Shiny' Components for 'LLMR' Family Applications
 LLMTranslate	'shiny' App for TRAPD/ISPOR Survey Translation with LLMs
 LMD	A Self-Adaptive Approach for Demodulating Multi-Component Signal
 lmviz	A Package to Visualize Linear Models Features and Play with Them
@@ -675,6 +684,7 @@ loadeR	Load Data for Analysis System
 login	'shiny' Login Module
 logrxaddin	Addin for the 'logrx' Package
 lorem	Generate Lorem Ipsum Text
+LRErdd	Regression Discontinuity Designs as Local Randomized Experiments
 lrstat	Power and Sample Size Calculation for Non-Proportional Hazards and Beyond
 lucidr	'Lucide' Icons for 'R'
 maidr	Multimodal Access and Interactive Data Representation
@@ -820,6 +830,7 @@ OpenImageR	An Image Processing Toolkit
 OpenRepGrid.ic	Interpretive Clustering for Repertory Grids
 OpenSpecy	Analyze, Process, Identify, and Share Raman and (FT)IR Spectra
 optedr	Calculating Optimal and D-Augmented Designs for Single- and Multi-Factor Models
+orbis	Interactive and High-Resolution Layered Graphics with Built-in World Maps
 ordinalsimr	Compare Ordinal Endpoints Using Simulations
 overshiny	Interactive Overlays on 'shiny' Plots
 OWEA	Optimal Weight Exchange Algorithm for Optimal Designs for Three Models
@@ -1028,7 +1039,6 @@ RSP	'shiny' Applications for Statistical and Psychometric Analysis
 rtables	Reporting Tables
 rtabulator	R Bindings for 'Tabulator JS'
 rtemis	Machine Learning and Visualization
-rtiddlywiki	R Interface for 'TiddlyWiki'
 ruminate	A Pharmacometrics Data Transformation and Analysis Tool
 rusk	Beautiful Graphical Representation of Multiplication Tables on a Modular Circle
 sae4health	Small Area Estimation for Key Health and Demographic Indicators from Household Surveys
@@ -1163,6 +1173,7 @@ shinyquiz	Create Interactive Quizzes in 'shiny'
 shinyr	Data Insights Through Inbuilt R Shiny App
 shinyRadioMatrix	Create a Matrix with Radio Buttons
 shinyRatings	An Intuitive Way of Providing Star Rating in a 'shiny' App
+shinyrecap	'Shiny' User Interface for Multiple Source Capture Recapture Models
 shinyrecipes	Gadget to Use the Data Preprocessing 'recipes' Package Interactively
 shinyReports	R Markdown HTML Tab Rendering for Shiny
 shinyRGL	Shiny Wrappers for RGL
@@ -1259,6 +1270,7 @@ svgPanZoom	R 'Htmlwidget' to Add Pan and Zoom to Almost any R Graphic
 swipeR	Carousels using the 'JavaScript' Library 'Swiper'
 swirlify	A Toolbox for Writing 'swirl' Courses
 symbol.equation.gpt	Simple User Interface to Build Equations and Add Symbols
+syncons	Efficient and Low-Cost Construction of Synthetic Communities
 T2Qv	Control Qualitative Variables
 table1	Tables of Descriptive Statistics in HTML
 tableHTML	A Tool to Create HTML Tables
