@@ -23,6 +23,7 @@ AIscreenR	AI Screening Tools in R for Systematic Reviewing
 akiFlagger	Flags Acute Kidney Injury (AKI)
 algo	Implement an Address Search Auto Completion Menu on 'Shiny' Text Inputs Using the 'Algolia Places' 'Javascript' Library
 alphavantagepf	Comprehensive R Wrapper and Shiny Interface for 'Alphavantage Financial Data' API
+ALSBinary	'ALS-Binary': Allele Size to Binary Converter
 altair	Interface to 'Altair'
 amapro	Thin Wrapper for Mapping Library 'AMap'('Gaode')
 AmpGram	Prediction of Antimicrobial Peptides
@@ -138,7 +139,7 @@ bullwhipgame	Bullwhip Effect Demo in Shiny
 bunchr	Analyze Bunching in a Kink or Notch Setting
 bupaR	Business Process Analysis in R
 burakDiagrams	Interactive Burak Diagrams for Model Performance Evaluation
-c3	'C3.js' Chart Library
+c3	C3.js Chart Library
 caffsim	Simulation of Plasma Caffeine Concentrations by Using Population Pharmacokinetic Model
 CALANGO	Comparative Analysis with Annotation-Based Genomic Components
 calcite	Bindings to the Calcite Design System 'JavaScript' Component Library
@@ -202,6 +203,7 @@ ComBatFamQC	Comprehensive Batch Effect Diagnostics and Harmonization
 comFuncs	Commonly Used Functions for R Shiny Applications
 compIndexBuilder	Composite Index Builder & Analytics 'shiny' App
 complexr	'Shiny' Interface for Complex Survey Data Analysis
+compstatslib	Interactive 2D and 3D Visualization of Data and Statistical Concepts
 condformat	Conditional Formatting in Data Frames
 condir	Computation of P Values and Bayes Factors for Conditioning Data
 conductor	Create Tours in 'Shiny' Apps Using 'Shepherd.js'
@@ -224,6 +226,7 @@ courieR	Migrate Installed R Packages Between R Versions
 coveffectsplot	Produce Forest Plots to Visualize Covariate Effects
 covid19.analytics	Load and Analyze Live Data from the COVID-19 Pandemic
 cpam	Changepoint Additive Models for Time Series Omics Data
+cpge	Interactive Clustered Graph for French Scientific Preparatory Classes
 cppcheckR	Check 'C' and 'C++' Files using 'Cppcheck'
 CRANsearcher	RStudio Addin for Searching Packages in CRAN Database Based on Keywords
 crispRdesignR	Guide Sequence Design for CRISPR/Cas9
@@ -342,7 +345,6 @@ edeaR	Exploratory and Descriptive Event-Based Data Analysis
 edgebundleR	Circle Plot with Bundled Edges
 editbl	'DT' Extension for CRUD (Create, Read, Update, Delete) Applications in 'shiny'
 editData	'RStudio' Addin for Editing a 'data.frame'
-EEAaq	Handle Air Quality Data from the European Environment Agency Data Portal
 EffectLiteR	Average and Conditional Effects
 EgoCor	Simple Presentation of Estimated Exponential Semi-Variograms
 eirm	Explanatory Item Response Modeling for Dichotomous and Polytomous Items
@@ -391,7 +393,6 @@ ezr	Easy Use of R via Shiny App for Basic Analyses of Experimental Data
 ezTrack	Tools for Exploring Animal Movement Data
 fabricerin	Create Easily Canvas in 'shiny' and 'RMarkdown' Documents
 FactEff	Efficiencies of Block Designs for Factorial and Fractional Factorial Experiments
-FAfA	Factor Analysis for All
 Familia	'shiny' Application for Population Structure and Ancestry Assessments
 faq	Create FAQ Page
 farrell	Interactive Interface to Data Envelopment Analysis Modeling
@@ -1002,6 +1003,7 @@ resizableSplitLayout	Resizable Split Layout Module for 'shiny'
 retistruct	Retinal Reconstruction Program
 ReviewR	A Light-Weight, Portable Tool for Reviewing Individual Patient Records
 revtools	Tools to Support Evidence Synthesis
+rewind	Undo and Redo for 'Shiny' Applications
 rgexf	Build, Import, and Export GEXF Graph Files
 rgl	3D Visualization Using OpenGL
 rhandsontable	Interface to the 'Handsontable.js' Library
@@ -1024,13 +1026,13 @@ robmedExtra	Extra Functionality for (Robust) Mediation Analysis
 robservable	Import an Observable Notebook as HTML Widget
 RobustFlow	Robustness and Drift Auditing for Longitudinal Decision Systems
 robustT2	Robust Hotelling-Type T² Control Chart Based on the Dual STATIS Approach
-rock	Reproducible Open Coding Kit
 rolldown	R Markdown Output Formats for Storytelling
 RoME	Multiple Checks on MEDITS Trawl Survey Data
 romic	R for High-Dimensional Molecular Data
 roughnet	Visualize Networks using 'roughjs'
 roughsf	Visualize Spatial Data using 'roughjs'
 rPackedBar	Packed Bar Charts with 'plotly'
+rpivotTable	Build Powerful Pivot Tables and Dynamically Slice & Dice your Data
 rqti	Create Tests According to QTI 2.1 Standard
 rquiz	Interactive Quizzes as HTML Widgets
 rrtable	Reproducible Research with a Table of R Codes
@@ -1083,6 +1085,7 @@ shiny	Web Application Framework for R
 shiny.blueprint	Palantir's 'Blueprint' for 'Shiny' Apps
 shiny.destroy	Create Destroyable Modules in 'Shiny'
 shiny.emptystate	Empty State Components for 'Shiny'
+shiny.fluent	Microsoft Fluent UI for Shiny Apps
 shiny.i18n	Shiny Applications Internationalization
 shiny.ollama	R 'shiny' Interface for Chatting with Large Language Models Offline on Local with 'ollama'
 shiny.react	Tools for Using React in Shiny
@@ -1345,18 +1348,19 @@ TwoDiRef	Robust Estimation of Conditional 2D Reference Regions
 UBayFS	A User-Guided Bayesian Framework for Ensemble Feature Selection
 ubiquity	PKPD, PBPK, and Systems Pharmacology Modeling Tools
 UCSCXenaShiny	Interactive Analysis of UCSC Xena Data
-ufs	A Collection of Utilities
 Umatrix	Visualization of Structures in High-Dimensional Data
 umiAnalyzer	Tools for Analyzing Sequencing Data with Unique Molecular Identifiers
 UniprotR	Retrieving Information of Proteins from Uniprot
 UpDown	Detecting Group Disturbances from Longitudinal Observations
 upsetjs	'HTMLWidget' Wrapper of 'UpSet.js' for Exploring Large Set Intersections
+upsetly	Interactive UpSet Plots Using 'plotly'
 urlshorteneR	R Wrapper for the 'Bit.ly' and 'Is.gd'/'v.gd' URL Shortening Services
 uteals	Shared Utilities to Extend the 'teal' Modules
 valdrViz	Visualise and Report 'VALD ForceDecks' Test Results
 valhallr	A Tidy Interface to the 'Valhalla' Routing Engine
 validmind	Interface to the 'ValidMind' Platform
 valuemap	Making Choropleth Map
+VanillaCalendar	Interactive Calendar and Date Picker Widget
 VarSelLCM	Variable Selection for Model-Based Clustering of Mixed-Type Data Set with Missing Values
 vcdExtra	'vcd' Extensions and Additions
 vchartr	Interactive Charts with the 'JavaScript' 'VChart' Library

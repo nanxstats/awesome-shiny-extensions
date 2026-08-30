@@ -215,6 +215,7 @@ add packages to the list.
 - [shinyTime](https://github.com/burgerga/shinyTime) - A timeInput widget for Shiny.
 - [shinyDatetimePickers](https://github.com/stla/shinyDatetimePickers) - Datetime pickers for Shiny.
 - [DateTimeRangePicker](https://github.com/stla/DateTimeRangePicker) - A datetime range picker widget for Shiny.
+- [VanillaCalendar](https://github.com/ESCRI11/vanilla-calendar-r) - Customizable date picker widget with theming and server-side updates.
 - [shinyMatrix](https://github.com/INWTlab/shinyMatrix) - Matrix input for Shiny.
 - [shinyCleave](https://github.com/carlganz/shinyCleave) - Customized text inputs (phone number, ZIP code, currency, credit card) based on Cleave.js.
 - [shinySelect](https://github.com/stla/shinySelect) - A wrapper of the react-select library that supports grouped, sortable items with Font Awesome icons, KaTeX formulas, and Bootstrap tooltips.
@@ -344,6 +345,7 @@ add packages to the list.
 - [basictabler](https://github.com/cbailiss/basictabler) - Construct rich tables for output to HTML/Excel.
 - [pivottabler](https://github.com/cbailiss/pivottabler) - Create pivot tables in R.
 - [pivta](https://github.com/feddelegrand7/pivta) - R wrapper for WebDataRocks, an interactive pivot table component for data analysis.
+- [rpivotTable](https://github.com/smartinsightsfromdata/rpivotTable) - Interactive drag-and-drop pivot tables using PivotTable.js.
 - [excelR](https://github.com/Swechhya/excelR) - R interface to the jExcel.js library.
 - [xSpreadsheet](https://github.com/MichaelHogers/xSpreadsheet) - R wrapper for the JavaScript canvas spreadsheet library x-spreadsheet.
 - [editbl](https://github.com/openanalytics/editbl) - DT (DataTables) extension to support interactive editing. Easily supports databases.
@@ -487,6 +489,7 @@ add packages to the list.
 - [shiny.collections](https://github.com/Appsilon/shiny.collections) - Google Docs-like live collaboration in Shiny with RethinkDB.
 - [shinyCanvas](https://github.com/yonicd/shinyCanvas) - Create and customize an interactive canvas using the D3 JavaScript library and the htmlwidgets package.
 - [shinymeta](https://github.com/rstudio/shinymeta) - Record and expose Shiny app logic using metaprogramming.
+- [rewind](https://github.com/tenmeh/rewind) - Add user-facing undo and redo history for Shiny inputs and reactive state, with keyboard, button, and visual history controls.
 - [shinyscroll](https://github.com/JohnCoene/shinyscroll) - Scroll to an element in Shiny.
 - [scroller](https://github.com/lgnbhl/scroller) - Smooth scroll to any element in Shiny apps and R Markdown documents using the Arbitrary Anchor jQuery plugin.
 - [gotop](https://github.com/lgnbhl/gotop) - Add a scroll back to top Font Awesome icon to Shiny apps and R Markdown documents using jQuery GoTop.
