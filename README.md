@@ -59,6 +59,7 @@ add packages to the list.
   - [React](#react)
   - [Vue.js](#vuejs)
   - [Advanced Interactivity](#advanced-interactivity)
+  - [Generative UI](#generative-ui)
 - [Visualization](#visualization)
   - [General-Purpose](#general-purpose)
   - [Scatterplot](#scatterplot)
@@ -505,6 +506,10 @@ add packages to the list.
 - [bscui](https://github.com/patzaw/bscui) - Interactive SVG custom interfaces with Shiny bindings and proxy updates.
 - [svgPanZoom](https://github.com/timelyportfolio/svgPanZoom) - Add pan and zoom interactivity to SVG graphics as an htmlwidget.
 - [shinyReports](https://github.com/aes21/shinyReports) - Render R Markdown reports to HTML and open them in a new browser tab.
+
+### Generative UI
+
+- [shinygenui](https://github.com/nanxstats/shinygenui) - Build and update Shiny interfaces through conversations with a large language model.
 
 ## Visualization
 
