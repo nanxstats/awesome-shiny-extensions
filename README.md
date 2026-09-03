@@ -703,6 +703,7 @@ add packages to the list.
 - [amapro](https://github.com/helgasoft/amapro) - Build and control interactive 2D and 3D AMap/Gaode maps in R and Shiny.
 - [explodemap](https://github.com/PrigasG/explodemap) - Hierarchical exploded-view cartography with an interactive focus map widget for Shiny.
 - [webmap](https://code.usgs.gov/inl/webmap) - Interactive Leaflet web maps using The National Map services, with map controls and widgets.
+- [mapboxapi](https://github.com/walkerke/mapboxapi) - R interface to Mapbox web services APIs, with a Mapbox Geocoder input widget for Shiny plus tile layers for leaflet and tmap.
 
 ### Sparkline
 
@@ -762,6 +763,7 @@ add packages to the list.
 - [r3js](https://github.com/shwilks/r3js) - WebGL-based 3D plotting with three.js and Shiny bindings.
 - [thorn](https://github.com/stla/thorn) - WebGL shader htmlwidgets that can be used as Shiny app backgrounds.
 - [cubeview](https://github.com/r-spatial/cubeview) - Interactive 3D raster cube viewer.
+- [imuf](https://github.com/gitboosting/imuf) - Three.js htmlwidgets animating the 3D orientation of an inertial measurement unit, with Shiny output bindings and a proxy for streaming updates.
 
 ### Augmented and Virtual Reality
 
