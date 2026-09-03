@@ -563,6 +563,7 @@ add packages to the list.
 - [ggcube](https://github.com/matthewkling/ggcube) - Create layered 3D figures with ggplot2, including drag-to-rotate htmlwidgets with Shiny output bindings.
 - [muiCharts](https://github.com/lgnbhl/muiCharts) - MUI X Charts for Shiny apps and Quarto, a set of React chart components including bar, line, pie, scatter, gauge, radar, and sparkline charts.
 - [controlcharts](https://github.com/aus-doh-safety-and-quality/controlcharts) - Interactive funnel plots and statistical process control charts.
+- [ggsql-r](https://github.com/posit-dev/ggsql-r) - Grammar of graphics for SQL, with knitr and Shiny output bindings.
 
 ### Scatterplot
 
