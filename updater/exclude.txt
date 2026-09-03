@@ -1,8 +1,11 @@
+autoharp
 BioTooltipR
 bipl5
 bnviewer
+bookdown
 boxly
 checkdown
+clinDataReview
 comFuncs
 corrViz
 cppcheckR
@@ -24,10 +27,13 @@ ganttify
 geodrawr
 geovizr
 ggbond
+ggplotAssist
 ggvis
 glyph
+GoldenVizR
 highdir
 ibmsunburst
+isoexplorer
 ivolcano
 jquerylib
 jsmodule
