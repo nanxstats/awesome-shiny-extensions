@@ -11,6 +11,8 @@ To get the potential list of packages to consider, you can use the GitHub CLI co
 
 After confirming a package is a Shiny for Python extension, add it to the awesome list in @README.md in the appropriate Python section with a brief description based on the package description. Follow the formatting style of the existing entries in the awesome list. If you find a package that does not fit into any existing section, create a new section for it and add it there. Do not create new sections in the awesome list unless absolutely necessary. Fan out subagents to handle the tasks of checking the packages.
 
+NEVER install or run the awesome bot or awesome linter checks locally.
+
 `gh repo list` documentation:
 
 ````markdown
