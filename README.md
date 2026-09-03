@@ -631,6 +631,7 @@ add packages to the list.
 - [g6R](https://github.com/cynkra/g6R) - Graph visualization engine widget based on AntV G6 for R and Shiny.
 - [sgraph](https://gitlab.com/thomaschln/sgraph) - Network visualization for large igraph graphs with sigma.js v2.
 - [ndtv](https://github.com/statnet/ndtv) - Animated visualizations for dynamic network data.
+- [rgexf](https://github.com/gvegayon/rgexf) - Visualize GEXF files with sigma.js and gexf-js.
 
 ### Categorical Data
 
