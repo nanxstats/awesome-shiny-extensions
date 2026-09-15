@@ -175,6 +175,7 @@ add packages to the list.
 - [linne](https://github.com/JohnCoene/linne) - Write CSS in R.
 - [designer](https://github.com/ashbaldry/designer) - Shiny UI prototype builder allowing drag and drop UI components before saving the equivalent R code.
 - [gfonts](https://github.com/dreamRs/gfonts) - Offline Google Fonts for Markdown and Shiny.
+- [gdtools](https://github.com/davidgohel/gdtools) - Embed Google Fonts and Liberation fonts in Shiny apps.
 - [cascadess](https://github.com/nteetor/cascadess) - Style-pronoun utilities for applying CSS to htmltools and Shiny tags.
 - [corazon](https://github.com/feddelegrand7/corazon) - Apply colorffy gradients to Shiny elements.
 - [sass](https://github.com/rstudio/sass) - Compile Sass for dynamic style sheets.
@@ -326,6 +327,7 @@ add packages to the list.
 - [shiny.ollama](https://github.com/ineelhere/shiny.ollama) - Shiny interface for chatting with large language models offline using Ollama.
 - [querychat](https://github.com/posit-dev/querychat) - Filter and query data frames in Shiny using an LLM chat interface.
 - [LLMR.shiny](https://github.com/asanaei/LLMR.shiny) - Shiny modules for LLM-powered GUIs, including provider and model selection, API-key handling, session cost tracking, and error and report displays.
+- [commons](https://github.com/posit-dev/commons) - Build data analysis agents backed by trusted calculations and searchable context, with server components for custom Shiny chat apps.
 
 ### Table
 
@@ -420,6 +422,7 @@ add packages to the list.
 - [bsicons](https://github.com/rstudio/bsicons) - Bootstrap Icons helpers for Shiny, R Markdown, and htmltools.
 - [phosphoricons](https://github.com/dreamRs/phosphoricons) - Phosphor icon set for Shiny and R Markdown.
 - [lucidr](https://github.com/hyperverse-r/lucidr) - Lucide SVG icons for R.
+- [icons](https://github.com/mitchelloharawild/icons) - Download, customize, and insert SVG icons from popular libraries or local files into Shiny apps.
 
 ### Image Comparison
 
@@ -506,6 +509,7 @@ add packages to the list.
 - [bscui](https://github.com/patzaw/bscui) - Interactive SVG custom interfaces with Shiny bindings and proxy updates.
 - [svgPanZoom](https://github.com/timelyportfolio/svgPanZoom) - Add pan and zoom interactivity to SVG graphics as an htmlwidget.
 - [shinyReports](https://github.com/aes21/shinyReports) - Render R Markdown reports to HTML and open them in a new browser tab.
+- [linkagg](https://github.com/renit12345-ship-it/linkagg) - Link row-level selections to aggregate charts with proportional highlighting.
 
 ### Generative UI
 
@@ -704,6 +708,7 @@ add packages to the list.
 - [explodemap](https://github.com/PrigasG/explodemap) - Hierarchical exploded-view cartography with an interactive focus map widget for Shiny.
 - [webmap](https://code.usgs.gov/inl/webmap) - Interactive Leaflet web maps using The National Map services, with map controls and widgets.
 - [mapboxapi](https://github.com/walkerke/mapboxapi) - R interface to Mapbox web services APIs, with a Mapbox Geocoder input widget for Shiny plus tile layers for leaflet and tmap.
+- [geolibre](https://github.com/opengeos/geolibre-r) - GeoLibre GIS htmlwidget with spatial layers, choropleths, legends, split-map comparisons, and Shiny proxy controls.
 
 ### Sparkline
 
@@ -747,6 +752,7 @@ add packages to the list.
 - [shinybody](https://github.com/robert-norberg/shinybody) - Interactive anatomography widget for Shiny.
 - [jellyfisher](https://github.com/HautaniemiLab/jellyfisher) - Interactive jellyfish plots combining sample and phylogenetic trees to visualize spatiotemporal tumor evolution.
 - [Racmacs](https://github.com/acorg/Racmacs) - Make antigenic maps from immunological assay data.
+- [plotomics](https://github.com/samuelbharti/plotomics) - GPU-accelerated bioinformatics htmlwidgets for Shiny, including volcano plots, heatmaps, embeddings, and oncoprints.
 
 ### Chemical Data
 
@@ -884,6 +890,7 @@ add packages to the list.
 - [shinyStore](https://github.com/trestletech/shinyStore) - Use the Web Storage API to store persistent, synchronized data in the user's browser.
 - [shinyStorePlus](https://github.com/oobianom/shinyStorePlus) - In-browser storage for Shiny persistent, synchronized data from the inputs using IndexedDB.
 - [AutoDeskR](https://github.com/paulgovan/AutoDeskR) - Interface to Autodesk Platform Services APIs with Shiny viewers for 2D and 3D design models.
+- [gofigR](https://github.com/GoFigr/gofigR) - Shiny plot modules that publish figures to GoFigr.
 
 ### Notification Integration
 
