@@ -805,7 +805,7 @@ add packages to the list.
 
 - [teal.code](https://github.com/insightsengineering/teal.code) - Code storage and execution class for teal applications.
 - [teal.data](https://github.com/insightsengineering/teal.data) - Data model for teal applications.
-- [teal.logger](https://github.com/insightsengineering/teal.logger) - Logging setup for the teal family of packages.
+- [teal.logger](https://github.com/pharmaverse/teal.logger) - Logging setup for the teal family of packages.
 - [teal.modules.clinical](https://github.com/insightsengineering/teal.modules.clinical) - A set of teal modules for standard clinical outputs.
 - [teal.modules.general](https://github.com/insightsengineering/teal.modules.general) - General modules for teal applications.
 - [teal.picks](https://github.com/insightsengineering/teal.picks) - Dataset and variable picker and merge module for teal applications.
