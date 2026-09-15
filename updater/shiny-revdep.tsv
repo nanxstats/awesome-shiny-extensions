@@ -22,6 +22,7 @@ airGRteaching	Teaching Hydrological Modelling with the GR Rainfall-Runoff Models
 AIscreenR	AI Screening Tools in R for Systematic Reviewing
 akiFlagger	Flags Acute Kidney Injury (AKI)
 algo	Implement an Address Search Auto Completion Menu on 'Shiny' Text Inputs Using the 'Algolia Places' 'Javascript' Library
+AlleloBin	A Shiny Application for Allele Binning in Microsatellite Markers
 alphavantagepf	'Alphavantage Financial Data' API R Wrapper and Shiny Interface
 ALSBinary	'ALS-Binary': Allele Size to Binary Converter
 altair	Interface to 'Altair'
@@ -57,6 +58,7 @@ AssociationExplorer2	A User-Friendly 'shiny' Application for Exploring Associati
 AssumpSure	'shiny' Application for Statistical Test Assumption Checking and Guidance
 AtlasMaker	Make Multiple 'leaflet' Maps in 'Shiny'
 AtmChile	Download Air Quality and Meteorological Information of Chile
+AugmentedPooledRCBD	Augmented Pooled Randomized Complete Block Design Analysis
 aurora	Build Stateless Web Apps with 'plumber2'
 auth0	Authentication in Shiny with Auth0
 AutoDeskR	An Interface to the 'AutoDesk' 'API' Platform
@@ -65,6 +67,7 @@ autoimport	Automatic Generation of @importFrom Tags
 AutoPlots	Creating Echarts Visualizations as Easy as Possible
 autoshiny	Automatic Transformation of an 'R' Function into a 'shiny' App
 autoTS	Automatic Model Selection and Prediction for Univariate Time Series
+AutoViz	Automated Data Visualization and Exploratory Dashboarding
 avstrat	Stratigraphic Data Processing and Section Plots
 aweSOM	Interactive Self-Organizing Maps
 AzureAppInsights	Include Azure Application Insights in Shiny Apps
@@ -182,6 +185,7 @@ chores	A Collection of Large Language Model Assistants
 chromoMap	Interactive Genomic Visualization of Biological Data
 CICA	Clusterwise Independent Component Analysis
 cicerone	Provide Tours of 'Shiny' Applications
+ciftiTools	Tools for Reading, Writing, Viewing and Manipulating CIFTI Files
 circletyper	Curve Text Elements in 'Shiny' Using 'CircleType.js'
 cjoint	AMCE Estimator for Conjoint Experiments
 cleanrmd	Clean Class-Less 'R Markdown' HTML Documents
@@ -201,6 +205,7 @@ collapsibleTree	Interactive Collapsible Tree Diagrams using 'D3.js'
 colourpicker	A Colour Picker Tool for Shiny and for Selecting Colours in Plots
 ComBatFamQC	Comprehensive Batch Effect Diagnostics and Harmonization
 comFuncs	Commonly Used Functions for R Shiny Applications
+commons	AI Agents for Data Analysis
 compIndexBuilder	Composite Index Builder & Analytics 'shiny' App
 complexr	'Shiny' Interface for Complex Survey Data Analysis
 compstatslib	Interactive 2D and 3D Visualization of Data and Statistical Concepts
@@ -470,6 +475,7 @@ genTS	R Shiny App for Creating Simplified Trial Summary (TS) Domain
 geoarrowWidget	Attach '(Geo)Arrow' and/or '(Geo)Parquet' Data to a Widget
 geocmeans	Implementing Methods for Spatial Fuzzy Unsupervised Classification
 geodrawr	Making Geospatial Objects
+geolibre	Interactive GIS with 'GeoLibre'
 geospatialsuite	Comprehensive Geospatiotemporal Analysis and Multimodal Integration Toolkit
 geovizr	Interactive Cartography
 GeoWeightedModel	User-Friendly Interface for Geographically-Weighted Models
@@ -512,7 +518,6 @@ googletraffic	Google Traffic
 googleway	Accesses Google Maps APIs to Retrieve Data and Plot Maps
 gooseR	R Integration for 'Goose' AI
 gotop	Scroll Back to Top Icon in Shiny and R Markdown
-GPSeqClus	Sequential Clustering Algorithm for Location Data
 gptstudio	Use Large Language Models Directly in your Development Environment
 grapesAgri1	Collection of Shiny Apps for Agricultural Research Data Analysis
 graph3d	A Wrapper of the JavaScript Library 'vis-graph3d'
@@ -575,6 +580,7 @@ iCellR	Analyzing High-Throughput Single Cell Sequencing Data
 icertool	Calculate and Plot ICER
 IceSat2R	'ICESat-2' Altimeter Data using R
 ichimoku	Visualization and Tools for Ichimoku Kinko Hyo Strategies
+icons	Easily Insert SVG Icons into R Outputs
 idcnrba	Interactive Application for Analyzing Representativeness and Nonresponse Bias
 IDEAFilter	Agnostic, Idiomatic Data Filter Module for Shiny
 idealstan	Robust Measurement with 'Stan'
@@ -673,6 +679,7 @@ linevis	Interactive Time Series Visualizations
 lingglosses	Interlinear Glossed Linguistic Examples and Abbreviation Lists Generation
 linguisticsdown	Easy Linguistics Document Writing with R Markdown
 link	Hyperlink Automatic Detection
+linkagg	Linked Selection Across Aggregate Views
 linkeR	Link Interactive Plots and Tables in 'shiny' Applications
 linkspotter	Bivariate Correlations Calculation and Visualization
 linne	Convenient 'CSS'
@@ -684,6 +691,7 @@ LLMTranslate	'shiny' App for TRAPD/ISPOR Survey Translation with LLMs
 LMD	A Self-Adaptive Approach for Demodulating Multi-Component Signal
 lmviz	A Package to Visualize Linear Models Features and Play with Them
 loadeR	Load Data for Analysis System
+locuszoomr	Gene Locus Plot with Gene Annotations
 login	'shiny' Login Module
 logrxaddin	Addin for the 'logrx' Package
 lorem	Generate Lorem Ipsum Text
@@ -781,7 +789,6 @@ mycaas	My Computerized Adaptive Assessment
 myIO	Interactive Data Visualizations Using 'd3.js'
 myownrobs	AI Coding Agent for 'RStudio'
 NACHO	NanoString Quality Control Dashboard
-namedropR	Create Visual Citations for Presentations and Posters
 nbc4va	Bayes Classifier for Verbal Autopsy Data
 NBShiny	Interactive Document for Working with Naive Bayes Classification
 NBShiny2	Interactive Document for Working with Naive Bayes Classification
@@ -801,6 +808,7 @@ networkD3	D3 JavaScript Network Graphs from R
 nextGenShinyApps	Craft Exceptional 'R Shiny' Applications and Dashboards with Novel Responsive Tools
 NGCHM	Next Generation Clustered Heat Maps
 NGLVieweR	Interactive 3D Visualization of Molecular Structures
+NGSToolKit	RNA-Seq Analysis and Genome Visualization 'Shiny' Platform
 NiLeDAM	Monazite Dating for the NiLeDAM Team
 nivo.bubblechart	Interactive Bubble Charts for 'Shiny' Using 'Nivo'
 nocturn	Sleep Data Filtering and Visualisation
@@ -885,6 +893,7 @@ PKbioanalysis	Pharmacokinetic Bioanalysis Experiments Design and Exploration
 PKconverter	The Parameter Converter of the Pharmacokinetic Models
 plainview	Plot Raster Images Interactively on a Plain HTML Canvas
 plotly	Create Interactive Web Graphics via 'plotly.js'
+plotomics	High-Performance Bioinformatics Visualizations
 plotROC	Generate Useful ROC Curve Charts for Print and Interactive Use
 plotscaper	Explore Your Data with Interactive Figures
 plumbertableau	Turn 'Plumber' APIs into 'Tableau' Extensions
@@ -908,6 +917,7 @@ predhy.GUI	Genomic Prediction of Hybrid Performance with Graphical User Interfac
 predictoR	Predictive Data Analysis System
 PREPShiny	Interactive Document for Preprocessing the Dataset
 presize	Precision Based Sample Size Calculation
+pressfreedom	Press Freedom Dashboard
 priorityelasticnet	Comprehensive Analysis of Multi-Omics Data Using an Offset-Based Method
 PRISMA2020	Make Interactive 'PRISMA' Flow Diagrams
 processmapR	Construct Process Maps Using Event Data
@@ -927,6 +937,7 @@ qbrms	Quick Bayesian Regression Models Using 'INLA' with 'brms' Syntax
 qgam	Smooth Additive Quantile Regression Models
 qgshiny	A 'shiny' Application for Active Learning Instruction in Introductory Quantitative Genetics
 qlcData	Processing Data for Quantitative Language Comparison
+qpost	Create a 'Quarto' Blog Post
 qPRAentry	Quantitative Pest Risk Assessment at the Entry Step
 qqvases	Animated Normal Quantile-Quantile Plots
 QRAGadget	A 'Shiny' Gadget for Interactive 'QRA' Visualizations
@@ -1045,6 +1056,7 @@ rtabulator	R Bindings for 'Tabulator JS'
 rtemis	Machine Learning and Visualization
 ruminate	A Pharmacometrics Data Transformation and Analysis Tool
 rusk	Beautiful Graphical Representation of Multiplication Tables on a Modular Circle
+rvisual	Visual Data Analysis 'RStudio' 'Addin' with AI Copilot
 sae4health	Small Area Estimation for Key Health and Demographic Indicators from Household Surveys
 SampleSizeCalculator	Sample Size Calculator under Complex Survey Design
 samplex	Shiny Tool for Sample Size Calculation
@@ -1136,6 +1148,7 @@ shinyFiles	A Server-Side File System Viewer for Shiny
 shinyfilter	Use Interdependent Filters on Table Columns in Shiny Apps
 shinyfilters	Create 'shiny' Inputs from Vectors, 'data.frames', or any R Object
 shinyfullscreen	Display 'HTML' Elements on Full Screen in 'Shiny' Apps
+shinygenui	Generative UI for 'shiny'
 shinyGizmo	Custom Components for Shiny Applications
 shinyglass	Liquid Glass Design Themes for 'shiny' Applications
 shinyglide	Glide Component for Shiny Applications
@@ -1223,6 +1236,7 @@ slideview	Compare Raster Images Side by Side with a Slider
 smvgraph	Various Multivariate Graphics with Variable Choice in Shiny Apps
 snahelper	'RStudio' Addin for Network Analysis and Visualization
 snotelr	Calculate and Visualize 'SNOTEL' Snow Data and Seasonality
+soc.ca	Specific Correspondence Analysis for the Social Sciences
 soilphysics	Soil Physical Analysis
 SOMbrero	SOM Bound to Realize Euclidean and Relational Outputs
 SOMEnv	SOM Algorithm for the Analysis of Multivariate Environmental Data
@@ -1276,7 +1290,9 @@ svgPanZoom	R 'Htmlwidget' to Add Pan and Zoom to Almost any R Graphic
 swipeR	Carousels using the 'JavaScript' Library 'Swiper'
 swirlify	A Toolbox for Writing 'swirl' Courses
 symbol.equation.gpt	Simple User Interface to Build Equations and Add Symbols
+sync3d	Synchronized 3D Vector and Marker Animations in 'Plotly'
 syncons	Efficient and Low-Cost Construction of Synthetic Communities
+syrona	Stratified Prevalence Comparison Across OMOP CDM Datasets
 T2Qv	Control Qualitative Variables
 table1	Tables of Descriptive Statistics in HTML
 tableHTML	A Tool to Create HTML Tables
@@ -1403,6 +1419,7 @@ vvdoctor	Statistical Test App with R 'shiny'
 VWPre	Tools for Preprocessing Visual World Data
 waiter	Loading Screen for 'Shiny'
 wallace	A Modular Platform for Reproducible Modeling of Species Niches and Distributions
+webexercises	Create Interactive Web Exercises
 webmap	Create Interactive Web Maps Using 'The National Map' Services
 widgetframe	'Htmlwidgets' in Responsive 'iframes'
 wilson	Web-Based Interactive Omics Visualization

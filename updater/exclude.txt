@@ -5,6 +5,7 @@ bnviewer
 bookdown
 boxly
 checkdown
+cleanrmd
 clinDataReview
 comFuncs
 corrViz
@@ -43,6 +44,7 @@ LifemapR
 lorem
 mantis
 MapperAlgo
+metalite.table1
 mindr
 mmints
 neo4r
