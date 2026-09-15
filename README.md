@@ -708,7 +708,7 @@ add packages to the list.
 - [explodemap](https://github.com/PrigasG/explodemap) - Hierarchical exploded-view cartography with an interactive focus map widget for Shiny.
 - [webmap](https://code.usgs.gov/inl/webmap) - Interactive Leaflet web maps using The National Map services, with map controls and widgets.
 - [mapboxapi](https://github.com/walkerke/mapboxapi) - R interface to Mapbox web services APIs, with a Mapbox Geocoder input widget for Shiny plus tile layers for leaflet and tmap.
-- [geolibre](https://github.com/opengeos/geolibre-r) - GeoLibre GIS htmlwidget with spatial layers, choropleths, legends, split-map comparisons, and Shiny proxy controls.
+- [geolibre-r](https://github.com/opengeos/geolibre-r) - GeoLibre GIS htmlwidget with spatial layers, choropleths, legends, split-map comparisons, and Shiny proxy controls.
 
 ### Sparkline
 
