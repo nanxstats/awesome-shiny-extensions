@@ -840,6 +840,7 @@ add packages to the list.
 
 - [pins](https://github.com/rstudio/pins-r) - Publish data sets, models, and other R objects to folders, Posit Connect, Amazon S3, and more.
 - [shinystate](https://github.com/rpodcast/shinystate) - Customize Shiny's bookmarkable state with configurable storage locations via the pins package.
+- [shinysnap](https://github.com/nanxstats/shinysnap) - Save and restore the state of Shiny apps as JSON snapshots without page reloads or bookmarking.
 
 ### API Frameworks
 
