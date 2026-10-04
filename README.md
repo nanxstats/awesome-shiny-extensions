@@ -161,6 +161,7 @@ add packages to the list.
 - [shidashi](https://github.com/dipterix/shidashi) - A Shiny dashboard template system using AdminLTE 3 template.
 - [bs4Dashkit](https://github.com/PrigasG/bs4Dashkit) - Branding, theme application, and navigation utilities for bs4Dash dashboards.
 - [flexdashboard](https://github.com/rstudio/flexdashboard) - R Markdown format for flexible dashboards.
+- [bslibdash](https://github.com/Novartis/bslibdash) - Bootstrap 5 dashboard components built on bslib, with sidebar navigation, cards, value boxes, and header menus.
 
 ### Mobile Theming
 
@@ -223,6 +224,7 @@ add packages to the list.
 - [shinySelect](https://github.com/stla/shinySelect) - A wrapper of the react-select library that supports grouped, sortable items with Font Awesome icons, KaTeX formulas, and Bootstrap tooltips.
 - [regexSelect](https://github.com/yonicd/regexSelect) - Enable regular expression searches within a Shiny selectize object.
 - [cascadeSelect](https://github.com/stla/cascadeSelect) - Cascade select widget for Shiny, useful for selection of hierarchical choices.
+- [shinyHierarchy](https://github.com/luisr353/shinyHierarchy) - Hierarchical selection input for Shiny with search, tri-state checkboxes, and cascading selection.
 - [reactCheckbox](https://github.com/stla/reactCheckbox) - Checkbox group input for Shiny, with a head checkbox allowing to check or uncheck all the checkboxes in the group.
 - [ShinyRatingInput](https://github.com/stefanwilhelm/ShinyRatingInput) - Star rating inputs for Shiny based on bootstrap-rating.
 - [algo](https://github.com/feddelegrand7/algo) - Implements the Algolia Places address search auto completion menu on shiny text inputs.
@@ -477,6 +479,7 @@ add packages to the list.
 - [reactR](https://github.com/react-R/reactR) - Use React in R with htmlwidget constructor templates and local JavaScript dependencies.
 - [shinyReactWidgets](https://github.com/pvictor/shinyReactWidgets) - React widgets for Shiny apps.
 - [shiny.react](https://github.com/Appsilon/shiny.react) - Tools for using React in Shiny.
+- [shinyreact](https://github.com/posit-dev/shinyreact) - Build Shiny apps with React frontends, reactive data outputs, and custom messages from R.
 - [reactRouter](https://github.com/lgnbhl/reactRouter) - React Router for Shiny apps and Quarto.
 
 ### Vue.js
@@ -651,6 +654,7 @@ add packages to the list.
 - [amVennDiagram5](https://github.com/stla/amVennDiagram5) - Interactive amCharts 5 Venn diagrams for Shiny and R Markdown.
 - [bpmnVisualizationR](https://github.com/process-analytics/bpmn-visualization-R) - BPMN diagram htmlwidget with overlays, styling, and interactions.
 - [sankeywheel](https://github.com/lqqa/sankeywheel) - Highcharts-based Sankey diagrams and dependency wheels for Shiny and R Markdown.
+- [dplyneage](https://github.com/tgerke/dplyneage) - Interactive column lineage diagrams for dplyr and dbplyr pipelines using React Flow.
 
 ### Heatmap
 
@@ -770,6 +774,7 @@ add packages to the list.
 - [thorn](https://github.com/stla/thorn) - WebGL shader htmlwidgets that can be used as Shiny app backgrounds.
 - [cubeview](https://github.com/r-spatial/cubeview) - Interactive 3D raster cube viewer.
 - [imuf](https://github.com/gitboosting/imuf) - Three.js htmlwidgets animating the 3D orientation of an inertial measurement unit, with Shiny output bindings and a proxy for streaming updates.
+- [ivue](https://github.com/pgajer/ivue) - Interactive 3D point clouds and weighted graphs with color scales, legends, and animations, built on rgl.
 
 ### Augmented and Virtual Reality
 
