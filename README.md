@@ -220,6 +220,7 @@ add packages to the list.
 - [DateTimeRangePicker](https://github.com/stla/DateTimeRangePicker) - A datetime range picker widget for Shiny.
 - [VanillaCalendar](https://github.com/ESCRI11/vanilla-calendar-r) - Customizable date picker widget with theming and server-side updates.
 - [shinyMatrix](https://github.com/INWTlab/shinyMatrix) - Matrix input for Shiny.
+- [shinyMat](https://github.com/yihui/shinyMat) - Lightweight editable matrix input for Shiny with a dependency-free JavaScript binding.
 - [shinyCleave](https://github.com/carlganz/shinyCleave) - Customized text inputs (phone number, ZIP code, currency, credit card) based on Cleave.js.
 - [shinySelect](https://github.com/stla/shinySelect) - A wrapper of the react-select library that supports grouped, sortable items with Font Awesome icons, KaTeX formulas, and Bootstrap tooltips.
 - [regexSelect](https://github.com/yonicd/regexSelect) - Enable regular expression searches within a Shiny selectize object.
