@@ -272,6 +272,7 @@ add packages to the list.
 - [shiny-fcp-loader](https://github.com/nanxstats/shiny-fcp-loader) - Shiny app template with a loading screen that aims to minimize the time to First Contentful Paint (FCP).
 - [shiny-loading-skeleton](https://github.com/nanxstats/shiny-loading-skeleton) - Shiny app template with an animated, fully customizable skeleton loader.
 - [standby](https://github.com/rsquaredacademy/standby) - Alerts, notifications, and loading screens for Shiny.
+- [bones](https://github.com/tenmeh/bones) - Skeleton placeholders in the shape of the content for Shiny outputs, in place of a spinner.
 
 ### Feedback / Alert / Notification
 
