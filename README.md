@@ -791,7 +791,7 @@ add packages to the list.
 
 - [Rhino](https://github.com/Appsilon/rhino) - Build high quality, enterprise-grade Shiny apps at speed.
 - [golem](https://github.com/ThinkR-open/golem) - Opinionated framework for building production-grade Shiny apps.
-- [teal](https://github.com/insightsengineering/teal) - Interactive exploration framework for analyzing clinical trials data, provides a dynamic filtering facility and different data viewers.
+- [teal](https://github.com/pharmaverse/teal) - Interactive exploration framework for analyzing clinical trials data, provides a dynamic filtering facility and different data viewers.
 - [yonder](https://github.com/nteetor/yonder) - A reactive web framework built on Shiny with Bootstrap 4.
 - [aurora](https://github.com/aurora-govpe/aurora-rpkg) - Build stateless web apps in R with plumber2 and bslib.
 - [irid](https://github.com/khusmann/irid) - Component-based reactive UI framework for Shiny with fine-grained DOM updates that avoid full re-rendering and update callbacks.
@@ -810,16 +810,16 @@ add packages to the list.
 
 ### Framework extensions
 
-- [teal.code](https://github.com/insightsengineering/teal.code) - Code storage and execution class for teal applications.
-- [teal.data](https://github.com/insightsengineering/teal.data) - Data model for teal applications.
+- [teal.code](https://github.com/pharmaverse/teal.code) - Code storage and execution class for teal applications.
+- [teal.data](https://github.com/pharmaverse/teal.data) - Data model for teal applications.
 - [teal.logger](https://github.com/pharmaverse/teal.logger) - Logging setup for the teal family of packages.
 - [teal.modules.clinical](https://github.com/insightsengineering/teal.modules.clinical) - A set of teal modules for standard clinical outputs.
 - [teal.modules.general](https://github.com/insightsengineering/teal.modules.general) - General modules for teal applications.
-- [teal.picks](https://github.com/insightsengineering/teal.picks) - Dataset and variable picker and merge module for teal applications.
-- [teal.reporter](https://github.com/insightsengineering/teal.reporter) - Reporting tools for Shiny modules.
-- [teal.slice](https://github.com/insightsengineering/teal.slice) - Filter module for teal applications.
-- [teal.transform](https://github.com/insightsengineering/teal.transform) - Functions and Shiny modules for extracting and merging data within the teal framework.
-- [teal.widgets](https://github.com/insightsengineering/teal.widgets) - Shiny widgets for teal applications.
+- [teal.picks](https://github.com/pharmaverse/teal.picks) - Dataset and variable picker and merge module for teal applications.
+- [teal.reporter](https://github.com/pharmaverse/teal.reporter) - Reporting tools for Shiny modules.
+- [teal.slice](https://github.com/pharmaverse/teal.slice) - Filter module for teal applications.
+- [teal.transform](https://github.com/pharmaverse/teal.transform) - Functions and Shiny modules for extracting and merging data within the teal framework.
+- [teal.widgets](https://github.com/pharmaverse/teal.widgets) - Shiny widgets for teal applications.
 - [uteals](https://github.com/phuse-org/uteals) - Shared decorators, transformators, and utility functions that extend teal modules.
 - [blockr.dag](https://github.com/BristolMyersSquibb/blockr.dag) - A directed acyclic graph extension for blockr.
 - [blockr.dock](https://github.com/BristolMyersSquibb/blockr.dock) - A docking layout manager for blockr.
