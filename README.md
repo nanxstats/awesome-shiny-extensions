@@ -208,7 +208,7 @@ add packages to the list.
 
 ### File Input
 
-- [shinyFiles](https://github.com/thomasp85/shinyFiles) - A server-side file system viewer for Shiny.
+- [shinyFiles](https://github.com/shinyFiles/shinyFiles) - A server-side file system viewer for Shiny.
 - [directoryInput](https://github.com/wleepang/shiny-directory-input) - Shiny input widget for selecting directories.
 - [datamods](https://github.com/dreamRs/datamods) - Shiny modules to import and manipulate data from various sources.
 - [shinydrive](https://github.com/datastorm-open/shinydrive) - Shiny module for file sharing between users with admin and user roles.
