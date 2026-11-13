@@ -284,6 +284,7 @@ add packages to the list.
 - [shinyvalidate](https://github.com/rstudio/shinyvalidate) - Add input validation capabilities to Shiny.
 - [awn](https://github.com/JohnCoene/awn) - Awesome Notifications for Shiny.
 - [micromodal](https://github.com/kennedymwavu/micromodal) - Simple modal dialogs for Shiny based on Micromodal.js.
+- [mascot](https://github.com/insightsurge/mascot) - Live, mood-driven characters that show your app's state, with status text beside each mood, for Shiny apps and Quarto pages.
 
 ### Walkthrough / Tooltip / Help
 
